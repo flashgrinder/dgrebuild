@@ -122,6 +122,12 @@ img {
   background-color: var(--color-dark);
 }
 
+/* Block-padding */
+
+.block-padding {
+  padding: 70px 0;
+}
+
 /* Links */
 
 .link {
@@ -611,6 +617,15 @@ img {
   top: 0;
   -webkit-animation: rotate-burger-after 0.2s linear 0.2s forwards;
           animation: rotate-burger-after 0.2s linear 0.2s forwards;
+}
+
+/* Main-screen */
+
+.main-screen {
+  background: url("../img/main-screen-bg.png") no-repeat;
+  background-size: 100%;
+  background-position: 50% 0;
+  background-color: var(--color-blue);
 }
 
 /* MEDIA QUERIES */
