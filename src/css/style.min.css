@@ -287,66 +287,34 @@ img {
   color: var(--color-orange);
 }
 
-.text--big {
-  font-size: calc(20px + 10 * ((100vw - 320px) / 1120));
-}
-
-@media screen and (min-width: 1440px) {
-
-  .text--big {
-    font-size: 30px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-
-  .text--big {
-    font-size: 20px;
-  }
-}
-
 .text--large {
-  font-size: calc(14px + 8 * ((100vw - 320px) / 1120));
+  font-size: calc(18px + 4 * ((100vw - 360px) / 840));
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1200px) {
 
   .text--large {
     font-size: 22px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
 
   .text--large {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 
 .text--normal {
-  font-size: calc(12px + 4 * ((100vw - 1024px) / 416));
-}
-
-@media screen and (min-width: 1440px) {
-
-  .text--normal {
-    font-size: 16px;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-
-  .text--normal {
-    font-size: 12px;
-  }
+  font-size: 16px;
 }
 
 .text--small {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .text--tiny {
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .text--w-light {
@@ -626,6 +594,21 @@ img {
   background-size: 100%;
   background-position: 50% 0;
   background-color: var(--color-blue);
+}
+
+/* Register */
+
+.register {
+  background: url("../img/register_bg.png") no-repeat center;
+  background-size: cover;
+}
+
+.register__descr {
+  margin-top: 25px;
+}
+
+.register__action {
+  margin-top: 45px;
 }
 
 /* MEDIA QUERIES */

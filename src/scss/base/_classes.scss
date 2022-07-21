@@ -142,23 +142,18 @@
     &--orange {
 		color: var(--color-orange); 
 	}
-	&--big {
-        font-size: responsive 20px 30px;
-        font-range: 320px 1440px;
-	}
 	&--large {
-        font-size: responsive 14px 22px;
-        font-range: 320px 1440px;
+        font-size: responsive 18px 22px;
+        font-range: 360px 1200px;
 	}
 	&--normal {
-        font-size: responsive 12px 16px;
-        font-range: 1024px 1440px;
+        font-size: 16px;
 	}
 	&--small {
-		font-size: 12px;
+		font-size: 14px;
 	}
 	&--tiny {
-		font-size: 10px;
+		font-size: 12px;
 	}
 	&--w-light {
 		font-weight: 300;
