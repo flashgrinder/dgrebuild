@@ -14,10 +14,6 @@
     display: none !important;
 }
 
-.hide-medium {
-	@include medium(display, none !important);
-}
-
 .hide-tablet {
 	@include tablet(display, none !important);
 }
@@ -59,26 +55,30 @@
 }
 
 .link:hover {
-    color: var(--color-orange);
+    color: var(--color-dark);
 }
 
 /* Title */
 
 .title {
-    font-family: var(--font-gotham);
+    font-family: var(--font-proxima-nova);
     font-style: normal;
     margin: 0;
     &--big {
-        font-size: responsive 16px 45px;
-        font-range: 320px 1440px;
+        font-size: responsive 32px 54px;
+        font-range: 360px 1200px;
     }
     &--large {
-        font-size: responsive 20px 26px;
-        font-range: 1024px 1440px;
+        font-size: responsive 28px 32px;
+        font-range: 360px 1200px;
     }
     &--medium {
-        font-size: responsive 18px 22px;
-        font-range: 1024px 1440px;
+        font-size: responsive 22px 28px;
+        font-range: 360px 1200px;
+    }
+    &--pre-medium {
+        font-size: responsive 20px 22px;
+        font-range: 360px 1200px;
     }
     &--small {
         font-size: 16px;
@@ -86,23 +86,23 @@
     &--tiny {
         font-size: 12px;
     }
-    &--orange {
-        color: var(--color-orange);
-    }
     &--white {
         color: var(--color-white);
 	}
-    &--black-gray {
-		color: var(--color-black-gray); 
+    &--dark {
+		color: var(--color-dark); 
+	}
+    &--orange {
+		color: var(--color-orange); 
 	}
 	&--w-light {
 		font-weight: 300;
     }
-    &--w-normal {
-		font-weight: 400;
+    &--w-regular {
+		font-weight: normal;
 	}
-    &--w-medium {
-		font-weight: 500;
+    &--w-semibold {
+		font-weight: 600;
 	}
 	&--w-bold {
 		font-weight: bold;
@@ -124,17 +124,17 @@
 /* Text */
 
 .text {
-    font-family: var(--font-roboto);
+    font-family: var(--font-proxima-nova);
     font-style: normal;
     margin: 0;
 	&--black-gray {
-		color: var(--color-black-gray); 
-	}
-	&--orange {
-		color: var(--color-orange);
+		color: var(--color-dark); 
 	}
 	&--white {
 		color: var(--color-white);
+	}
+    &--orange {
+		color: var(--color-orange); 
 	}
 	&--big {
         font-size: responsive 20px 30px;
@@ -160,17 +160,14 @@
 	&--w-regular {
 		font-weight: normal;
 	}
-	&--w-medium {
-		font-weight: 500;
+	&--w-semibold {
+		font-weight: 600;
 	}
 	&--w-bold {
-		font-weight: 700;
+		font-weight: bold;
     }
 	&--w-black {
 		font-weight: 900;
-    }
-    &--italic {
-        font-style: italic;
     }
     &--uppercase {
 		text-transform: uppercase;
