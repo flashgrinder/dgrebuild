@@ -1,0 +1,64 @@
+.button {
+    font-family: var(--font-proxima-nova);
+    font-weight: 600;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    line-height: 16px;
+    border-radius: 3px;
+    padding: 12px 2.8rem;
+    z-index: 10;
+    box-shadow: 10px 10px 25px -10px rgba(0, 0, 0, 0.15);
+    outline: var(--color-blue);
+    transition: background .250s ease-in-out, color .250s ease-in-out;
+    overflow: hidden;
+}
+
+/* Button primary */
+.button--primary {
+    color: var(--color-white);
+    background: var(--color-blue);
+}
+
+
+.button--primary:hover,
+.button--primary:focus,
+.button--primary:target {
+    color: var(--color-orange);
+    background: var(--color-white);
+}
+
+.button--primary:active {
+    color: var(--color-orange);
+    background: var(--color-white);
+}
+
+.button--primary:disabled {
+    opacity: .45;
+}
+
+/* Button secondary */
+.button--secondary {
+    color: var(--color-white);
+    background: var(--color-blue);
+}
+
+.button--secondary:hover,
+.button--secondary:focus,
+.button--secondary:target {
+    color: var(--color-white);
+    background: var(--color-orange);
+}
+
+.button--secondary:active {
+    color: var(--color-orange);
+    background: var(--color-white);
+}
+
+.button--secondary:disabled {
+    opacity: .45;
+}

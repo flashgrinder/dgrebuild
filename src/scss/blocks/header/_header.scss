@@ -1,0 +1,97 @@
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    background: var(--color-orange);
+    @include tablet-block {
+        position: fixed;
+        z-index: 100;
+    }
+}
+
+.header__body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    @include tablet-block {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+.header__inner {
+    display: flex;
+    align-items: center;
+}
+
+.header__logos {
+    display: flex;
+    align-items: center;
+}
+
+.header__logo--dis {
+    padding-right: 16px;
+    border-right: 1px solid rgba(255,255,255,.51);
+    max-width: 70px;
+}
+
+.header__logo--informatica {
+    margin-left: 12px;
+    max-width: 210px;
+}
+
+.header__action {
+    display: inline-flex;
+    margin-left: 20px;
+    @include tablet-block {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+}
+
+.header__inner {
+    @include tablet-block {
+        position: absolute;
+        top: 100%;
+        height: calc(100vh - 0px);
+        left: 0;
+        margin-top: 0;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(50px);
+        width: 100%;
+        z-index: 101;
+        opacity: 0;
+        visibility: hidden;
+        transition: .3s ease-in-out;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+.header__menu.menu {
+    @include tablet-block {
+        font-size: 20px;
+        font-weight: 500;
+    }
+}
+
+.header__menu-item {
+    @include tablet(opacity, 0);
+}
+
+.header__menu-list {
+    @include tablet-block {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.header__menu-item.menu__item ~ .header__menu-item.menu__item {
+    @include tablet-block {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+}
