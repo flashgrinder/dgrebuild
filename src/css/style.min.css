@@ -802,8 +802,12 @@ img {
   background: var(--color-black);
 }
 
+.footer__body {
+  position: relative;
+}
+
 .footer__inner {
-  padding: 70px 0;
+  padding: 70px 0 100px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   grid-gap: 50px;
@@ -841,6 +845,12 @@ img {
 .footer__logo {
   display: inline-block;
   margin-top: 30px;
+}
+
+.footer__decor {
+  position: absolute;
+  right: 45%;
+  bottom: 20px;
 }
 
 .footer__bottom {
@@ -985,5 +995,9 @@ img {
   .container-full {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .footer__decor {
+    right: 25%;
   }
 }
