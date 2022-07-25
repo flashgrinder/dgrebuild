@@ -50,6 +50,7 @@
 :root {
   --color-white: #FFFFFF;
   --color-dark: #343a40;
+  --color-dark-blue: #192533;
   --color-orange: #ff5001;
   --color-blue: #00add7;
   --font-proxima-nova: "Proxima Nova", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -609,6 +610,22 @@ img {
 
 .register__action {
   margin-top: 45px;
+}
+
+/* Footer */
+
+.footer {
+  background: url("../img/footer_bg.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.footer__inner {
+  padding: 70px 0;
+}
+
+.footer__bottom {
+  padding: 12px 0;
+  background: var(--color-dark-blue);
 }
 
 /* MEDIA QUERIES */
