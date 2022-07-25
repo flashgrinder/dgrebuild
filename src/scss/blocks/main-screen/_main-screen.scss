@@ -1,6 +1,83 @@
 .main-screen {
-    background: url('../img/main-screen-bg.png') no-repeat;
+    position: relative;
+    background: url('../img/main-screen/main-screen-bg.png') no-repeat;
     background-size: 100%;
     background-position: 50% 0;
-    background-color: var(--color-blue);
+    padding: 200px 0;
+}
+
+.main-screen::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, #000000 0%, #004050 100%);
+    z-index: -1;
+}
+
+.main-screen__actions{
+    margin-top: 50px;
+}
+
+.main-screen__solution {
+    position: relative;
+    margin-top: 150px;
+}
+
+.main-screen__heading-solutions {
+    position: relative;
+    display: inline-block;
+}
+
+.main-screen__solution::after {
+    content: '';
+    position: absolute;
+    right: -940%;
+    width: 1000%;
+    top: 20px;
+    opacity: 0.3;
+    border: 1px solid #FFFFFF;
+    @include tablet-block {
+        right: auto;
+        top: -20px;
+    }
+}
+
+.main-screen__leaders {
+    position: relative;
+    padding: 80px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    @include mobile-block {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+}
+
+.main-screen__solution::before {
+    content: '';
+    position: absolute;
+    right: 0;
+    width: 1000%;
+    bottom: 0;
+    opacity: 0.3;
+    border: 1px solid #FFFFFF;
+}
+
+.main-screen__item-leaders {
+    max-height: 32px;
+}
+
+.main-screen__item-leaders ~ .main-screen__item-leaders {
+    margin-left: 20px;
+    @include mobile-block {
+        margin: 20px;
+    }
+}
+
+.main-screen__logo {
+    display: block;
 }
