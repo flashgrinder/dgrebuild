@@ -98,8 +98,8 @@
     &--dark {
 		color: var(--color-dark); 
 	}
-    &--orange {
-		color: var(--color-orange); 
+    &--blue {
+		color: var(--color-blue); 
 	}
 	&--w-light {
 		font-weight: 300;
@@ -131,14 +131,14 @@
     font-family: var(--font-proxima-nova);
     font-style: normal;
     margin: 0;
-	&--black-gray {
+	&--dark {
 		color: var(--color-dark); 
 	}
 	&--white {
 		color: var(--color-white);
 	}
-    &--orange {
-		color: var(--color-orange); 
+    &--blue {
+		color: var(--color-blue); 
 	}
 	&--large {
         font-size: responsive 18px 22px;
