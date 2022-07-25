@@ -1198,6 +1198,10 @@ img {
     display: none !important;
   }
 
+  .block-padding {
+    padding: 100px 0;
+  }
+
   .main-screen__leaders {
     flex-wrap: wrap;
     justify-content: space-around;
