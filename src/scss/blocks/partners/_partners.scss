@@ -1,0 +1,24 @@
+.partners__outer {
+    overflow: hidden;
+}
+
+.partners__items {
+    display: flex;
+    align-items: center;
+}
+
+.partners__items.swiper-wrapper {
+    transition-timing-function: linear;
+}
+
+.partners__item {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 100px;
+}
+
+.partners__logo {
+    display: block;
+    max-height: 80px;
+}
