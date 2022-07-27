@@ -1300,6 +1300,16 @@ img {
     top: -20px;
   }
 
+  .register__decor {
+    top: auto;
+    bottom: -75px;
+    opacity: 0.2;
+  }
+
+  .register__decor-svg {
+    max-width: 550px;
+  }
+
   .team__items {
     grid-template-columns: repeat(1, minmax(0, 1fr));
     grid-gap: 30px;
@@ -1388,6 +1398,14 @@ img {
   .container-full {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .register__decor {
+    bottom: -145px;
+  }
+
+  .register__decor-svg {
+    max-width: 360px;
   }
 
   .team-card {
