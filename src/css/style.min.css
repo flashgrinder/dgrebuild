@@ -836,6 +836,11 @@ img {
 
 .about__decor {
   position: absolute;
+  pointer-events: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  z-index: -1;
 }
 
 .about__decor--top {
@@ -1335,6 +1340,19 @@ img {
 
   .main-screen__item-leaders ~ .main-screen__item-leaders {
     margin: 20px;
+  }
+
+  .about__decor--top {
+    top: 40px;
+    left: 50%;
+  }
+
+  .about__decor--bottom {
+    left: 40%;
+  }
+
+  .about__decor--bottom .about__decor-svg {
+    max-width: 170px;
   }
 
   .about__row {
