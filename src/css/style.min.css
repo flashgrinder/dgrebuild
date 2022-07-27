@@ -1318,7 +1318,7 @@ img {
 
   .team__items {
     grid-template-columns: repeat(1, minmax(0, 1fr));
-    grid-gap: 30px;
+    grid-gap: 50px;
   }
 }
 
