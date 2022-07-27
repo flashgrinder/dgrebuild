@@ -6,8 +6,9 @@ function init() {
 
     const partnersSlider = new Swiper(".partners__item--slider", {
         loop: true,
+        autoHeight: true,
         slidesPerView: 5,
-        spaceBetween: 100,
+        spaceBetween: 20,
         effect: 'slide',
         speed: 10000,
         autoplay: {
@@ -16,12 +17,10 @@ function init() {
         },
         breakpoints: {
             320: {
-              slidesPerView: 3,
-              spaceBetween: 50
+              slidesPerView: 2,
             },
             768: {
               slidesPerView: 4,
-              spaceBetween: 50
             },
             1280: {
               slidesPerView: 5,
