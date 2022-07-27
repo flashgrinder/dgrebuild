@@ -1,5 +1,6 @@
 import gsap from 'gsap';
 import modalsForm from '../libs/modules/modals-form.js';
+import burgerMenu from '../libs/modules/burger-menu.js';
 import partnersSlider from '../libs/modules/partners-slider.js';
 document.addEventListener('DOMContentLoaded', function(e) {
 
@@ -8,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function(e) {
     });
 
     modalsForm.init();
+    burgerMenu.init();
     partnersSlider.init();
     
 });

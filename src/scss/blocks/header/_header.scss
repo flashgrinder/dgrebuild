@@ -3,10 +3,11 @@
     width: 100%;
     z-index: 10;
     background: transparent;
-    // @include tablet-block {
-    //     position: fixed;
-    //     z-index: 100;
-    // }
+    @include tablet-block {
+        // position: fixed;
+        z-index: 100;
+        background: rgba(0, 0, 0, 0.9);
+    }
 }
 
 .header__body {
@@ -61,7 +62,7 @@
 
 .header__menu.menu {
     @include tablet-block {
-        font-size: 20px;
+        font-size: 28px;
         font-weight: 500;
     }
 }
