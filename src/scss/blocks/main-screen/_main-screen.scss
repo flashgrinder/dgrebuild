@@ -4,6 +4,7 @@
     background-size: 100%;
     background-position: 50% 0;
     padding: 200px 0;
+    @include mobile(padding, 200px 0 100px);
 }
 
 .main-screen::before {
@@ -24,6 +25,7 @@
 .main-screen__solution {
     position: relative;
     margin-top: 150px;
+    @include mobile(margin-top, 100px);
 }
 
 .main-screen__heading-solutions {
