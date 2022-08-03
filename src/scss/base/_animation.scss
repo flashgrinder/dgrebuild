@@ -26,3 +26,14 @@
         transform: rotate(360deg);
     }
 }
+
+/* Spinner-pulse */
+@keyframes spinner-pulse {
+    0% {
+        transform: translate(-50%, -50%) scale(0);
+    }
+    100% {
+        transform: translate(-50%, -50%) scale(1);
+      opacity: 0;
+    }
+  }
