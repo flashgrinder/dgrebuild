@@ -12,7 +12,7 @@
                     <p class="footer__descr text text--normal text--white text--w-regular">
                         Решения по управлению данными, бизнес-аналитике, защите информации и управлению знаниями. Мы упрощаем работу с данными и информацией, предоставляя новые возможности для роста бизнеса.
                     </p>
-                    <div class="footer__social">
+                    <div class="footer__social hide">
                         <a href="https://www.facebook.com/DIS-Group-141143739295193/" class="footer__soc-link link">
                             Facebook
                         </a>
