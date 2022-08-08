@@ -62,12 +62,12 @@
                             +7 495 645-0188
                         </span>
                     </div>
-                    <a href="mailto:infaday@dis-group.ru" class="footer__info">
+                    <a href="mailto:forum@dis-group.ru" class="footer__info">
                         <span class="footer__info-text text text--normal text--white text--w-light">
                             E-mail:
                         </span>
                         <span class="footer__info-text text text--normal text--white text--w-semibold link">
-                            infaday@dis-group.ru
+                            forum@dis-group.ru
                         </span>
                     </a>
                     <a href="<?php echo home_url(); ?>" class="footer__logo logo">
