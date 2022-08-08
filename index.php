@@ -987,9 +987,6 @@
                     <a href="" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/arenadata.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
-                        <img src="<?php echo STANDART_DIR; ?>img/partners/bmc.png" alt="" class="partners__logo">
-                    </a>
                 </div>
             </div>
         </div>
