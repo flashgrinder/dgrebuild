@@ -588,11 +588,11 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
-                        10:05 - 10:15
+                        10:05 - 10:25
                     </div>
                     <div class="programm__info gs-reveal gs-reveal--from-right">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Бизнес в стиле Fusion. Драйверы инноваций
+                            Данные - катализатор цифровизации! Новые тренды и направления развития
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
@@ -606,38 +606,206 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
-                        10:15 - 10:45
+                        10:25 - 10:40
                     </div>
                     <div class="programm__info gs-reveal gs-reveal--from-right">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            От привычного к экстраординарному. Видение мирового лидера в области управления данными
+                            Финалисты Data Award 2022.  Успешные проекты Data Governance
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        10:40 - 11:00
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            На пути к цифровому суверенитету
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        10:40 - 11:00
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Дискуссия 1
+                            <br>
+                            Не теряя  уверенности в зоне турбулентности. Новые тренды и направления развития в области Data Governance
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Эмилио Вальдес (Emilio Valdes)
+                                Александр Тарасов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Старший вице-президент EMEA & LATAM, Informatica
+                                Управляющий партнер DIS Group
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
-                        10:45 - 11:10
+                        11:00 - 11:30
                     </div>
                     <div class="programm__info gs-reveal gs-reveal--from-right">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Культура как фактор изменений
+                            Дискуссия 1: Не теряя  уверенности в зоне турбулентности. Новые тренды и направления развития в области Data Governance
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Анна Ржевская
+                                Александр Тарасов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Бизнес-тренер, сертифицированный практик международных программ DDI, Центра креативного лидерства, Wilson Learning Worldwide
+                                Управляющий партнер DIS Group
                             </div>
                         </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        11:30 - 11:40
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Перерыв
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        11:40 - 12:10
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Путеводитель по галактике ваших данных - единая Data Platform
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        12:10 - 12:30
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Быть на шаг ближе. Персонализация. Качество. Интеграция.
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        12:30 - 13:00
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Дискуссия  2: Предвидеть непредвиденное. Роль данных в новой реальности
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Александр Тарасов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Управляющий партнер DIS Group
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        13:00 - 13:30
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Мастер-данные – кристаллическая решетка цифровой компании
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        13:30 - 14:00
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Дискуссия 3: На все данные мастер… А может, нужна бригада?
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Александр Тарасов 
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Управляющий партнер DIS Group
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        14:00 - 14:30
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Обед
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        14:30 - 15:00
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Автоматизация операционной деятельности. Снова в приоритете.
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        15:00 - 15:40
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Дискуссия 4: Автоматизируй это! Коробочные решения: глубока ли кроличья нора?
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        15:40 - 16:00
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Быстрый омниканальный доступ к релевантной информации - залог  эффективность внешних и внутренних коммуникаций
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        16:00 - 16:15
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Современный сотрудник - цифровой сотрудник!
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        16:15 - 16:45
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Дискуссия 5: Все мое! Как удержать клиентов, поставщиков и сотрудников? Есть ли взаимосвязь между клиенским опытом и опытом сотрудников?
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                        16:45 - 17:00
+                    </div>
+                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Итоги. Розыгрыш призов
+                        </h3>
                     </div>
                 </div>
             </div>
