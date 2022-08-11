@@ -1,14 +1,20 @@
 .main-screen {
     position: relative;
-    background: url('../img/main-screen/main-screen-bg.png') no-repeat;
-    background-size: 100%;
-    background-position: 50% 50%;
+    background: url('../img/main-screen/main-screen-bg.svg') no-repeat;
+    background-size: 50%;
+    background-position: center right;
     padding: 200px 0;
     height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    @include mobile(padding, 200px 0 100px);
+    @include mobile-block {
+        padding: 200px 0 100px;
+        justify-content: flex-start;
+        background-size: 100%;
+        background-position: center bottom;
+    }
+    @include mobileXS(justify-content, center);
 }
 
 .main-screen::before {
@@ -20,6 +26,15 @@
     bottom: 0;
     background: linear-gradient(90deg, #000000 0%, #004050 100%);
     z-index: -1;
+}
+
+.main-screen__title-ext {
+    display: inline-block;
+    padding: 5px 10px;
+    color: black;
+    background: var(--color-white);
+    mix-blend-mode: multiply;
+    border-radius: 10px;
 }
 
 .main-screen__actions{

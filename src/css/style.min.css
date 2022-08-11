@@ -1188,9 +1188,9 @@ img {
 
 .main-screen {
   position: relative;
-  background: url("../img/main-screen/main-screen-bg.png") no-repeat;
-  background-size: 100%;
-  background-position: 50% 50%;
+  background: url("../img/main-screen/main-screen-bg.svg") no-repeat;
+  background-size: 50%;
+  background-position: center right;
   padding: 200px 0;
   height: 100vh;
   display: flex;
@@ -1207,6 +1207,15 @@ img {
   bottom: 0;
   background: linear-gradient(90deg, #000000 0%, #004050 100%);
   z-index: -1;
+}
+
+.main-screen__title-ext {
+  display: inline-block;
+  padding: 5px 10px;
+  color: black;
+  background: var(--color-white);
+  mix-blend-mode: multiply;
+  border-radius: 10px;
 }
 
 .main-screen__actions {
@@ -1734,6 +1743,9 @@ img {
 
   .main-screen {
     padding: 200px 0 100px;
+    justify-content: flex-start;
+    background-size: 100%;
+    background-position: center bottom;
   }
 
   .about__decor--top {
@@ -1786,6 +1798,10 @@ img {
 
   .modal__actions .wpcf7-spinner {
     margin: 0 10px;
+  }
+
+  .main-screen {
+    justify-content: center;
   }
 
   .register__decor {
