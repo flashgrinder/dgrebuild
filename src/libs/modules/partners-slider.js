@@ -7,7 +7,7 @@ function init() {
     const partnersSliderOne = new Swiper(".partners__item--slider-one", {
         loop: true,
         autoHeight: true,
-        slidesPerView: 3,
+        slidesPerView: 2,
         spaceBetween: 20,
         effect: 'slide',
         speed: 10000,
