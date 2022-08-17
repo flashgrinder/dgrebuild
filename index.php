@@ -387,16 +387,16 @@
                 <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team-avatar.png" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/pavel.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Имя Фамилия
+                                Павел Лихницкий
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Далеко-далеко, за словесными горами в стране гласных и согласных живут рыбные тексты. Буквенных обеспечивает переулка, осталось путь агентство ручеек прямо повстречался это возвращайся, но города ее рыбными диких дал пунктуация, большой то собрал?
+                                Генеральный директор DIS Group
                             </p>
                         </div>
                     </div>
@@ -406,16 +406,16 @@
                 <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team-avatar.png" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/shvedov.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Имя Фамилия
+                                Дмитрий Шведов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Далеко-далеко за словесными горами в стране гласных, и согласных живут рыбные тексты. Эта родного маленькая осталось до, домах продолжил переписывается инициал речью жизни свой что диких которой?
+                                Заместитель руководителя Департамента цифровизации, АО «ОХК «Уралхим»
                             </p>
                         </div>
                     </div>
@@ -425,16 +425,16 @@
                 <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team-avatar.png" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/neiman.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Имя Фамилия
+                                Алексей Нейман
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты. Предупредила использовало, родного имеет ручеек пор рукопись ты? Даль, моей?
+                                Исполнительный директор, Ассоциация больших данных
                             </p>
                         </div>
                     </div>
@@ -444,16 +444,16 @@
                 <article class="team-card gs-reveal gs-reveal--from-right">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team-avatar.png" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/bova.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Имя Фамилия
+                                Светлана Бова
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Однажды о свой жаренные ведущими повстречался ты наш рукопись запятых взобравшись она то над сбить образ буквенных, он собрал ему.
+                                CDO, Банк ВТБ
                             </p>
                         </div>
                     </div>

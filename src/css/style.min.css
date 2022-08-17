@@ -1336,78 +1336,35 @@ img {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 0.5fr));
   grid-gap: 60px;
+  grid-auto-rows: minmax(120px, 1fr);
 }
 
 /* Team-card */
 
 .team-card {
-  position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 215px) minmax(0, 1fr);
-}
-
-.team-card::before {
-  position: absolute;
-  content: "";
-  top: 0;
-  right: -10px;
-  bottom: 0;
-  left: 0;
-  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
-  z-index: 0;
-  pointer-events: none;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
-  opacity: 0;
-  transition: opacity 0.2s ease-in-out;
-}
-
-.team-card:hover::before {
-  opacity: 1;
-}
-
-.team-card__body {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin-left: 20px;
+  grid-template-columns: minmax(120px, 120px) minmax(200px, 1fr);
+  grid-gap: 30px;
+  align-items: center;
 }
 
 .team-card__figure {
   margin: 0;
-  padding: 0;
+  border-radius: 50%;
+  border: 2px solid var(--color-blue);
   overflow: hidden;
-  transform: scale(1);
+  max-width: 120px;
+  max-height: 120px;
+  width: 120px;
+  height: 120px;
 }
 
 .team-card__photo {
   display: block;
-  height: 100%;
-  width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
-  transform: scale(1);
-  transition: transform 0.2s ease-in-out;
-}
-
-.team-card:hover .team-card__photo {
-  transform: scale(0.92);
-}
-
-.team-card__text {
-  margin-top: 0px;
-  transition: margin-top 0.2s ease-in-out;
-}
-
-.team-card:hover .team-card__text {
-  margin-top: 10px;
-}
-
-.team-card__descr {
-  margin-top: 20px;
+  width: 100%;
+  height: 100%;
 }
 
 /* Discus */
@@ -1812,18 +1769,6 @@ img {
     max-width: 360px;
   }
 
-  .team-card {
-    grid-template-columns: repeat(1, minmax(0, 1fr));
-  }
-
-  .team-card__body {
-    margin-right: 20px;
-  }
-
-  .team-card__heading {
-    margin-top: 10px;
-  }
-
   .programm__item {
     grid-template-columns: minmax(100px, 140px) minmax(200px, 1fr);
     grid-template-columns: 1fr;
@@ -1849,5 +1794,15 @@ img {
 @media screen and (max-width: 400px) {
   .modal__actions .wpcf7-spinner {
     margin: 0 4px;
+  }
+
+  .team-card {
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+    justify-items: center;
+  }
+
+  .team-card__text {
+    text-align: center;
   }
 }
