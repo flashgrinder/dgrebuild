@@ -27,7 +27,7 @@
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
                     Регистрация
                 </h3>
-                <?php echo do_shortcode( '[contact-form-7 title="Регистрация" html_class="modal__form"]' ); ?>
+                <script src="https://dis-group.comdi.com/player/js/embed.min.js" type="text/javascript" data-comdi-event="ewgogxsc"></script>
             </div>
         </div>
     </div>

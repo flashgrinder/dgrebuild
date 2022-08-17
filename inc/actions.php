@@ -42,7 +42,6 @@
 
 		?>
 
-            <script src="https://dis-group.comdi.com/player/js/embed.min.js" type="text/javascript" data-comdi-event="ewgogxsc"></script>
 
 		<?php
 
