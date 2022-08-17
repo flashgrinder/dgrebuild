@@ -1,8 +1,8 @@
 .team__items {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, .5fr));
-    grid-gap: 60px;
-    grid-auto-rows: minmax(120px, 1fr);
+    grid-gap: 30px;
+    grid-auto-rows: minmax(200px, 1fr);
     @include tablet-block {
         grid-template-columns: repeat(1, minmax(0, 1fr));
         grid-gap: 50px;

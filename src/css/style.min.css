@@ -1335,28 +1335,26 @@ img {
 .team__items {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 0.5fr));
-  grid-gap: 60px;
-  grid-auto-rows: minmax(120px, 1fr);
+  grid-gap: 30px;
+  grid-auto-rows: minmax(200px, 1fr);
 }
 
 /* Team-card */
 
 .team-card {
   display: grid;
-  grid-template-columns: minmax(120px, 120px) minmax(200px, 1fr);
+  grid-template-columns: minmax(180px, 200px) minmax(200px, 1fr);
   grid-gap: 30px;
   align-items: center;
 }
 
 .team-card__figure {
   margin: 0;
-  border-radius: 50%;
-  border: 2px solid var(--color-blue);
+  border-radius: 5px;
+  border: 1px solid var(--color-blue);
   overflow: hidden;
-  max-width: 120px;
-  max-height: 120px;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
 }
 
 .team-card__photo {
