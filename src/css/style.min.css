@@ -828,6 +828,7 @@ img {
   overflow-x: hidden;
   border-radius: 10px;
   margin-top: 90px;
+  max-height: 95vh;
 }
 
 .modal__close {

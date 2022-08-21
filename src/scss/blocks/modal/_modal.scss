@@ -41,6 +41,7 @@
     overflow-x: hidden;
     border-radius: 10px;
     margin-top: 90px;
+    max-height: 95vh;
     @include mobileXS-block {
         padding: 16px 15px 30px;
         max-width: 100%;
