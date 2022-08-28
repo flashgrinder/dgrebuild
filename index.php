@@ -10,7 +10,7 @@
                             DIS GROUP
                         </span>
                         <span class="main-screen__title-forum title title--big title--white title--w-light">
-                            FO<span class="main-screen__title-ext">Ru</span>M
+                            FO<span class="main-screen__title-ext" data-num="44">Ru</span>M
                         </span>
                     </h1>
                     <h2 class="main-screen__subtitle gs-reveal gs-reveal--from-left">
@@ -94,7 +94,7 @@
                     Присылайте вопросы спикерам и получайте подарки
                 </h2>
                 <p class="register__descr text text--large text--white text--w-light gs-reveal gs-reveal--from-left">
-                    Среди участников, следивших за форумом не менее 120 минут, будут разыграны призы: колонка Алиса, беспроводные наушники, и другие.
+                    Среди участников, следивших за форумом не менее 120 минут, будут разыграны призы: колонка Алиса, беспроводные наушники и другие.
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
@@ -844,7 +844,7 @@
                     Регистрируйся сейчас!
                 </h2>
                 <p class="register__descr text text--large text--white text--w-light gs-reveal gs-reveal--from-left">
-                    Среди участников, следивших за форумом не менее 120 минут, будут разыграны призы: колонка Алиса, беспроводные наушники, и другие.
+                    Среди участников, следивших за форумом не менее 120 минут, будут разыграны призы: колонка Алиса, беспроводные наушники и другие.
                 </p>
                 <div class="register__action gs-reveal gs-reveal--from-left">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">

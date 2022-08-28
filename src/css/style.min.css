@@ -1211,12 +1211,36 @@ img {
 }
 
 .main-screen__title-ext {
+  position: relative;
   display: inline-block;
   padding: 5px 10px;
   color: black;
   background: var(--color-white);
   mix-blend-mode: multiply;
   border-radius: 10px;
+}
+
+.main-screen__title-ext::before {
+  content: attr(data-num);
+  position: absolute;
+  color: var(--color-black);
+  top: 3px;
+  left: 14px;
+  font-size: calc(10px + 2 * ((100vw - 360px) / 840));
+}
+
+@media screen and (min-width: 1200px) {
+
+  .main-screen__title-ext::before {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+
+  .main-screen__title-ext::before {
+    font-size: 10px;
+  }
 }
 
 .main-screen__actions {

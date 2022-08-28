@@ -29,12 +29,23 @@
 }
 
 .main-screen__title-ext {
+    position: relative;
     display: inline-block;
     padding: 5px 10px;
     color: black;
     background: var(--color-white);
     mix-blend-mode: multiply;
     border-radius: 10px;
+}
+
+.main-screen__title-ext::before {
+    content: attr(data-num);
+    position: absolute;
+    color: var(--color-black);
+    top: 3px;
+    left: 14px;
+    font-size: responsive 10px 12px;
+    font-range: 360px 1200px;
 }
 
 .main-screen__actions{
