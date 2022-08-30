@@ -731,6 +731,14 @@
                                 Директор департамента по работе с данными, Розничная сеть «Магнит»
                             </div>
                         </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Светлана Бова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                CDO, Банк ВТБ
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -819,6 +827,14 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 5: Все мое! Как удержать клиентов, поставщиков и сотрудников? Есть ли взаимосвязь между клиенским опытом и опытом сотрудников?
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Валерия Гужова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель группы неголосовых каналов связи и исходящих обращений, старший вице президент, Райффайзенбанк
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
