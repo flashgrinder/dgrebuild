@@ -5,7 +5,7 @@
         <div class="main-screen__outer">
             <div class="main-screen__body container">
                 <div class="main-screen__text">
-                    <h1 class="main-screen__title title--indent gs-reveal gs-reveal--from-left">
+                    <h1 class="main-screen__title title--indent">
                         <span class="main-screen__title-dis title title--big title--white title--w-semibold">
                             DIS GROUP
                         </span>
@@ -13,14 +13,14 @@
                             FO<span class="main-screen__title-ext" data-num="44">Ru</span>M
                         </span>
                     </h1>
-                    <h2 class="main-screen__subtitle gs-reveal gs-reveal--from-left">
+                    <h2 class="main-screen__subtitle">
                         <span class="title title--medium title--white title--w-semibold">Данные</span>
                         <span class="title title--medium title--white title--w-light"> – катализатор цифровизации</span> 
                     </h2>
-                    <div class="main-screen__date title title--medium title--white title--w-light gs-reveal gs-reveal--from-left">
+                    <div class="main-screen__date title title--medium title--white title--w-light">
                         22 сентября 2022
                     </div>
-                    <div class="main-screen__actions gs-reveal gs-reveal--from-left">
+                    <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
                             Зарегистрироваться
                         </a>
@@ -40,40 +40,40 @@
             </svg>
         </div>
         <div class="about__body container">
-            <h3 class="about__subheading title title--large title--dark title--w-light gs-reveal gs-reveal--from-left">
+            <h3 class="about__subheading title title--large title--dark title--w-light">
                 Что общего между <span class="about__text-accent">директором по данным</span> и профессором химии?
             </h3>
-            <h3 class="about__subheading title title--large title--dark title--w-light gs-reveal gs-reveal--from-left">
+            <h3 class="about__subheading title title--large title--dark title--w-light">
                 Вы управляете <span class="about__text-accent">сложнейшими процессами</span>. Вы отвечаете за <span class="about__text-accent">создание инноваций</span>. Ваша команда знает, как <span class="about__text-accent">повысить эффективность</span> и сократить издержки.
             </h3>
             <div class="about__grid">
                 <div class="about__column">
-                    <h2 class="about__title title title--big title--dark title--w-light gs-reveal gs-reveal--from-left">
+                    <h2 class="about__title title title--big title--dark title--w-light">
                         Меняйте данность
                     </h2>
-                    <h2 class="about__title title title--big title--blue title--w-light gs-reveal gs-reveal--from-left">
+                    <h2 class="about__title title title--big title--blue title--w-light">
                         Управляйте данными
                     </h2>
                 </div>
                 <div class="about__column">
                     <div class="about__text">
-                        <p class="about__descr text text--large text--dark text--w-semibold gs-reveal gs-reveal--from-right">
+                        <p class="about__descr text text--large text--dark text--w-semibold">
                             Как превратить <span class="about__text-accent">данные</span> в катализатор цифрового развития вашей компании?
                         </p>
                     </div>
                     <div class="about__text">
-                        <p class="about__descr text text--large text--dark text--w-semibold gs-reveal gs-reveal--from-right">
+                        <p class="about__descr text text--large text--dark text--w-semibold">
                             Что делает <span class="about__text-accent">кристаллическую решётку проекта</span> по-настоящему устойчивой?
                         </p>
                     </div>
                     <div class="about__text">
-                        <p class="about__descr text text--large text--dark text--w-semibold gs-reveal gs-reveal--from-right">
+                        <p class="about__descr text text--large text--dark text--w-semibold">
                             Как <span class="about__text-accent">синтезировать цифровой продукт</span> идеальной чистоты и без побочных примесей?
                         </p>
                     </div>
                 </div>
             </div>
-            <h3 class="about__subheading title title--large title--dark title--w-light gs-reveal gs-reveal--from-left">
+            <h3 class="about__subheading title title--large title--dark title--w-light">
                 <span class="about__text-accent">Ответы</span> на эти вопросы можно получить в специальной лаборатории DIS Group Forum. Ставить опыты будут <span class="about__text-accent">ведущие эксперты</span> российских компаний!
             </h3>
         </div>
@@ -379,12 +379,12 @@
     <!-- Team -->
     <section class="team bg--white block-padding">
         <div class="team__body container">
-            <h2 class="team__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+            <h2 class="team__heading title title--big title--dark title--w-semibold title--indent">
                 Ключевые спикеры
             </h2>
             <div class="team__items">
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-left">
+                <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/pavel.jpg" alt="" class="team-card__photo">
@@ -403,7 +403,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shvedov.jpg" alt="" class="team-card__photo">
@@ -422,7 +422,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-left">
+                <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/lukovnikov.jpg" alt="" class="team-card__photo">
@@ -441,7 +441,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/bova.jpg" alt="" class="team-card__photo">
@@ -460,7 +460,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="team-card__photo">
@@ -479,7 +479,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card gs-reveal gs-reveal--from-right">
+                <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="team-card__photo">
@@ -505,13 +505,13 @@
     <!-- Discus -->
     <section class="discus block-padding" id="discussions">
         <div class="discus__body container">
-            <h2 class="discus__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+            <h2 class="discus__heading title title--big title--dark title--w-semibold title--indent">
                 5 ключевых дискуссий о данных
             </h2>
             <div class="discus__items">
                 <article class="discus__article">
                     <aside class="discus__aside">
-                        <h3 class="discus__title gs-reveal gs-reveal--from-left">
+                        <h3 class="discus__title">
                             <span class="discus__num title title--pre-medium title--dark title--w-regular">
                                 01
                             </span>
@@ -519,15 +519,15 @@
                                 Не теряя уверенности в зоне турбулентности. Новые тренды и направления развития в области Data Governance.
                             </span>
                         </h3>
-                        <p class="discus__descr text text--large text--dark text--w-regular gs-reveal gs-reveal--from-left">
+                        <p class="discus__descr text text--large text--dark text--w-regular">
                             Новая бизнес-реальность требует новых бизнес. Узнайте, как компании – ключевые игроки российского рынка – перестраивают внутренние процессы и поддерживают эффективность.
                         </p>
                     </aside>
-                    <div class="discus__pic gs-reveal gs-reveal--from-right">
+                    <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-1.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers gs-reveal">
+                <div class="discus__speakers">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
                             <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="discus__speaker-img">
@@ -557,7 +557,7 @@
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
-                        <h3 class="discus__title gs-reveal gs-reveal--from-left">
+                        <h3 class="discus__title">
                             <span class="discus__num title title--pre-medium title--dark title--w-regular">
                                 02
                             </span>
@@ -565,15 +565,15 @@
                                 Предвидеть непредвиденное. Роль данных в новой реальности.
                             </span>
                         </h3>
-                        <p class="discus__descr text text--large text--dark text--w-regular gs-reveal gs-reveal--from-left">
+                        <p class="discus__descr text text--large text--dark text--w-regular">
                             До недавнего времени все активно рассматривали уход в облака. А что сейчас? Изменилась ли повестка? И как компании продолжают работать с данными?
                         </p>
                     </aside>
-                    <div class="discus__pic gs-reveal gs-reveal--from-right">
+                    <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-2.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers gs-reveal">
+                <div class="discus__speakers">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
                             <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="discus__speaker-img">
@@ -603,7 +603,7 @@
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
-                        <h3 class="discus__title gs-reveal gs-reveal--from-left">
+                        <h3 class="discus__title">
                             <span class="discus__num title title--pre-medium title--dark title--w-regular">
                                 03
                             </span>
@@ -611,17 +611,17 @@
                                 На все данные мастер… А может, нужна бригада?
                             </span>
                         </h3>
-                        <p class="discus__descr text text--large text--dark text--w-regular gs-reveal gs-reveal--from-left">
+                        <p class="discus__descr text text--large text--dark text--w-regular">
                             Тренд на создание цифровых экосистем продолжает активно развиваться. Узнайте, планируют ли российские компании создавать такие экосистемы.
                         </p>
                     </aside>
-                    <div class="discus__pic gs-reveal gs-reveal--from-right">
+                    <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-3.jpg" alt="" class="discus__img">
                     </div>
                 </article>
                 <article class="discus__article">
                     <aside class="discus__aside">
-                        <h3 class="discus__title gs-reveal gs-reveal--from-left">
+                        <h3 class="discus__title">
                             <span class="discus__num title title--pre-medium title--dark title--w-regular">
                                 04
                             </span>
@@ -629,17 +629,17 @@
                                 Автоматизируй это!  Коробочные решения: глубока ли кроличья нора?
                             </span>
                         </h3>
-                        <p class="discus__descr text text--large text--dark text--w-regular gs-reveal gs-reveal--from-left">
+                        <p class="discus__descr text text--large text--dark text--w-regular">
                             Все силы компаний сейчас направлены на перестраивание бизнеса в новых условиях. Узнайте, как может помочь в этом автоматизация: высвободить ресурсы, ускорить процессы.
                         </p>
                     </aside>
-                    <div class="discus__pic gs-reveal gs-reveal--from-right">
+                    <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-4.jpg" alt="" class="discus__img">
                     </div>
                 </article>
                 <article class="discus__article">
                     <aside class="discus__aside">
-                        <h3 class="discus__title gs-reveal gs-reveal--from-left">
+                        <h3 class="discus__title">
                             <span class="discus__num title title--pre-medium title--dark title--w-regular">
                                 05
                             </span>
@@ -647,15 +647,15 @@
                                 Все мое! Как удержать клиентов, поставщиков и сотрудников? Есть ли взаимосвязь между клиентским опытом и опытом сотрудников? 
                             </span>
                         </h3>
-                        <p class="discus__descr text text--large text--dark text--w-regular gs-reveal gs-reveal--from-left">
+                        <p class="discus__descr text text--large text--dark text--w-regular">
                             Тема замены иностранных решений по управлению знаниями не теряет актуальности. Но достаточно ли просто взять файлы и переместить их в новую систему, или нужно что-то ещё?
                         </p>
                     </aside>
-                    <div class="discus__pic gs-reveal gs-reveal--from-right">
+                    <div class="discus__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-5.jpg" alt="" class="discus__img">
                     </div>
                 </article>
-                <div class="discus__speakers gs-reveal">
+                <div class="discus__speakers">
                     <div class="discus__speaker">
                         <div class="discus__speaker-photo">
                             <img src="<?php echo STANDART_DIR; ?>img/team/gujova.jpg" alt="" class="discus__speaker-img">
@@ -678,15 +678,15 @@
     <!-- Programm -->
     <section class="programm block-padding" id="programm">
         <div class="programm__body container">
-            <h2 class="programm__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+            <h2 class="programm__heading title--big title--dark title--w-semibold title--indent">
                 Программа мероприятия
             </h2>
             <div class="programm__list">
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         10:00 - 10:05
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Открытие форума
                         </h3>
@@ -701,10 +701,10 @@
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         10:05 - 10:25
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Данные - катализатор цифровизации! Новые тренды и направления развития
                         </h3>
@@ -719,160 +719,160 @@
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         10:25 - 10:40
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Финалисты Data Award 2022.  Успешные проекты Data Governance
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         10:40 - 11:00
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             На пути к цифровому суверенитету
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         11:00 - 11:30
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 1: Не теряя  уверенности в зоне турбулентности. Новые тренды и направления развития в области Data Governance
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         11:30 - 11:40
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Перерыв
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         11:40 - 12:10
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Путеводитель по галактике ваших данных - единая Data Platform
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         12:10 - 12:30
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Быть на шаг ближе. Персонализация. Качество. Интеграция.
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         12:30 - 13:00
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия  2: Предвидеть непредвиденное. Роль данных в новой реальности
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         13:00 - 13:30
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Мастер-данные – кристаллическая решетка цифровой компании
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         13:30 - 14:00
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 3: На все данные мастер… А может, нужна бригада?
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         14:00 - 14:30
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Обед
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         14:30 - 15:00
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Автоматизация операционной деятельности. Снова в приоритете.
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         15:00 - 15:40
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 4: Автоматизируй это! Коробочные решения: глубока ли кроличья нора?
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         15:40 - 16:00
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Быстрый омниканальный доступ к релевантной информации - залог  эффективность внешних и внутренних коммуникаций
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         16:00 - 16:15
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Современный сотрудник - цифровой сотрудник!
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         16:15 - 16:45
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 5: Все мое! Как удержать клиентов, поставщиков и сотрудников? Есть ли взаимосвязь между клиенским опытом и опытом сотрудников?
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular gs-reveal gs-reveal--from-left">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
                         16:45 - 17:00
                     </div>
-                    <div class="programm__info gs-reveal gs-reveal--from-right">
+                    <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Итоги. Розыгрыш призов
                         </h3>
@@ -1176,10 +1176,10 @@
     <!-- Interesting -->
     <section class="interesting block-padding">
         <div class="interesting__body container">
-            <h2 class="interesting__heading title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+            <h2 class="interesting__heading title--big title--dark title--w-semibold title--indent">
                 Только для любознательных
             </h2>
-            <div class="interesting__items gs-reveal gs-reveal--from-right">
+            <div class="interesting__items">
                 <a href="https://dis-group.ru/lp/upravlenie-dannymi-v-gossektore/" class="interesting__cart" target="_blank">
                     <div class="interesting__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-1.png" alt="" class="interesting__img">
@@ -1188,7 +1188,7 @@
                         Управление данными в Госсекторе
                     </h3>
                 </a>
-                <a href="https://dis-group.ru/lp/data-governance-rukovodstvo-po-upravleniyu-dannymi/" class="interesting__cart gs-reveal" target="_blank">
+                <a href="https://dis-group.ru/lp/data-governance-rukovodstvo-po-upravleniyu-dannymi/" class="interesting__cart" target="_blank">
                     <div class="interesting__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-2.jpg" alt="" class="interesting__img">
                     </div>
@@ -1196,7 +1196,7 @@
                         Data Governance: практическое руководство по управлению данными
                     </h3>
                 </a>
-                <a href="https://dis-group.ru/company-news/spetsialnoe-predlozhenie-legkij-perehod-na-rossijskuyu-sistemu-upravleniya-znaniyami-plus7-mayak/" class="interesting__cart gs-reveal gs-reveal--from-right" target="_blank">
+                <a href="https://dis-group.ru/company-news/spetsialnoe-predlozhenie-legkij-perehod-na-rossijskuyu-sistemu-upravleniya-znaniyami-plus7-mayak/" class="interesting__cart" target="_blank">
                     <div class="interesting__pic">
                         <img src="<?php echo STANDART_DIR; ?>img/interesting/interesting-img-3.png" alt="" class="interesting__img">
                     </div>
@@ -1212,11 +1212,11 @@
     <!-- Partners -->
     <section class="partners block-padding" id="partners">
         <div class="partners__body container">
-            <h2 class="partners__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+            <h2 class="partners__heading title title--big title--dark title--w-semibold title--indent">
                 При поддержке
             </h2>
         </div>
-        <div class="partners__outer container-page gs-reveal gs-reveal--from-right">
+        <div class="partners__outer container-page">
             <div class="partners__wrapper-items partners__item--slider-one swiper-container">
                 <div class="partners__items swiper-wrapper">
                     <a href="" class="partners__item swiper-slide">
@@ -1238,7 +1238,7 @@
                 Информационные партнеры
             </h2>
         </div>
-        <div class="partners__outer container-page gs-reveal gs-reveal--from-right">
+        <div class="partners__outer container-page">
             <div class="partners__wrapper-items partners__item--slider-two swiper-container">
                 <div class="partners__items swiper-wrapper">
                     <a href="" class="partners__item swiper-slide">
