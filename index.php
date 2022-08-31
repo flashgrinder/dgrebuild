@@ -425,16 +425,16 @@
                 <article class="team-card gs-reveal gs-reveal--from-left">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR; ?>img/team/neiman.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/lukovnikov.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Алексей Нейман
+                                Алексей Луковников
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Исполнительный директор, Ассоциация больших данных
+                                Директор Департамента управления данными, Банк России
                             </p>
                         </div>
                     </div>
@@ -527,6 +527,34 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-1.jpg" alt="" class="discus__img">
                     </div>
                 </article>
+                <div class="discus__speakers gs-reveal">
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/sergeev.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Сергей Сергеев
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Директор по цифровым инновациям и IT «Ленты»
+                            </div>
+                        </div>
+                    </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/lukovnikov.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Алексей Луковников
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Директор Департамента управления данными, Банк России
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
                         <h3 class="discus__title gs-reveal gs-reveal--from-left">
@@ -545,6 +573,34 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-2.jpg" alt="" class="discus__img">
                     </div>
                 </article>
+                <div class="discus__speakers gs-reveal">
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/shorohov.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Павел Шорохов
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Директор департамента по работе с данными, Розничная сеть «Магнит»
+                            </div>
+                        </div>
+                    </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/bova.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Светлана Бова
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                CDO, Банк ВТБ
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
                         <h3 class="discus__title gs-reveal gs-reveal--from-left">
@@ -599,6 +655,21 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-5.jpg" alt="" class="discus__img">
                     </div>
                 </article>
+                <div class="discus__speakers gs-reveal">
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/gujova.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Валерия Гужова
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Руководитель группы неголосовых каналов связи и исходящих обращений, старший вице президент, Райффайзенбанк
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -675,14 +746,6 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 1: Не теряя  уверенности в зоне турбулентности. Новые тренды и направления развития в области Data Governance
                         </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Сергей Сергеев
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор по цифровым инновациям и IT «Ленты»
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -723,22 +786,6 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия  2: Предвидеть непредвиденное. Роль данных в новой реальности
                         </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Павел Шорохов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Директор департамента по работе с данными, Розничная сеть «Магнит»
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Светлана Бова
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                CDO, Банк ВТБ
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -759,14 +806,6 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 3: На все данные мастер… А может, нужна бригада?
                         </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Александр Тарасов 
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Управляющий партнер DIS Group
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -827,14 +866,6 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 5: Все мое! Как удержать клиентов, поставщиков и сотрудников? Есть ли взаимосвязь между клиенским опытом и опытом сотрудников?
                         </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Валерия Гужова
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель группы неголосовых каналов связи и исходящих обращений, старший вице президент, Райффайзенбанк
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
