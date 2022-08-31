@@ -1212,7 +1212,6 @@ img {
   padding: 5px 10px;
   color: black;
   background: var(--color-white);
-  mix-blend-mode: multiply;
   border-radius: 10px;
 }
 
@@ -1469,6 +1468,10 @@ img {
 }
 
 /* Programm */
+
+.programm__subtitle {
+  margin-bottom: 30px;
+}
 
 .programm__list {
   display: grid;
