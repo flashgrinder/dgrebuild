@@ -619,6 +619,21 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-3.jpg" alt="" class="discus__img">
                     </div>
                 </article>
+                <div class="discus__speakers">
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/shvedov-2.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Дмитрий Шведов
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Заместитель руководителя Департамента цифровизации, АО «ОХК «Уралхим»
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
                         <h3 class="discus__title">
@@ -637,6 +652,21 @@
                         <img src="<?php echo STANDART_DIR; ?>img/discus/discus-img-4.jpg" alt="" class="discus__img">
                     </div>
                 </article>
+                <div class="discus__speakers">
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/pervuhin.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Дмитрий Первухин
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Вице-Президент, Директор департамента развития учетных и аналитических систем, Банк “Открытие”
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
                         <h3 class="discus__title">
