@@ -675,7 +675,7 @@
                                 Дмитрий Первухин
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Вице-Президент, Директор департамента развития учетных и аналитических систем, Банк “Открытие”
+                                Вице-Президент, Директор департамента развития учетных и аналитических систем, ПАО Банк "ФК Открытие"
                             </div>
                         </div>
                     </div>
@@ -685,7 +685,7 @@
                         </div>
                         <div class="discus__speaker-text">
                             <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
-                                Сергей Евгеньевич Путятинский
+                                Сергей Путятинский
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Заместитель председателя правления «МОСКОВСКИЙ КРЕДИТНЫЙ БАНК» (публичное акционерное общество)
