@@ -554,6 +554,19 @@
                             </div>
                         </div>
                     </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/rubinovich.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Борис Рабинович
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Старший управляющий директор-директор Департамента управления данными (SberData) ПАО Сбербанк
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
