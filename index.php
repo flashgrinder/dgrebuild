@@ -679,6 +679,19 @@
                             </div>
                         </div>
                     </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/putyatinski.png" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Сергей Евгеньевич Путятинский
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Заместитель председателя правления «МОСКОВСКИЙ КРЕДИТНЫЙ БАНК» (публичное акционерное общество)
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
