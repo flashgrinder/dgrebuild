@@ -472,7 +472,7 @@
                                 Сергей Сергеев
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор по цифровым инновациям и IT «Ленты»
+                                Директор по цифровым инновациям и IT «Лента»
                             </p>
                         </div>
                     </div>
@@ -537,7 +537,7 @@
                                 Сергей Сергеев
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
-                                Директор по цифровым инновациям и IT «Ленты»
+                                Директор по цифровым инновациям и IT «Лента»
                             </div>
                         </div>
                     </div>
@@ -722,6 +722,19 @@
                             </div>
                             <div class="discus__speaker-position text text--normal text--dark text--w-light">
                                 Руководитель группы неголосовых каналов связи и исходящих обращений, старший вице президент, Райффайзенбанк
+                            </div>
+                        </div>
+                    </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/vlasov.jpg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Власов Алексей
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Заместитель генерального директора по розничному бизнесу, СПАО «Ингосстрах»
                             </div>
                         </div>
                     </div>
