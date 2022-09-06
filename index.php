@@ -692,6 +692,19 @@
                             </div>
                         </div>
                     </div>
+                    <div class="discus__speaker">
+                        <div class="discus__speaker-photo">
+                            <img src="<?php echo STANDART_DIR; ?>img/team/naumov.jpeg" alt="" class="discus__speaker-img">
+                        </div>
+                        <div class="discus__speaker-text">
+                            <div class="discus__speaker-name text text--normal text--dark text--w-semibold">
+                                Данила Наумов
+                            </div>
+                            <div class="discus__speaker-position text text--normal text--dark text--w-light">
+                                Chief Data Officer, «М.Видео-Эльдорадо»
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <article class="discus__article">
                     <aside class="discus__aside">
@@ -1313,67 +1326,76 @@
         <div class="partners__outer container-page">
             <div class="partners__wrapper-items partners__item--slider-two swiper-container">
                 <div class="partners__items swiper-wrapper">
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/bisjurnal.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/dmk.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/financetime.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="https://bosfera.ru" class="partners__item swiper-slide" target="_blank">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/bo.svg" alt="" class="partners__logo">
+                    </a>
+                    <a href="https://www.connect-wit.ru" class="partners__item swiper-slide" target="_blank">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/connect-id.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="https://www.it-world.ru" class="partners__item swiper-slide" target="_blank">
+                        <img src="<?php echo STANDART_DIR; ?>img/partners/it-world.png" alt="" class="partners__logo">
+                    </a>
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/globalcio.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/ict2go.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/ictonline.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/is.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/manager.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/news.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/itworld.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/bit.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/itworld.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/cnews.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/nbj.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/bo.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/opensystems.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/tadviser.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/rb_logo.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/bamrus.png" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/plas.jpg" alt="" class="partners__logo">
                     </a>
-                    <a href="" class="partners__item swiper-slide">
+                    <a href="javascript:;" class="partners__item swiper-slide">
                         <img src="<?php echo STANDART_DIR; ?>img/partners/r_and_l.jpg" alt="" class="partners__logo">
                     </a>
                 </div>
