@@ -71,6 +71,10 @@
     font-family: var(--font-proxima-nova);
     font-style: normal;
     margin: 0;
+    &--huge {
+        font-size: responsive 32px 64px;
+        font-range: 360px 1200px;
+    }
     &--big {
         font-size: responsive 32px 54px;
         font-range: 360px 1200px;

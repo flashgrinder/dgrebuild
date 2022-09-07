@@ -90,5 +90,28 @@
     <!-- /. Footer -->
 
     <script src="js/scripts.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.globe.min.js"></script>
+    <script>
+
+        let _strk = document.querySelector('.main-screen');
+
+        VANTA.GLOBE({
+            el: ".main-screen",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00,
+            color: 0x00A5CD,
+            color2: 0x941dde,
+            size: 1.2,
+            backgroundColor: 0x7071b
+        })
+    </script>
+
 </body>
 </html>
