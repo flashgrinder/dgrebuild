@@ -1,0 +1,37 @@
+.moder__card {
+    display: grid;
+    grid-template-columns: minmax(180px, 180px) minmax(200px, 1fr);
+    grid-gap: 25px;
+    align-items: center;
+    @include mobileXS-block {
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+        align-items: flex-start;
+        justify-items: center;
+    }
+}
+
+.moder__card-figure {
+    margin: 0;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 180px;
+    height: 180px;
+}
+
+.moder__card-photo {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.moder__card-text {
+    @include mobileXS-block {
+        text-align: center;
+    }
+}
+
+.moder__card-descr {
+    margin-top: 15px;
+}
