@@ -2,9 +2,8 @@
     margin-bottom: 30px;
 }
 
-.programm__list {
-    display: grid;
-    grid-auto-rows: minmax(160px, 1fr);
+.programm__block-title {
+    margin-top: 45px;
 }
 
 .programm__item {
@@ -22,8 +21,8 @@
     }
 }
 
-.programm__item ~ .programm__item {
-    border-top: 1px solid var(--color-black);
+.programm__item {
+    border-bottom: 1px solid var(--color-black);
 }
 
 .programm__time {
