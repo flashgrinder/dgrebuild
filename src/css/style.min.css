@@ -1354,27 +1354,19 @@ img {
 
 .team__items {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 0.5fr));
-  grid-gap: 30px;
+  grid-template-columns: repeat(3, minmax(0, 0.33333fr));
+  grid-gap: 50px 30px;
   grid-auto-rows: minmax(200px, 1fr);
 }
 
 /* Team-card */
 
-.team-card {
-  display: grid;
-  grid-template-columns: minmax(180px, 200px) minmax(200px, 1fr);
-  grid-gap: 30px;
-  align-items: center;
-}
-
 .team-card__figure {
-  margin: 0;
-  border-radius: 5px;
-  border: 1px solid var(--color-blue);
+  margin: 0 auto;
+  border-radius: 50%;
   overflow: hidden;
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
 }
 
 .team-card__photo {
@@ -1383,6 +1375,15 @@ img {
      object-fit: cover;
   width: 100%;
   height: 100%;
+}
+
+.team-card__text {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.team-card__descr {
+  margin-top: 10px;
 }
 
 /* Discus */
@@ -1728,11 +1729,6 @@ img {
   .register__decor-svg {
     max-width: 550px;
   }
-
-  .team__items {
-    grid-template-columns: repeat(1, minmax(0, 1fr));
-    grid-gap: 50px;
-  }
 }
 
 @media screen and (max-width: 768px) {
@@ -1781,6 +1777,10 @@ img {
 
   .about__title ~ .about__title {
     margin-top: 30px;
+  }
+
+  .team__items {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 
   .discus__article {
@@ -1854,15 +1854,5 @@ img {
 @media screen and (max-width: 400px) {
   .modal__actions .wpcf7-spinner {
     margin: 0 4px;
-  }
-
-  .team-card {
-    grid-template-columns: 1fr;
-    grid-gap: 20px;
-    justify-items: center;
-  }
-
-  .team-card__text {
-    text-align: center;
   }
 }

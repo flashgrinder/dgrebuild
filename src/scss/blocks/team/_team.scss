@@ -1,10 +1,9 @@
 .team__items {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, .5fr));
-    grid-gap: 30px;
+    grid-template-columns: repeat(3, minmax(0, .33333fr));
+    grid-gap: 50px 30px;
     grid-auto-rows: minmax(200px, 1fr);
-    @include tablet-block {
+    @include mobile-block {
         grid-template-columns: repeat(1, minmax(0, 1fr));
-        grid-gap: 50px;
     }
 }
