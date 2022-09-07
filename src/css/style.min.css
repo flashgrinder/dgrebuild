@@ -215,7 +215,7 @@ img {
 /* Block-padding */
 
 .block-padding {
-  padding: 130px 0;
+  padding: 100px 0;
 }
 
 /* Links */
@@ -1251,71 +1251,34 @@ img {
   margin: 0 auto;
 }
 
-.about__decor {
-  position: absolute;
-  pointer-events: none;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
-  z-index: -1;
-}
-
-.about__decor--top {
-  top: 50px;
-  left: 30%;
-}
-
-.about__decor--bottom {
-  bottom: 0;
-  left: 20%;
-}
-
 .about__text-accent {
   color: var(--color-blue);
 }
 
-.about__subheading {
+.about__blockquote {
+  margin: 0;
+  padding: 0 50px;
+}
+
+.about__blockquote-text {
+  text-align: center;
+}
+
+.about__blockquote-man {
+  margin-top: 30px;
+  text-align: right;
+}
+
+.about__list {
   margin-top: 50px;
 }
 
-.about__grid {
-  margin-top: 100px;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  grid-gap: 50px;
-  align-items: center;
+.about__item ~ .about__item {
+  margin-top: 20px;
 }
 
-.about__title ~ .about__title {
-  margin-top: 100px;
-}
-
-.about__text {
-  position: relative;
-  padding: 30px 0;
-}
-
-.about__text:nth-child(2)::before,
-.about__text:nth-child(2)::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  opacity: 0.5;
-  width: 1000%;
-  height: 1px;
-  background: #000;
-}
-
-.about__text:nth-child(2)::before {
-  top: 0;
-}
-
-.about__text:nth-child(2)::after {
-  bottom: 0;
-}
-
-.about__descr ~ .about__descr {
-  margin-top: 30px;
+.about__descr {
+  margin-top: 50px;
 }
 
 /* Register */
@@ -1644,28 +1607,6 @@ img {
     background-position: center bottom;
   }
 
-  .about__decor--top {
-    top: 40px;
-    left: 50%;
-  }
-
-  .about__decor--bottom {
-    left: 40%;
-  }
-
-  .about__decor--bottom .about__decor-svg {
-    max-width: 170px;
-  }
-
-  .about__grid {
-    grid-gap: 30px;
-    margin-top: 70px;
-  }
-
-  .about__title ~ .about__title {
-    margin-top: 30px;
-  }
-
   .team__items {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
@@ -1693,6 +1634,10 @@ img {
 
   .main-screen {
     justify-content: center;
+  }
+
+  .about__blockquote {
+    padding: 0;
   }
 
   .register__decor {
