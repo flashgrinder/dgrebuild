@@ -1048,10 +1048,11 @@ img {
 /* Header */
 
 .header {
-  position: absolute;
+  position: static;
   width: 100%;
   z-index: 10;
   background: transparent;
+  background: rgba(0, 0, 0, 0.9);
 }
 
 .header__body {
