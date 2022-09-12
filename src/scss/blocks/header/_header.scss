@@ -29,7 +29,13 @@
 }
 
 .header__logo {
-    max-width: 80px;
+    display: flex;
+    align-items: center;
+    grid-gap: 20px;
+}
+
+.header__logo-img {
+    max-width: 130px;
 }
 
 .header__action {

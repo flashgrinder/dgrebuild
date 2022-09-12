@@ -35,15 +35,15 @@
     display: flex;
     flex-direction: column;
     background: var(--color-white);
-    max-width: 555px;
+    max-width: 545px;
     width: 100%;
-    padding: 40px 35px 28px;
+    padding: 20px 15px 10px;
     overflow-x: hidden;
     border-radius: 10px;
-    margin-top: 90px;
+    margin-top: 20px;
     max-height: 95vh;
     @include mobileXS-block {
-        padding: 16px 15px 30px;
+        padding: 10px 0px 10px;
         max-width: 100%;
     }
 }
@@ -261,4 +261,8 @@
     position: relative;
     z-index: -1;
     opacity: 0;
+}
+
+.modal__body .js-section-submit {
+    text-align: center;
 }
