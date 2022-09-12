@@ -27,7 +27,7 @@
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
                     Регистрация
                 </h3>
-                <script src="https://dis-group.comdi.com/player/js/embed.min.js" type="text/javascript" data-comdi-event="ewgogxsc"></script>
+                <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src=https://timepad.ru/js/tpwf/loader/min/loader.js data-timepad-customized="30874" data-twf2s-event--id="2167247" data-timepad-widget-v2="event_register"></script>
             </div>
         </div>
     </div>
@@ -36,20 +36,21 @@
     <!-- Header -->
     <header class="header">
         <div class="header__body container">
-            <a href="<?php echo home_url(); ?>" class="header__logo logo">
-                <img src="<?php echo STANDART_DIR; ?>img/logo.svg" alt="" class="header__logo-img logo__img">
+            <a href="./" class="header__logo logo">
+                <img src="<?php echo STANDART_DIR ?>img/logo-atameken-1.png" alt="" class="header__logo-img logo__img">
+                <img src="<?php echo STANDART_DIR ?>img/logo-atameken-2.png" alt="" class="header__logo-img logo__img">
             </a>
             <div class="header__inner js-menu">
                 <nav class="header__menu menu">
                     <ul class="header__menu-list menu__list">
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="#event" class="menu__link">
-                                О мероприятии
+                            <a href="#about" class="menu__link">
+                                О нас
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
-                            <a href="#discussions" class="menu__link">
-                                Дискуссии
+                            <a href="#speakers" class="menu__link">
+                                Спикеры
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
