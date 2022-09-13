@@ -345,7 +345,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            MDM проект - кто?
+                            MDM проект
                         </h3>
                     </div>
                 </div>
