@@ -8,7 +8,7 @@
                     <div class="main-screen__left">
                         <div class="main-screen__text">
                             <div class="main-screen__descr text text--large text--white text--w-light">
-                                Телеканал Атамекен business при поддержке DIS Group приглашает Вас на бизнес-форум «Цифровое перерождение».
+                                Медиахолдинг "ATAMEKEN BUSINESS" при поддержке DIS Group приглашает Вас на бизнес-форум «Цифровое перерождение».
                             </div>
                             <div class="main-screen__descr text text--large text--white text--w-light">
                                 Бизнес-форум соберёт на одной площадке представителей ведущих IT-компаний, государственных структур и бизнес-сообщества.
