@@ -166,16 +166,16 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/avatar.png" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/asil.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Имя Фамилия
+                                Асыл Нурамагамбетова
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Должность
+                                Начальник отдела управления данными, КазМунайГаз
                             </p>
                         </div>
                     </div>
@@ -185,16 +185,16 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/avatar.png" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/erken.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Имя Фамилия
+                                Еркен Шназбаев
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Должность
+                                ИТ директор, ERG
                             </p>
                         </div>
                     </div>
@@ -294,6 +294,30 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 1: Государство, цифровизация, данные. 
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Аида Дарменова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Акимат г. Алматы
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Асель Марченко
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                ИТ директор Halyk Finance
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Руслан Омаров
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Генеральный директор, Первое кредитное бюро
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
