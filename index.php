@@ -166,7 +166,7 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/asil.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/asil.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
