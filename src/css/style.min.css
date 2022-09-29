@@ -867,10 +867,14 @@ img {
 }
 
 .modal__form {
-  font-family: var(--font-raleway);
+  font-family: var(--font-proxima-nova);
   width: 100%;
   max-width: 555px;
   margin: 0 auto;
+}
+
+.modal__form.invalid .modal__input.wpcf7-not-valid {
+  border: 1px solid #FF0000;
 }
 
 .modal__field ~ .modal__field {
@@ -954,7 +958,7 @@ img {
 }
 
 .modal .wpcf7 form .wpcf7-response-output {
-  font-family: var(--font-raleway);
+  font-family: var(--font-proxima-nova);
   font-size: 14px;
   text-align: center;
   margin: 20px 0 0;
@@ -975,7 +979,7 @@ img {
 
 .modal__form .wpcf7-not-valid-tip {
   text-align: center;
-  font-family: var(--font-raleway);
+  font-family: var(--font-proxima-nova);
   font-size: 12px;
   margin-top: 5px;
   color: var(--color-invalid);
@@ -991,7 +995,7 @@ img {
 }
 
 .modal__agree-text .wpcf7-acceptance .wpcf7-list-item {
-  font-family: var(--font-raleway);
+  font-family: var(--font-proxima-nova);
   font-size: 12px;
   font-weight: 400;
   color: var(--color-black);
@@ -1065,6 +1069,19 @@ img {
 
 .modal__body .js-section-submit {
   text-align: center;
+}
+
+.modal__form .wpcf7-not-valid-tip {
+  text-align: center;
+  font-family: var(--font-proxima-nova);
+  font-size: 12px;
+  margin-top: 5px;
+  color: #FF0000;
+  position: absolute;
+  width: 100%;
+  bottom: -37px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 /* Header */
