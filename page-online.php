@@ -221,6 +221,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/maxat.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Максат Нуриденулы
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Советник председателя Агентства РК по регулированию и развитию финансового рынка
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -372,6 +391,14 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 2: Как Data Governance помогает бизнесу стать эффективнее.
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Бахдаулет Едильбеков
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель по инновациям и рискам в HomeCredit Bank
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
