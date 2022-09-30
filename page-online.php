@@ -31,7 +31,9 @@
                             </div>
                         </div>
                         <div class="main-screen__descr main-screen__descr--bottom text text--large text--white text--w-light">
-                            Будем рады видеть вас на бизнес-форуме «Цифровое перерождение», одном из самых значимых и ярких мероприятий IT-отрасли в нашей стране!
+                            Для тех, кто не сможет присутствовать лично, мы организовали онлайн трансляцию.
+                            <br>
+                            Регистрируйтесь и смотрите мероприятие онлайн.
                         </div>
                     </div>
                     <div class="main-screen__right">
@@ -71,7 +73,7 @@
                 </div>
                     <div class="main-screen__actions gs-reveal gs-reveal--from-left">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration-online">
-                            Регистрация для участников
+                            Регистрация на онлайн-трансляцию
                         </a>
                     </div>
                 </div>
