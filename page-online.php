@@ -309,7 +309,7 @@
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Евгений щербинин
+                                Евгений Щербинин
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Директор, ТОО Prime Source
@@ -352,6 +352,26 @@
                 Указано время по Москве
             </p>
             <div class="programm__list">
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        9:00 - 10:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Регистрация
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        9:00 - 9:15
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Welcome coffee
+                        </h3>
+                    </div>
+                </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
                         10:00 - 10:05
@@ -481,6 +501,42 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            MДМ проект. История успеха.
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Еркен Шназбаев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                ИТ директор, ERG
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        12:45 - 13:05
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Тime to Market. Быстрый вывод продуктов на рынок.
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Серафим Бородин
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                DIS Group
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        13:05 - 13:20
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Новые подходы к фабрике данных. (DG)
                         </h3>
                         <div class="programm__man">
@@ -495,25 +551,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:45 - 13:00
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Ожидается облачность?
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Евгений Щербинин
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Генеральный директор, PrimeSource
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:00 - 13:35
+                        13:20 - 14:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -548,60 +586,50 @@
                                 Советник председателя Агентства РК по регулированию и развитию финансового рынка
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:35 - 14:00
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Подходы к DG
-                        </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Олег Гиацинтов 
+                                Самаева Жанар Турганбековна 
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Технический директор DIS Group
+                                Заместитель председателя правления АО "Центр развития платежных и финансовых технологий Национального Банка Республики Казахстан"
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:00 - 14:45
+                        14:00 - 15:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Обед
+                            Обед в ресторан Брассери
                         </h3>
                     </div>
-                </div>           
+                </div>         
                 <h3 class="programm__block-title title title--large title--blue title--w-semibold">
                     Цифровое общество
                 </h3>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:45 - 15:10
+                        15:00 - 15:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            MДМ проект. История успеха.
+                            Ожидается облачность?
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Еркен Шназбаев
+                                Евгений Щербинин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                ИТ директор, ERG
+                                Генеральный директор, PrimeSource
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:10 - 15:30
+                        15:15 - 15:35
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -619,7 +647,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:30 - 16:10
+                        15:35 - 16:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -627,35 +655,56 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Ведущий: Асем Нургалиева
+                                Ведущая: Асем Нургалиева
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Елена Радченко 
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Участники: Kcell, Tele2, Отбасы, Евразийский банк
+                                Управляющий директор по клиентскому сервису  Eurasian Bank
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Станислав Стрельцов 
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Chief Data officer Tele2
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Бинур Макеев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Магнум
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:10 - 16:30
+                        16:15 - 16:35
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Тime to Market. Быстрый вывод продуктов на рынок.
+                            Подходы к DG
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Серафим Бородин
+                                Олег Гиацинтов 
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                DIS Group
+                                Технический директор DIS Group
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> 
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:30 - 16:50
+                        16:35 - 16:55
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
