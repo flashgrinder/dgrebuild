@@ -172,7 +172,7 @@
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Асыл Нурамагамбетова
+                                Асыл Нурмагамбетова
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Начальник отдела управления данными, КазМунайГаз
@@ -333,6 +333,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/makeev.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Бинур Макеев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Product owner Magnum Club
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -407,11 +426,14 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            От привычного к экстраординарному. Видение мирового лидера в области управления данными Striving for Greatness with a Data-first Strategy (Сloud тренды)
+                            От привычного к экстраординарному. 10^25 Видение мирового лидера в области управления данными Striving for Greatness with a Data-first Strategy (Сloud тренды)
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Выступление спикера из Informatica
+                                Петр Сковронский
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Региональный директор Informatica (Центральная и Восточная Европа и Африка)
                             </div>
                         </div>
                     </div>
@@ -449,7 +471,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Ведущая: АсeмНургалиева
+                                Ведущая: Асeм Нургалиева
                             </div>
                         </div>
                         <div class="programm__man">
@@ -537,7 +559,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Асыл Нурамагамбетова
+                                Асыл Нурмагамбетова
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Начальник отдела управления данными, КазМунайГаз
@@ -598,7 +620,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Обед в ресторан Брассери
+                            Обед
                         </h3>
                     </div>
                 </div>         
@@ -675,7 +697,7 @@
                                 Бинур Макеев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Магнум
+                                Product owner Magnum Club
                             </div>
                         </div>
                     </div>
