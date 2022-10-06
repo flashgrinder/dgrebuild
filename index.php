@@ -498,6 +498,14 @@
                                 Генеральный директор, Первое кредитное бюро
                             </div>
                         </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Сания Идрисова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель департамента Govtech, AIFC Tech hub
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -698,6 +706,14 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Product owner Magnum Club
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Эльмира Распекова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Заместитель Председателя Правления АО Отбасы банк
                             </div>
                         </div>
                     </div>
