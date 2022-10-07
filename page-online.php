@@ -549,7 +549,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Тime to Market. Быстрый вывод продуктов на рынок.
+                            Управление данными - ключ к повышениею операционой эффективности предприятия
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
