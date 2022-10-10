@@ -274,7 +274,7 @@
                                 Асель Марченко
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                ИТ директор Halyk Finance
+                                Управляющий директор по IT, АО "Halyk Finance"
                             </p>
                         </div>
                     </div>
@@ -284,7 +284,7 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/omarov.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/omarov.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
@@ -351,6 +351,63 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Product owner Magnum Club
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/bigari.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Рустем Бигари
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Генеральный директор ГНП на ПВХ "Центр поддержки цифрового правительства"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/idrisova.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Сания Идрисова
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Руководитель департамента Govtech, AIFC Tech hub
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/strelcov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Станислав Стрельцов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Chief data officer, Теле 2
                             </p>
                         </div>
                     </div>
@@ -453,6 +510,14 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Цифровая стратегия Казахстана. Приоритеты государства. 
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Рустем Бигари 
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Генеральный директор ГНП на ПВХ "Центр поддержки цифрового правительства"
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -461,8 +526,16 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Перспективы монетизации данных.  Кейсы международные(Госсектор).
+                            Данные. Ценность. Монетизация.
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            Руслан Омаров
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Генеральный директор, Первое кредитное бюро 
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -491,15 +564,7 @@
                                 Асель Марченко
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                ИТ директор Halyk Finance
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Руслан Омаров
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Генеральный директор, Первое кредитное бюро
+                                Управляющий директор по IT, АО "Halyk Finance"
                             </div>
                         </div>
                         <div class="programm__man">
@@ -663,7 +728,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Цифровые сервисы для сотрудников, качество данных
+                            Управление знаниями в организации
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
