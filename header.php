@@ -25,9 +25,9 @@
                     </svg>
                 </div>
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
-                    Регистрация
+                    Получить материалы
                 </h3>
-                <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src=https://timepad.ru/js/tpwf/loader/min/loader.js data-timepad-customized="30874" data-twf2s-event--id="2167247" data-timepad-widget-v2="event_register"></script>
+                <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src=https://timepad.ru/js/tpwf/loader/min/loader.js data-timepad-customized="30874" data-twf2s-event--id="2207461" data-timepad-widget-v2="event_register"></script>
             </div>
         </div>
     </div>
@@ -43,9 +43,9 @@
                     </svg>
                 </div>
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
-                    Регистрация
+                    Получить материалы
                 </h3>
-                <?php echo do_shortcode( '[contact-form-7 id="8" title="Цифровое перерождение онлайн" html_class="modal__form"]' ); ?>
+                <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src=https://timepad.ru/js/tpwf/loader/min/loader.js data-timepad-customized="30874" data-twf2s-event--id="2207461" data-timepad-widget-v2="event_register"></script>
             </div>
         </div>
     </div>

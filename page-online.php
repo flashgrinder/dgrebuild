@@ -73,7 +73,7 @@
                 </div>
                     <div class="main-screen__actions gs-reveal gs-reveal--from-left">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration-online">
-                            Регистрация на онлайн-трансляцию
+                            Смотреть форум в записи
                         </a>
                     </div>
                 </div>
@@ -893,7 +893,7 @@
                 </p>
                 <div class="register__action">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration-online">
-                        Зарегистрироваться
+                        Смотреть форум в записи
                     </a>
                 </div>
             </div>
