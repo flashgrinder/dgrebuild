@@ -10,24 +10,24 @@
                     <div class="main-screen__left">
                         <div class="main-screen__text">
                             <div class="main-screen__descr text text--large text--white text--w-light">
-                                Медиахолдинг "ATAMEKEN BUSINESS" при поддержке DIS Group приглашает Вас на бизнес-форум «Цифровое перерождение».
+                                Медиахолдинг “ATAMEKEN BUSINESS” при поддержке DIS Group приглашает Вас на бизнес-форум “Цифровое перерождение”.
                             </div>
                             <div class="main-screen__descr text text--large text--white text--w-light">
                                 Бизнес-форум соберёт на одной площадке представителей ведущих IT-компаний, государственных структур и бизнес-сообщества.
                             </div>
                         </div>
                         <h3 class="main-screen__title title title--pre-medium title--white title--w-bold title--uppercase">
-                            На форуме будут проведены дискуссии на тему:
+                            На форуме пройдут дискуссии на тему:
                         </h3>
                         <div class="main-screen__list">
                             <div class="main-screen__item text text--large text--white text--w-regular">
-                                &mdash; «Государство, цифровизация, данные»
+                                &mdash; Казахстан – цифровой хаб Евразии
                             </div>
                             <div class="main-screen__item text text--large text--white text--w-regular">
-                                &mdash; «Как Data Governance помогает бизнесу стать эффективнее»
+                                &mdash; Цифровой трамплин: от CAPEX – к OPEX
                             </div>
                             <div class="main-screen__item text text--large text--white text--w-regular">
-                                &mdash; «Как повысить операционную эффективность и клиентский опыт»
+                                &mdash; Зарабатывая на данных. Как оценить эффективность цифровых проектов
                             </div>
                         </div>
                         <div class="main-screen__descr main-screen__descr--bottom text text--large text--white text--w-light">
@@ -49,7 +49,7 @@
                                     Дата проведения бизнес-форума <br> «Цифровое перерождение».
                                 </div>
                                 <div class="main-screen__data text text--large text--white text--w-semibold">
-                                    11 октября 2022 г.
+                                    12 апреля 2023 г.
                                 </div>
                             </div>
                             <div class="main-screen__info-event">
@@ -73,7 +73,7 @@
                 </div>
                     <div class="main-screen__actions gs-reveal gs-reveal--from-left">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration-online">
-                            Смотреть форум в записи
+                            Регистрация
                         </a>
                     </div>
                 </div>
@@ -98,13 +98,13 @@
             </blockquote>
             <div class="about__list">
                 <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Каковы последние тренды в цифровизации Казахстана?
+                    &mdash; Всеобщий уход в облака: ключевой тренд или краткосрочное увлечение? Нужна ли Казахстану облачная инфраструктура?
                 </div>
                 <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Почему именно Data Governance становится ядром цифровой трансформации?
+                    &mdash; Ключевые инструменты монетизации. Как заставить данные работать на вас?
                 </div>
                 <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Как превратить данные в источник цифрового суверенитета и ресурс для монетизации?
+                    &mdash; Искусство маленьких шагов или цифровой трамплин: как будут развиваться инновации в нашей стране?
                 </div>
             </div>
             <div class="about__descr text text--large text--dark text--w-regular">
@@ -132,7 +132,7 @@
                         Асем Нургалиева 
                     </h3>
                     <p class="moder__card-descr text text--normal text--dark text--w-light">
-                        Исполнительный директор Первого кредитного бюро. Внештатный Советник Министра цифрового развития, инноваций и аэрокосмической промышленности РК. Телеведущая, ведет свой авторский телевизионный проект на Телеканале Atameken Business «Время Fintech».
+                        СЕО Kazpost Digital, Советник Министра цифрового развития, инноваций и аэрокосмической промышленности РК. Победительница Digital Almaty Awards 2023 в номинации “Woman in Tech”. Телеведущая, ведет свой авторский телевизионный проект на Телеканале Atameken Business «Время Fintech».
                     </p>
                 </div>
             </article>
@@ -144,7 +144,7 @@
     <section class="team bg--white block-padding" id="speakers">
         <div class="team__body container">
             <h2 class="team__heading title title--big title--dark title--w-semibold title--indent">
-                Ключевые спикеры
+                К участию приглашены
             </h2>
             <div class="team__items">
                 <!-- Team-card -->
@@ -507,7 +507,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Ускорение цифровой трансформации. Новые тренды в Казахстане.
+                            На гребне трансформации. Цифровой Казахстан сегодня и завтра
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
@@ -521,96 +521,62 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:25 - 10:45
+                        10:25 - 10:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            От привычного к экстраординарному. 10^25 Видение мирового лидера в области управления данными Striving for Greatness with a Data-first Strategy (Сloud тренды)
+                            Законодательство. Как все учесть?
                         </h3>
-                        <div class="programm__man">
+                        <!-- <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
                                 Петр Сковронский
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Региональный директор Informatica (Центральная и Восточная Европа и Африка)
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
-                <h3 class="programm__block-title title title--large title--blue title--w-semibold">
+                <!-- <h3 class="programm__block-title title title--large title--blue title--w-semibold">
                     Цифровое государство
-                </h3>
+                </h3> -->
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:45 - 11:10
+                        10:50 - 11:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Цифровая стратегия Казахстана. Приоритеты государства. 
+                            Цифровая экосистема государства.
                         </h3>
-                        <div class="programm__man">
+                        <!-- <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
                                 Рустем Бигари 
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Генеральный директор ГНП на ПВХ "Центр поддержки цифрового правительства"
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:10 - 11:30
+                        11:15 - 12:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Данные. Ценность. Монетизация.
+                            Дискуссия 1. Казахстан - цифровой хаб Евразии
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                            Руслан Омаров
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Генеральный директор, Первое кредитное бюро 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:30 - 12:00
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 1: Государство, цифровизация, данные. 
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Ведущая: Асeм Нургалиева
+                                Ведущая: Асем Нургалиева
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Аида Дарменова
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Участники:
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Акимат г. Алматы
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Асель Марченко
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Управляющий директор по IT, АО "Halyk Finance"
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Сания Идрисова
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель департамента Govtech, AIFC Tech hub
+                                Представители крупных государственных и коммерческих организаций
                             </div>
                         </div>
                     </div>
@@ -625,148 +591,16 @@
                         </h3>
                     </div>
                 </div>
-                <h3 class="programm__block-title title title--large title--blue title--w-semibold">
-                    Цифровая экономика
-                </h3>
+                <!-- <h3 class="programm__block-title title title--large title--blue title--w-semibold">
+                    На фронтире инноваций: облако, данные, искусственный интеллект
+                </h3> -->
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
                         12:20 - 12:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            MДМ проект. История успеха.
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Еркен Шназбаев
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                ИТ директор, ERG
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:45 - 13:05
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Управление данными - ключ к повышениею операционой эффективности предприятия
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Серафим Бородин
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                DIS Group
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:05 - 13:20
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Новые подходы к фабрике данных. (DG)
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Асыл Нурмагамбетова
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Начальник отдела управления данными, КазМунайГаз
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:20 - 14:00
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 2: Как Data Governance помогает бизнесу стать эффективнее.
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Ведущий: Олег Гиацинтов
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Антон Хмелев
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                CDO, Fortebank
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Бахдаулет Едильбеков
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Руководитель по инновациям и рискам в HomeCredit Bank
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Максат Нуриданулы
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Советник председателя Агентства РК по регулированию и развитию финансового рынка
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Самаева Жанар Турганбековна 
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Заместитель председателя правления АО "Центр развития платежных и финансовых технологий Национального Банка Республики Казахстан"
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:00 - 15:00
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Обед
-                        </h3>
-                    </div>
-                </div>         
-                <h3 class="programm__block-title title title--large title--blue title--w-semibold">
-                    Цифровое общество
-                </h3>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:00 - 15:15
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Ожидается облачность?
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Евгений Щербинин
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Генеральный директор, PrimeSource
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:15 - 15:35
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Управление знаниями в организации
+                            На фронтире инноваций: облако, данные, искусственный интеллект
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
@@ -780,11 +614,126 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:35 - 16:15
+                        12:45 - 13:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 3: Как повысить операционную эффективность и клиентский опыт?
+                            Вглядываясь в будущее. Цифровая платформа и безоблачные планы на облако
+                        </h3>
+                        <!-- <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Серафим Бородин
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                DIS Group
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        13:10 - 13:40
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Дискуссия 2. Цифровой трамплин: от CAPEX – к OPEX
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Ведущая: Асем Нургалиева
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Участники:
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Представители крупных государственных и коммерческих организаций
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        13:40 - 14:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Облака на горизонте? Основные тренды и прогноза по развитию cloud-решений.
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        14:00 - 15:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Обед
+                        </h3>
+                    </div>
+                </div>         
+                <!-- <h3 class="programm__block-title title title--large title--blue title--w-semibold">
+                    Цифровое общество
+                </h3> -->
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:00 - 15:20
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Практические эффекты монетизации данных. Новые кейсы на рынке Казахстана
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Представитель КазМунайГаз
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:20 - 15:45
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Как управлять данными в 2023? Методология и ключевые инструменты
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Олег Гиацинтов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                DIS Group
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:45 - 16:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            6 шагов к Data Quality. Как сделать данные по-настоящему качественными? Практический кейс (телеком СНГ)
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Дмитрий Бондаренко
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                DIS Group
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        16:00 - 16:30
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Зарабатывая на данных. Как оценить эффективность цифровых проектов
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
@@ -793,72 +742,22 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Елена Радченко 
+                                Участники:
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Управляющий директор по клиентскому сервису  Eurasian Bank
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Станислав Стрельцов 
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Chief Data officer Tele2
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Бинур Макеев
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Product owner Magnum Club
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Эльмира Распекова
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Заместитель Председателя Правления АО Отбасы банк
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:15 - 16:35
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Подходы к DG
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Олег Гиацинтов 
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Технический директор DIS Group
+                                Представители крупных государственных и коммерческих организаций
                             </div>
                         </div>
                     </div>
                 </div> 
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:35 - 16:55
+                        16:35 - 16:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Отделение международной организации по управлению данными в Казахстане. Профессиональный нетворкинг
+                            Безопасность данных. Действовать на опережение
                         </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Дмитрий Цой
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Президент DAMA Kazakhstan
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -867,13 +766,8 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Завершение Форума. 
+                            Завершение Форума. Подведение итогов и розыгрыш призов
                         </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Асем Нургалиева
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -893,7 +787,7 @@
                 </p>
                 <div class="register__action">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration-online">
-                        Смотреть форум в записи
+                        Регистрация
                     </a>
                 </div>
             </div>
