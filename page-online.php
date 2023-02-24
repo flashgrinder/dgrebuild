@@ -42,7 +42,7 @@
                                 Бизнес-форум
                             </h3>
                             <h1 class="main-screen__heading title title--huge title--white title--w-bold title--uppercase">
-                                Цифровое перерождение
+                                Цифровое перерождение 2023
                             </h1>
                             <div class="main-screen__info-event">
                                 <div class="main-screen__descr text text--large text--white text--w-light">
@@ -236,7 +236,7 @@
                                 Максат Нуриденулы
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Советник председателя Агентства РК по регулированию и развитию финансового рынка
+                                
                             </p>
                         </div>
                     </div>
@@ -564,7 +564,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 1. Казахстан - цифровой хаб Евразии
+                            Дискуссия 1. Как стать цифровым хабом? Community, решения, подходы.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
