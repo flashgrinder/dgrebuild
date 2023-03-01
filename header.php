@@ -47,7 +47,7 @@
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
                     Регистрация
                 </h3>
-                <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form fckng-btfl-frm"></form>
+                <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form fckng-btfl-frm">
                     <!-- Fields -->
                     <div class="modal__field">
                         <input type="text" name="name" class="modal__input" placeholder="Ваше имя"required/>
