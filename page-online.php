@@ -21,7 +21,7 @@
                         </h3>
                         <div class="main-screen__list">
                             <div class="main-screen__item text text--large text--white text--w-regular">
-                                &mdash; Казахстан – цифровой хаб Евразии
+                                &mdash; Как стать цифровым хабом
                             </div>
                             <div class="main-screen__item text text--large text--white text--w-regular">
                                 &mdash; Цифровой трамплин: от CAPEX – к OPEX
@@ -620,14 +620,11 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Вглядываясь в будущее. Цифровая платформа и безоблачные планы на облако
                         </h3>
-                        <!-- <div class="programm__man">
+                        <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Серафим Бородин
+                                Представитель КазМунайГаз
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                DIS Group
-                            </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -647,8 +644,21 @@
                             <div class="programm__man-name text text--normal text--dark text--w-light">
                                 Участники:
                             </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Евгений Щербинин
+                            </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Представители крупных государственных и коммерческих организаций
+                                Директор ТОО Prime Source
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Бинур Макеев 
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Product owner Magnum Club
                             </div>
                         </div>
                     </div>
@@ -686,7 +696,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Представитель КазМунайГаз
+                                Предаставитель Freedom Finance
                             </div>
                         </div>
                     </div>
