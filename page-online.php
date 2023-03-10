@@ -451,6 +451,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/edilbekov.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Бахдаулет Едильбеков
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Head of Risk & Invatition, HomeCredit Bank
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -661,6 +680,14 @@
                                 Product owner Magnum Club
                             </div>
                         </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Асель Марченко
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Управляющий директор по IT, АО "Halyk Finance"
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -754,8 +781,13 @@
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
                                 Участники:
                             </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Бахдаулет Едильбеков
+                            </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Представители крупных государственных и коммерческих организаций
+                                Head of Risk & Invatition, HomeCredit Bank
                             </div>
                         </div>
                     </div>
