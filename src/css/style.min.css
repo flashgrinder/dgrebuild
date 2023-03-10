@@ -80,16 +80,6 @@ img {
 
 /* Burger-menu */
 
-@-webkit-keyframes rotate-burger-before {
-  0% {
-    transform: rotate(0deg);
-  }
-
-  100% {
-    transform: rotate(45deg);
-  }
-}
-
 @keyframes rotate-burger-before {
   0% {
     transform: rotate(0deg);
@@ -97,16 +87,6 @@ img {
 
   100% {
     transform: rotate(45deg);
-  }
-}
-
-@-webkit-keyframes rotate-burger-after {
-  0% {
-    transform: rotate(0deg);
-  }
-
-  100% {
-    transform: rotate(-45deg);
   }
 }
 
@@ -122,16 +102,6 @@ img {
 
 /* Rotate */
 
-@-webkit-keyframes rotate {
-  0% {
-    transform: rotate(0deg);
-  }
-
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
 @keyframes rotate {
   0% {
     transform: rotate(0deg);
@@ -143,17 +113,6 @@ img {
 }
 
 /* Spinner-pulse */
-
-@-webkit-keyframes spinner-pulse {
-  0% {
-    transform: translate(-50%, -50%) scale(0);
-  }
-
-  100% {
-    transform: translate(-50%, -50%) scale(1);
-    opacity: 0;
-  }
-}
 
 @keyframes spinner-pulse {
   0% {
@@ -602,13 +561,11 @@ img {
 }
 
 .swiper-container-horizontal.swiper-container-css-mode > .swiper-wrapper {
-  -webkit-scroll-snap-type: x mandatory;
-          scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
 }
 
 .swiper-container-vertical.swiper-container-css-mode > .swiper-wrapper {
-  -webkit-scroll-snap-type: y mandatory;
-          scroll-snap-type: y mandatory;
+  scroll-snap-type: y mandatory;
 }
 
 .swiper-container-fade.swiper-container-free-mode .swiper-slide {
@@ -747,8 +704,7 @@ img {
   margin: auto;
   background-color: var(--color-blue);
   border-radius: 100%;
-  -webkit-animation: spinner-pulse 1s infinite ease-in-out;
-          animation: spinner-pulse 1s infinite ease-in-out;
+  animation: spinner-pulse 1s infinite ease-in-out;
 }
 
 /* Hystmodal */
@@ -953,8 +909,7 @@ img {
   border: 3px solid var(--color-dark-violet);
   border-top: 3px solid #595959;
   transform-origin: center;
-  -webkit-animation: rotate 1s infinite linear backwards;
-          animation: rotate 1s infinite linear backwards;
+  animation: rotate 1s infinite linear backwards;
 }
 
 .modal .wpcf7 form .wpcf7-response-output {
@@ -1217,14 +1172,12 @@ img {
 
 .burger-menu.is-open .burger-menu__line::before {
   top: 0;
-  -webkit-animation: rotate-burger-before 0.2s linear 0.2s forwards;
-          animation: rotate-burger-before 0.2s linear 0.2s forwards;
+  animation: rotate-burger-before 0.2s linear 0.2s forwards;
 }
 
 .burger-menu.is-open .burger-menu__line::after {
   top: 0;
-  -webkit-animation: rotate-burger-after 0.2s linear 0.2s forwards;
-          animation: rotate-burger-after 0.2s linear 0.2s forwards;
+  animation: rotate-burger-after 0.2s linear 0.2s forwards;
 }
 
 /* Main-screen */
@@ -1501,6 +1454,15 @@ img {
 
 .partners__card-descr {
   margin-top: 15px;
+}
+
+/* Thanks */
+
+.thanks__inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: calc(100vh - 356px);
 }
 
 /* Footer */

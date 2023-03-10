@@ -72,7 +72,7 @@
                     <!-- Get the token at: https://email.dis-group.info/campaign_list.html -->
                     <input type="hidden" name="campaign_token" value="oMCnF" />
                     <!-- Thank you page (optional) -->
-                    <input type="hidden" name="thankyou_url" value="https://dis-group.ru/thanks/"/>
+                    <input type="hidden" name="thankyou_url" value="https://data-forum.kz/thanks/"/>
                     <!-- Subscriber button -->
                     <div class="modal__actions">
                         <input type="submit" value="Зарегистрироваться" style="font-size: 18px; font-weight: bold;" class="modal__btn button button--primary fckng-btfl-frm"/>
