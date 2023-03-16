@@ -208,25 +208,6 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/hmelev.png" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Антон Хмелев
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                CDO, ForteBank
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/maxat.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -246,16 +227,35 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/aida.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/gulzahira.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Аида Дарменова
+                                Гульзахида Садырова
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Акимат г. Алматы
+                                Береке Банк
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/frank.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Френк Хендрикс
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по развитию бизнеса (Ближний Восток, Африка, Центральная и Восточная Европа) Informatica
                             </p>
                         </div>
                     </div>
@@ -370,44 +370,6 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Генеральный директор ГНП на ПВХ "Центр поддержки цифрового правительства"
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/idrisova.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Сания Идрисова
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Руководитель департамента Govtech, AIFC Tech hub
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/strelcov.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Станислав Стрельцов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Chief data officer, Теле 2
                             </p>
                         </div>
                     </div>
