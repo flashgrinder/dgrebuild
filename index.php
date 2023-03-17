@@ -11,7 +11,7 @@
                                 Медиахолдинг “ATAMEKEN BUSINESS” при поддержке DIS Group приглашает Вас на бизнес-форум “Цифровое перерождение”.
                             </div>
                             <div class="main-screen__descr text text--large text--white text--w-light">
-                                Бизнес-форум соберёт на одной площадке представителей ведущих IT-компаний, государственных структур и бизнес-сообщества.
+                                Бизнес-форум соберет на одной площадке представителей крупнейших коммерческих компаний и государственных структур.
                             </div>
                         </div>
                         <h3 class="main-screen__title title title--pre-medium title--white title--w-bold title--uppercase">
@@ -25,7 +25,7 @@
                                 &mdash; Цифровой трамплин: от CAPEX – к OPEX
                             </div>
                             <div class="main-screen__item text text--large text--white text--w-regular">
-                                &mdash; Зарабатывая на данных. Как оценить эффективность цифровых проектов
+                                &mdash; Монетизация данных. Как оценить эффективность цифровых проектов
                             </div>
                         </div>
                         <div class="main-screen__descr main-screen__descr--bottom text text--large text--white text--w-light">
@@ -213,7 +213,7 @@
                                 Максат Нуриденулы
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                
+                                Управляющий директор АО Береке Банк
                             </p>
                         </div>
                     </div>
@@ -223,16 +223,16 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/gulzahira.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/nurumbetov.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Гульзахида Садырова
+                                Бекарыс Нурумбетов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Береке Банк
+                                Руководитель направления мобильных финансовых сервисов, Tele2
                             </p>
                         </div>
                     </div>
@@ -632,18 +632,18 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Бинур Макеев 
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Product owner Magnum Club
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
                                 Асель Марченко
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Управляющий директор по IT, АО "Halyk Finance"
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Максат Нуриденулы
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Управляющий директор АО Береке Банк
                             </div>
                         </div>
                     </div>
@@ -681,7 +681,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                Предаставитель Freedom Finance
+                                Представитель Freedom Finance
                             </div>
                         </div>
                     </div>
@@ -728,7 +728,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Зарабатывая на данных. Как оценить эффективность цифровых проектов
+                            Монетизация данных. Как оценить эффективность цифровых проектов
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-regular">
@@ -746,6 +746,22 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Head of Risk & Invatition, HomeCredit Bank
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Бекарыс Нурумбетов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Руководитель направления мобильных финансовых сервисов, Tele2
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Бинур Макеев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Product owner Magnum Club
                             </div>
                         </div>
                     </div>
