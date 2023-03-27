@@ -22,9 +22,9 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Preloader -->
-    <div class="page-preloader">
+    <!-- <div class="page-preloader">
         <div class="page-preloader__pulse"></div>
-    </div>
+    </div> -->
     <!-- /. Preloader -->
 
     <!-- Modal -->

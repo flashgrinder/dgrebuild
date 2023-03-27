@@ -52,14 +52,14 @@
                                     12 апреля 2023 г.
                                 </div>
                             </div>
-                            <div class="main-screen__info-event">
+                            <!-- <div class="main-screen__info-event">
                                 <div class="main-screen__descr text text--large text--white text--w-light">
                                     Место проведения
                                 </div>
                                 <div class="main-screen__data text text--large text--white text--w-semibold">
                                     г. Алматы
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="main-screen__info-event">
                                 <div class="main-screen__descr text text--large text--white text--w-light">
                                     Время проведения
@@ -71,7 +71,7 @@
                         </div>
                     </div>
                 </div>
-                    <div class="main-screen__actions gs-reveal gs-reveal--from-left">
+                    <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration-online">
                             Регистрация
                         </a>
@@ -98,7 +98,10 @@
             </blockquote>
             <div class="about__list">
                 <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Всеобщий уход в облака: ключевой тренд или краткосрочное увлечение? Нужна ли Казахстану облачная инфраструктура?
+                    &mdash; Всеобщий уход в облака: ключевой тренд или краткосрочное увлечение?
+                </div>
+                <div class="about__item text text--large text--dark text--w-semibold">
+                    &mdash; Нужна ли Казахстану облачная инфраструктура?
                 </div>
                 <div class="about__item text text--large text--dark text--w-semibold">
                     &mdash; Ключевые инструменты монетизации. Как заставить данные работать на вас?

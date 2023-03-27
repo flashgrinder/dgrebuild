@@ -67,7 +67,7 @@
                         </div>
                     </div>
                 </div>
-                    <div class="main-screen__actions gs-reveal gs-reveal--from-left">
+                    <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
                             Регистрация
                         </a>
@@ -94,7 +94,10 @@
             </blockquote>
             <div class="about__list">
                 <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Всеобщий уход в облака: ключевой тренд или краткосрочное увлечение? Нужна ли Казахстану облачная инфраструктура?
+                    &mdash; Всеобщий уход в облака: ключевой тренд или краткосрочное увлечение?
+                </div>
+                <div class="about__item text text--large text--dark text--w-semibold">
+                    &mdash; Нужна ли Казахстану облачная инфраструктура?
                 </div>
                 <div class="about__item text text--large text--dark text--w-semibold">
                     &mdash; Ключевые инструменты монетизации. Как заставить данные работать на вас?
