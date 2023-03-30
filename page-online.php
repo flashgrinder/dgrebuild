@@ -192,25 +192,6 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/erken.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Еркен Шназбаев
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                ИТ директор, ERG
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/maxat.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -287,16 +268,16 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/omarov.jpeg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/alina.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Руслан Омаров
+                                Алина Абдрахманова
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Генеральный директор, Первое кредитное бюро
+                                Управляющий директор Astana Hub
                             </p>
                         </div>
                     </div>
@@ -532,14 +513,14 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Цифровая экосистема государства.
                         </h3>
-                        <!-- <div class="programm__man">
+                        <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Рустем Бигари 
+                                Бинур Жаленов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Генеральный директор ГНП на ПВХ "Центр поддержки цифрового правительства"
+                                Руководитель Казахстанского центра межбанковских расчетов Национального Банка РК
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -561,6 +542,22 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Представители крупных государственных и коммерческих организаций
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Алина Абдрахманова
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Управляющий директор Astana Hubе
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Бауржан Канкин
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Генеральный директор АКФ ПИТ Techgarden
                             </div>
                         </div>
                     </div>
@@ -651,6 +648,14 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Управляющий директор АО Береке Банк
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                                Ева Ким
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Начальник управления цифровой роботизации Eurasian Bank
                             </div>
                         </div>
                     </div>
@@ -769,6 +774,14 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
                                 Product owner Magnum Club
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                                Ирина Эккерт
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Начальник управления мастер-данным, Business & Technology Services, ERG
                             </div>
                         </div>
                     </div>
