@@ -359,25 +359,6 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/radchenko.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Елена Радченко
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Управляющий директор по клиентскому сервису Eurasian Bank
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/raspekova.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -456,7 +437,7 @@
                             Открытие форума
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Асем Нургалиева
                             </div>
                         </div>
@@ -464,14 +445,14 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:05 - 10:25
+                        10:05 - 10:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             На гребне трансформации. Цифровой Казахстан сегодня и завтра
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Канат Абиров
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -482,7 +463,25 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:25 - 10:50
+                        10:20 - 10:40
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Эффективные стратегии от  мирового лидера в области управления данными
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Френк Хендрикс
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                                Директор по развитию бизнеса (Ближний Восток, Африка, Центральная и Восточная Европа) Informatica
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        10:40 - 11:05
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -503,14 +502,14 @@
                 </h3> -->
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:50 - 11:15
+                        11:05 - 11:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Цифровая экосистема государства.
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бинур Жаленов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -521,14 +520,14 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:15 - 12:00
+                        11:30 - 12:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Дискуссия 1. Как стать цифровым хабом? Community, решения, подходы.
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ведущая: Асем Нургалиева
                             </div>
                         </div>
@@ -536,20 +535,20 @@
                             <div class="programm__man-name text text--normal text--dark text--w-light">
                                 Участники:
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Представители крупных государственных и коммерческих организаций
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Алина Абдрахманова
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Управляющий директор Astana Hubе
+                                Управляющий директор Astana Hub
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бауржан Канкин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -580,7 +579,7 @@
                             На фронтире инноваций: облако, данные, искусственный интеллект
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Болат Таймагамбетов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -598,7 +597,7 @@
                             Вглядываясь в будущее. Цифровая платформа и безоблачные планы на облако
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Представитель КазМунайГаз
                             </div>
                         </div>
@@ -613,7 +612,7 @@
                             Дискуссия 2. Цифровой трамплин: от CAPEX – к OPEX
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ведущая: Асем Нургалиева
                             </div>
                         </div>
@@ -623,7 +622,7 @@
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Евгений Щербинин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -631,7 +630,7 @@
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Асель Марченко
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -639,7 +638,7 @@
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Максат Нуриденулы
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -647,7 +646,7 @@
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ева Ким
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -688,7 +687,7 @@
                             Практические эффекты монетизации данных. Новые кейсы на рынке Казахстана
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Представитель Freedom Finance
                             </div>
                         </div>
@@ -703,7 +702,7 @@
                             Как управлять данными в 2023? Методология и ключевые инструменты
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Олег Гиацинтов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -721,7 +720,7 @@
                             6 шагов к Data Quality. Как сделать данные по-настоящему качественными? Практический кейс (телеком СНГ)
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Дмитрий Бондаренко
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -739,7 +738,7 @@
                             Монетизация данных. Как оценить эффективность цифровых проектов
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ведущая: Асем Нургалиева
                             </div>
                         </div>
@@ -749,7 +748,7 @@
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бахдаулет Едильбеков
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -757,7 +756,7 @@
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бекарыс Нурумбетов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -765,7 +764,7 @@
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бинур Макеев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
@@ -773,7 +772,7 @@
                             </div>
                         </div>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ирина Эккерт
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-light">
