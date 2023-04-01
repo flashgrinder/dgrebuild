@@ -454,6 +454,44 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/turkin.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Артем Туркин 
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Корпоративный архитектор, KMF
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/mukashev.png" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Данияр Мукашев 
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Руководитель проектов, Департамент цифрового развития, КазМунайГаз
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -516,7 +554,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Канат Абиров
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Генеральный директор DIS Group
                             </div>
                         </div>
@@ -534,7 +572,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Френк Хендрикс
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Директор по развитию бизнеса (Ближний Восток, Африка, Центральная и Восточная Европа) Informatica
                             </div>
                         </div>
@@ -573,7 +611,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бинур Жаленов
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Руководитель Казахстанского центра межбанковских расчетов Национального Банка РК
                             </div>
                         </div>
@@ -604,7 +642,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Алина Абдрахманова
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Управляющий директор Astana Hub
                             </div>
                         </div>
@@ -612,7 +650,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бауржан Канкин
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Генеральный директор АКФ ПИТ Techgarden
                             </div>
                         </div>
@@ -643,7 +681,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Болат Таймагамбетов
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 DIS Group
                             </div>
                         </div>
@@ -659,7 +697,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель КазМунайГаз
+                                Данияр Мукашев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Руководитель проектов, Департамент цифрового развития, КазМунайГаз
                             </div>
                         </div>
                     </div>
@@ -686,7 +727,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Евгений Щербинин
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Директор ТОО Prime Source
                             </div>
                         </div>
@@ -694,7 +735,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Асель Марченко
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Управляющий директор по IT, АО "Halyk Finance"
                             </div>
                         </div>
@@ -702,7 +743,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Максат Нуриденулы
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Управляющий директор АО Береке Банк
                             </div>
                         </div>
@@ -710,7 +751,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ева Ким
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Начальник управления цифровой роботизации Eurasian Bank
                             </div>
                         </div>
@@ -766,7 +807,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Олег Гиацинтов
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 DIS Group
                             </div>
                         </div>
@@ -778,14 +819,14 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            6 шагов к Data Quality. Как сделать данные по-настоящему качественными? Практический кейс (телеком СНГ)
+                            Непрерывный процесс обеспечения качества данных.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Дмитрий Бондаренко
+                                Виталий Фокин
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                DIS Group
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Бизнес-эксперт DIS Group
                             </div>
                         </div>
                     </div>
@@ -812,7 +853,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бахдаулет Едильбеков
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Head of Risk & Invatition, HomeCredit Bank
                             </div>
                         </div>
@@ -820,7 +861,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бекарыс Нурумбетов
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Руководитель направления мобильных финансовых сервисов, Tele2
                             </div>
                         </div>
@@ -828,7 +869,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Бинур Макеев
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Product owner Magnum Club
                             </div>
                         </div>
@@ -836,7 +877,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ирина Эккерт
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Начальник управления мастер-данным, Business & Technology Services, ERG
                             </div>
                         </div>
