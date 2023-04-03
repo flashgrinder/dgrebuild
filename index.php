@@ -488,6 +488,44 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/kazi.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Альфия Кази
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Заместитель Председателя Общественного фонда Цифровой трансформации, co-founder, Non-profit Organization "TechnoWomen"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/kim.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Ева Ким
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Начальник управления цифровой роботизации Eurasian Bank
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -582,14 +620,14 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Законодательство. Как все учесть?
                         </h3>
-                        <!-- <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                Петр Сковронский
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibild">
+                                Альфия Кази
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-light">
-                                Региональный директор Informatica (Центральная и Восточная Европа и Африка)
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Заместитель Председателя Общественного фонда Цифровой трансформации, co-founder, Non-profit Organization "TechnoWomen"
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <!-- <h3 class="programm__block-title title title--large title--blue title--w-semibold">
@@ -601,7 +639,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Цифровая экосистема государства.
+                            Цифровая финансовая инфраструктура и национальные платежные системы
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
