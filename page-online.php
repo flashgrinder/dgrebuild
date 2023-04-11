@@ -821,6 +821,14 @@
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Облака на горизонте? Основные тренды и прогнозы по развитию cloud-решений
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Серикбол Уразалин
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Коммерческий директор QazCloud
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
@@ -838,25 +846,10 @@
                 </h3> -->
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:00 - 15:20
+                        15:00 - 15:25
                     </div>
                     <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Практические эффекты монетизации данных. Новые кейсы на рынке Казахстана
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Представитель Freedom Finance
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:20 - 15:45
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">                        	
                             Как управлять данными в 2023? Методология и ключевые инструменты
                         </h3>
                         <div class="programm__man">
@@ -864,14 +857,14 @@
                                 Олег Гиацинтов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                DIS Group
+                                Технический директор DIS Group
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:45 - 16:00
+                        15:25 - 15:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -889,7 +882,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:00 - 16:30
+                        15:50 - 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -941,17 +934,43 @@
                 </div> 
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:35 - 16:50
+                        16:30 - 16:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Безопасность данных. Действовать на опережение
+                            Построение корпоративных хранилищ данных на базе ПО Аренадата
                         </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Жоламан Кубалиев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Архитектор Аренадата
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:50 - 17:00
+                        16:45 - 17:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Культура управления данными
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Дмитрий Цой
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Президент DAMA Kazakhstan
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        17:00 - 17:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
