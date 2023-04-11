@@ -9,9 +9,9 @@
                 <div class="main-screen__inner">
                     <div class="main-screen__left">
                         <div class="main-screen__text">
-                            <div class="main-screen__descr text text--large text--white text--w-light">
+                            <!-- <div class="main-screen__descr text text--large text--white text--w-light">
                                 Медиахолдинг “ATAMEKEN BUSINESS” при поддержке DIS Group приглашает Вас на бизнес-форум “Цифровое перерождение”.
-                            </div>
+                            </div> -->
                             <div class="main-screen__descr text text--large text--white text--w-light">
                                 Бизнес-форум соберет на одной площадке представителей крупнейших коммерческих компаний и государственных структур.
                             </div>
@@ -31,7 +31,7 @@
                             </div>
                         </div>
                         <div class="main-screen__descr main-screen__descr--bottom text text--large text--white text--w-light">
-                            Для тех, кто не сможет присутствовать лично, мы организовали онлайн трансляцию.
+                            <!-- Для тех, кто не сможет присутствовать лично, мы организовали онлайн трансляцию. -->
                             <br>
                             Регистрируйтесь и смотрите мероприятие онлайн.
                         </div>
@@ -65,7 +65,9 @@
                                     Время проведения
                                 </div>
                                 <div class="main-screen__data text text--large text--white text--w-semibold">
-                                    10:00
+                                    Казахстан –10:00
+                                    <br>
+                                    Азербайджан, Узбекистан – 9:00
                                 </div>
                             </div>
                         </div>
@@ -88,26 +90,26 @@
             <h2 class="about__heading title title--big title--dark title--w-semibold title--indent">
                 О мероприятии
             </h2>
-            <blockquote class="about__blockquote">
+            <!-- <blockquote class="about__blockquote">
                 <p class="about__blockquote-text title title--large title--dark title--w-semibold">
                     «Казахстан должен стать центральным цифровым хабом на значительной части Евразийского региона».
                 </p>
                 <div class="about__blockquote-man title title--pre-medium title--dark title--w-regular">
                     Касым-Жомарт Токаев, Президент Республики Казахстан
                 </div>
-            </blockquote>
+            </blockquote> -->
             <div class="about__list">
                 <div class="about__item text text--large text--dark text--w-semibold">
                     &mdash; Всеобщий уход в облака: ключевой тренд или краткосрочное увлечение?
                 </div>
-                <div class="about__item text text--large text--dark text--w-semibold">
+                <!-- <div class="about__item text text--large text--dark text--w-semibold">
                     &mdash; Нужна ли Казахстану облачная инфраструктура?
-                </div>
+                </div> -->
                 <div class="about__item text text--large text--dark text--w-semibold">
                     &mdash; Ключевые инструменты монетизации. Как заставить данные работать на вас?
                 </div>
                 <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Искусство маленьких шагов или цифровой трамплин: как будут развиваться инновации в нашей стране?
+                    &mdash; Искусство маленьких шагов или цифровой трамплин: как будут развиваться инновации?
                 </div>
             </div>
             <div class="about__descr text text--large text--dark text--w-regular">
@@ -127,15 +129,15 @@
             <article class="moder__card">
                 <aside class="moder__card-aside">
                     <figure class="moder__card-figure">
-                        <img src="<?php echo STANDART_DIR ?>img/team/nurgalieva.png" alt="" class="moder__card-photo">
+                        <img src="<?php echo STANDART_DIR ?>img/team/rozmut.jpg" alt="" class="moder__card-photo">
                     </figure>
                 </aside>
                 <div class="moder__card-text">
                     <h3 class="moder__card-heading title title--pre-medium title--dark title--w-regular">
-                        Асем Нургалиева 
+                        Эльнора Розмут
                     </h3>
                     <p class="moder__card-descr text text--normal text--dark text--w-light">
-                        СЕО Kazpost Digital, Советник Министра цифрового развития, инноваций и аэрокосмической промышленности РК. Победительница Digital Almaty Awards 2023 в номинации “Woman in Tech”. Телеведущая, ведет свой авторский телевизионный проект на Телеканале Atameken Business «Время Fintech».
+                        Бренд-стратег, медиа менеджер, основатель и CEO медиа об IT и технологиях ER10 Media. Более 12 лет практического опыта в PR. 6 лет работала в качестве преподавателя в университетах KIMEP и Almau. Автор и ведущая тренингов  по темам: управление репутацией, стратегии создания брендов, упаковка стартапов.
                     </p>
                 </div>
             </article>
@@ -379,7 +381,7 @@
                 </article>
                 <!-- /. Team-card -->
                 <!-- Team-card -->
-                <article class="team-card">
+                <!-- <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/kankin.jpg" alt="" class="team-card__photo">
@@ -395,7 +397,7 @@
                             </p>
                         </div>
                     </div>
-                </article>
+                </article> -->
                 <!-- /. Team-card -->
                 <!-- Team-card -->
                 <article class="team-card">
@@ -575,7 +577,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Асем Нургалиева
+                                Эльнора Розмут
                             </div>
                         </div>
                     </div>
@@ -625,7 +627,7 @@
                             Законодательство. Как все учесть?
                         </h3>
                         <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibild">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Альфия Кази
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
@@ -661,11 +663,11 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 1. Как стать цифровым хабом? Community, решения, подходы.
+                            Дискуссия 1. Как стать цифровым хабом? Community, решения, подходы
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущая: Асем Нургалиева
+                                Ведущая: Эльнора Розмут
                             </div>
                         </div>
                         <div class="programm__man">
@@ -686,10 +688,26 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Бауржан Канкин
+                                Адиль Жумабаев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Генеральный директор АКФ ПИТ Techgarden
+                                Первый заместитель генерального директора АКФ «Парк Инновационных Технологий» (Tech Garden).
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Ауез Багбанулы
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Директор Палаты предпринимателей г. Алматы
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Андрей Лим
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Руководитель проекта Smart Data Ukimet, АО НИТ (Национальные информационные технологии).
                             </div>
                         </div>
                     </div>
@@ -753,7 +771,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущая: Асем Нургалиева
+                                Ведущая: Эльнора Розмут
                             </div>
                         </div>
                         <div class="programm__man">
@@ -801,7 +819,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Облака на горизонте? Основные тренды и прогноза по развитию cloud-решений.
+                            Облака на горизонте? Основные тренды и прогнозы по развитию cloud-решений
                         </h3>
                     </div>
                 </div>
@@ -857,7 +875,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Непрерывный процесс обеспечения качества данных.
+                            Непрерывный процесс обеспечения качества данных
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -875,11 +893,11 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Монетизация данных. Как оценить эффективность цифровых проектов
+                            Дисскусия 3. Монетизация данных. Как оценить эффективность цифровых проектов
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущая: Асем Нургалиева
+                                Ведущая: Эльнора Розмут
                             </div>
                         </div>
                         <div class="programm__man">
