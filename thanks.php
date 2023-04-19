@@ -6,10 +6,10 @@
     <div class="thanks__body container">
         <div class="thanks__inner">
             <h2 class="thanks__heading title title--large title--dark title--w-semibold center">
-                Спасибо! Вы зарегистрированы.
+                Спасибо! Мы получили ваш запрос. 
             </h2>
             <p class="thanks__descr text text--large text--dark text--w-light center">
-                Ссылка для подключения придет вам на почту в день мероприятия.
+                Письмо с материалами придет вам на почту.
             </p>
         </div>
     </div>

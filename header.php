@@ -37,10 +37,38 @@
                     </svg>
                 </div>
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
-                    Регистрация
+                    Материалы форума
                 </h3>
-                <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form">
-                    <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src=https://timepad.ru/js/tpwf/loader/min/loader.js data-timepad-customized="30874" data-twf2s-event--id="2336737" data-timepad-widget-v2="event_register"></script>
+                <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form fckng-btfl-frm">
+                    <!-- Fields -->
+                    <div class="modal__field">
+                        <input type="text" name="name" class="modal__input" placeholder="Ваше имя" required="">
+                    </div>
+                    <div class="modal__field">
+                        <input name="custom_telephone" type="text" class="modal__input" placeholder="Номер телефона" value="" required="">
+                    </div>
+                    <div class="modal__field">
+                        <input type="text" name="email" class="modal__input" placeholder="Email" required="">
+                    </div>
+                    <div class="modal__field">
+                        <input name="custom_company" type="text" value="" class="modal__input" placeholder="Компания" required="">
+                    </div>
+                    <div class="modal__field">
+                        <input name="custom_jobtitle" type="text" value="" class="modal__input" placeholder="Должность" required="">
+                    </div>
+                    <div class="modal__agree-text">
+                        <input id="webform_consent#g_0" type="checkbox" name="webform[consent#g-ver#g]" value="true" checked="" required=""><label for="webform_consent#g_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Даю согласие на обработку персональных данных.</label>
+                        <input id="webform_consent#P_0" type="checkbox" name="webform[consent#P-ver#P]" value="true" checked="" required=""><label for="webform_consent#P_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Да, я хотел бы получать сообщения от DIS Group о продуктах, решениях и событиях.</label><br>
+                    </div>
+                    <!-- List token -->
+                    <!-- Get the token at: https://email.dis-group.info/campaign_list.html -->
+                    <input type="hidden" name="campaign_token" value="oMCTn">
+                    <!-- Thank you page (optional) -->
+                    <input type="hidden" name="thankyou_url" value="https://data-forum.kz/thanks/">
+                    <!-- Subscriber button -->
+                    <div class="modal__actions">
+                        <input type="submit" value="Получить" style="font-size: 18px; font-weight: bold;" class="modal__btn button button--primary fckng-btfl-frm">
+                    </div>
                 </form>
             </div>
         </div>
@@ -57,37 +85,37 @@
                     </svg>
                 </div>
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
-                    Регистрация
+                    Материалы форума
                 </h3>
                 <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form fckng-btfl-frm">
                     <!-- Fields -->
                     <div class="modal__field">
-                        <input type="text" name="name" class="modal__input" placeholder="Ваше имя"required/>
+                        <input type="text" name="name" class="modal__input" placeholder="Ваше имя" required="">
                     </div>
                     <div class="modal__field">
-                        <input name="custom_telephone" type="text" class="modal__input" placeholder="Номер телефона" value="" required/>
+                        <input name="custom_telephone" type="text" class="modal__input" placeholder="Номер телефона" value="" required="">
                     </div>
                     <div class="modal__field">
-                        <input type="text" name="email" class="modal__input" placeholder="Email" required/>
+                        <input type="text" name="email" class="modal__input" placeholder="Email" required="">
                     </div>
                     <div class="modal__field">
-                        <input name="custom_company" type="text" value="" class="modal__input" placeholder="Компания" required/>
+                        <input name="custom_company" type="text" value="" class="modal__input" placeholder="Компания" required="">
                     </div>
                     <div class="modal__field">
-                        <input name="custom_jobtitle" type="text" value="" class="modal__input" placeholder="Должность" required/>
+                        <input name="custom_jobtitle" type="text" value="" class="modal__input" placeholder="Должность" required="">
                     </div>
                     <div class="modal__agree-text">
-                        <input id="webform_consent#g_0" type="checkbox" name="webform[consent#g-ver#g]" value="true" checked required/><label for="webform_consent#g_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Даю согласие на обработку персональных данных.</label>
-                        <input id="webform_consent#P_0" type="checkbox" name="webform[consent#P-ver#P]" value="true" checked required/><label for="webform_consent#P_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Да, я хотел бы получать сообщения от DIS Group о продуктах, решениях и событиях.</label></br>
+                        <input id="webform_consent#g_0" type="checkbox" name="webform[consent#g-ver#g]" value="true" checked="" required=""><label for="webform_consent#g_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Даю согласие на обработку персональных данных.</label>
+                        <input id="webform_consent#P_0" type="checkbox" name="webform[consent#P-ver#P]" value="true" checked="" required=""><label for="webform_consent#P_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Да, я хотел бы получать сообщения от DIS Group о продуктах, решениях и событиях.</label><br>
                     </div>
                     <!-- List token -->
                     <!-- Get the token at: https://email.dis-group.info/campaign_list.html -->
-                    <input type="hidden" name="campaign_token" value="oMCnF" />
+                    <input type="hidden" name="campaign_token" value="oMCTn">
                     <!-- Thank you page (optional) -->
-                    <input type="hidden" name="thankyou_url" value="https://data-forum.kz/thanks/"/>
+                    <input type="hidden" name="thankyou_url" value="https://data-forum.kz/thanks/">
                     <!-- Subscriber button -->
                     <div class="modal__actions">
-                        <input type="submit" value="Зарегистрироваться" style="font-size: 18px; font-weight: bold;" class="modal__btn button button--primary fckng-btfl-frm"/>
+                        <input type="submit" value="Получить" style="font-size: 18px; font-weight: bold;" class="modal__btn button button--primary fckng-btfl-frm">
                     </div>
                 </form>
             </div>
@@ -129,7 +157,7 @@
                 </nav>
                 <div class="header__action hide">
                     <a href="javascript:;" class="header__button button button--primary" data-modal="#modal">
-                        Регистрация
+                        Запросить материалы форума
                     </a>
                 </div>
             </div>

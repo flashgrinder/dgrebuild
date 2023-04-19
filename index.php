@@ -69,7 +69,7 @@
                 </div>
                     <div class="main-screen__actions">
                         <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
-                            Регистрация
+                            Запросить материалы форума
                         </a>
                     </div>
                 </div>
@@ -566,7 +566,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Регистрация
+                            Запросить материалы форума
                         </h3>
                     </div>
                 </div>
@@ -1008,7 +1008,7 @@
                 </p>
                 <div class="register__action">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">
-                        Регистрация
+                        Запросить материалы форума
                     </a>
                 </div>
             </div>
