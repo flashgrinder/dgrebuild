@@ -532,6 +532,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/adil.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Адиль Жумабаев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Первый заместитель генерального директора АКФ «Парк Инновационных Технологий» (Tech Garden)
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -699,7 +718,7 @@
                                 Ауез Багбанулы
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Директор Палаты предпринимателей г. Алматы
+                                Председатель Палаты предпринимателей г. Алматы
                             </div>
                         </div>
                         <div class="programm__man">
@@ -819,14 +838,14 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Облака на горизонте? Основные тренды и прогнозы по развитию cloud-решений
+                            Культура управления данными
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Серикбол Уразалин
+                                Дмитрий Цой
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Коммерческий директор QazCloud
+                                Президент DAMA Kazakhstan
                             </div>
                         </div>
                     </div>
@@ -900,10 +919,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Бахдаулет Едильбеков
+                                Артем Туркин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Head of Risk & Invatition, HomeCredit Bank
+                                Главный архитектор КМФ
                             </div>
                         </div>
                         <div class="programm__man">
@@ -960,10 +979,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Дмитрий Цой
+                                Серикбол Уразалин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Президент DAMA Kazakhstan
+                                Коммерческий директор QazCloud
                             </div>
                         </div>
                     </div>
