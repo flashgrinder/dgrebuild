@@ -1188,6 +1188,8 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background: url("../img/main-screen-bg.png") center no-repeat;
+  background-size: cover;
 }
 
 .main-screen__body {
@@ -1248,10 +1250,6 @@ img {
   text-align: right;
 }
 
-.main-screen__actions {
-  margin-top: 50px;
-}
-
 /* About */
 
 .about {
@@ -1294,7 +1292,8 @@ img {
 
 .register {
   position: relative;
-  background-color: var(--color-black);
+  background: url("../img/main-screen-bg.png") center no-repeat;
+  background-size: cover;
   overflow: hidden;
 }
 
@@ -1587,6 +1586,10 @@ img {
     text-align: left;
   }
 
+  .main-screen__actions {
+    margin-top: 50px;
+  }
+
   .register__decor {
     top: auto;
     bottom: -75px;
@@ -1620,8 +1623,6 @@ img {
   .main-screen {
     padding: 100px 0 100px;
     justify-content: flex-start;
-    background-size: 100%;
-    background-position: center bottom;
   }
 
   .team__items {

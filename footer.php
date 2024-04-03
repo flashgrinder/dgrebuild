@@ -5,12 +5,12 @@
     <footer class="footer gs-reveal">
         <div class="footer__body container">
             <div class="footer__inner">
-                <div class="footer__column">
-                    <img src="<?php echo STANDART_DIR ?>img/logo-atameken-1.png" alt="" class="footer__logo-img logo__img">
-                </div>
-                <div class="footer__column">
-                    <img src="<?php echo STANDART_DIR ?>img/logo-atameken-2.png" alt="" class="footer__logo-img logo__img">
-                </div>
+<!--                <div class="footer__column">-->
+<!--                    <img src="--><?php //echo STANDART_DIR ?><!--img/logo-atameken-1.png" alt="" class="footer__logo-img logo__img">-->
+<!--                </div>-->
+<!--                <div class="footer__column">-->
+<!--                    <img src="--><?php //echo STANDART_DIR ?><!--img/logo-atameken-2.png" alt="" class="footer__logo-img logo__img">-->
+<!--                </div>-->
                 <div class="footer__column">
                     <img src="<?php echo STANDART_DIR ?>img/logo.svg" alt="" class="footer__logo-img logo__img">
                 </div>
@@ -32,28 +32,28 @@
     </footer>
     <!-- /. Footer -->
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.globe.min.js"></script>
-    
-    <script>
-
-        let _strk = document.querySelector('.main-screen');
-
-        VANTA.GLOBE({
-            el: ".main-screen",
-            mouseControls: true,
-            touchControls: true,
-            gyroControls: false,
-            minHeight: 200.00,
-            minWidth: 200.00,
-            scale: 1.00,
-            scaleMobile: 1.00,
-            color: 0x00A5CD,
-            color2: 0x941dde,
-            size: 1.2,
-            backgroundColor: 0x7071b
-        })
-    </script>
+<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>-->
+<!--    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.globe.min.js"></script>-->
+<!--    -->
+<!--    <script>-->
+<!---->
+<!--        let _strk = document.querySelector('.main-screen');-->
+<!---->
+<!--        VANTA.GLOBE({-->
+<!--            el: ".main-screen",-->
+<!--            mouseControls: true,-->
+<!--            touchControls: true,-->
+<!--            gyroControls: false,-->
+<!--            minHeight: 200.00,-->
+<!--            minWidth: 200.00,-->
+<!--            scale: 1.00,-->
+<!--            scaleMobile: 1.00,-->
+<!--            color: 0x00A5CD,-->
+<!--            color2: 0x941dde,-->
+<!--            size: 1.2,-->
+<!--            backgroundColor: 0x7071b-->
+<!--        })-->
+<!--    </script>-->
 
     <?php wp_footer(); ?>
 </body>

@@ -1,6 +1,7 @@
 .register {
     position: relative;
-    background-color: var(--color-black);
+    background: url("../img/main-screen-bg.png") center no-repeat;
+    background-size: cover;
     overflow: hidden;
 }
 

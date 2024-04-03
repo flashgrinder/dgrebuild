@@ -37,39 +37,40 @@
                     </svg>
                 </div>
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
-                    Материалы форума
+                    Регистрация
                 </h3>
-                <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form fckng-btfl-frm">
+                <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src=https://timepad.ru/js/tpwf/loader/min/loader.js data-timepad-customized="30874" data-twf2s-event--id="2799996" data-timepad-widget-v2="event_register"></script>
+<!--                <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form fckng-btfl-frm">-->
                     <!-- Fields -->
-                    <div class="modal__field">
-                        <input type="text" name="name" class="modal__input" placeholder="Ваше имя" required="">
-                    </div>
-                    <div class="modal__field">
-                        <input name="custom_telephone" type="text" class="modal__input" placeholder="Номер телефона" value="" required="">
-                    </div>
-                    <div class="modal__field">
-                        <input type="text" name="email" class="modal__input" placeholder="Email" required="">
-                    </div>
-                    <div class="modal__field">
-                        <input name="custom_company" type="text" value="" class="modal__input" placeholder="Компания" required="">
-                    </div>
-                    <div class="modal__field">
-                        <input name="custom_jobtitle" type="text" value="" class="modal__input" placeholder="Должность" required="">
-                    </div>
-                    <div class="modal__agree-text">
-                        <input id="webform_consent#g_0" type="checkbox" name="webform[consent#g-ver#g]" value="true" checked="" required=""><label for="webform_consent#g_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Даю согласие на обработку персональных данных.</label>
-                        <input id="webform_consent#P_0" type="checkbox" name="webform[consent#P-ver#P]" value="true" checked="" required=""><label for="webform_consent#P_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Да, я хотел бы получать сообщения от DIS Group о продуктах, решениях и событиях.</label><br>
-                    </div>
+<!--                    <div class="modal__field">-->
+<!--                        <input type="text" name="name" class="modal__input" placeholder="Ваше имя" required="">-->
+<!--                    </div>-->
+<!--                    <div class="modal__field">-->
+<!--                        <input name="custom_telephone" type="text" class="modal__input" placeholder="Номер телефона" value="" required="">-->
+<!--                    </div>-->
+<!--                    <div class="modal__field">-->
+<!--                        <input type="text" name="email" class="modal__input" placeholder="Email" required="">-->
+<!--                    </div>-->
+<!--                    <div class="modal__field">-->
+<!--                        <input name="custom_company" type="text" value="" class="modal__input" placeholder="Компания" required="">-->
+<!--                    </div>-->
+<!--                    <div class="modal__field">-->
+<!--                        <input name="custom_jobtitle" type="text" value="" class="modal__input" placeholder="Должность" required="">-->
+<!--                    </div>-->
+<!--                    <div class="modal__agree-text">-->
+<!--                        <input id="webform_consent#g_0" type="checkbox" name="webform[consent#g-ver#g]" value="true" checked="" required=""><label for="webform_consent#g_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Даю согласие на обработку персональных данных.</label>-->
+<!--                        <input id="webform_consent#P_0" type="checkbox" name="webform[consent#P-ver#P]" value="true" checked="" required=""><label for="webform_consent#P_0" style="display: block; margin-top: -20px; margin-left: 20px;"> Да, я хотел бы получать сообщения от DIS Group о продуктах, решениях и событиях.</label><br>-->
+<!--                    </div>-->
                     <!-- List token -->
                     <!-- Get the token at: https://email.dis-group.info/campaign_list.html -->
-                    <input type="hidden" name="campaign_token" value="oMCTn">
+<!--                    <input type="hidden" name="campaign_token" value="oMCTn">-->
                     <!-- Thank you page (optional) -->
-                    <input type="hidden" name="thankyou_url" value="https://data-forum.kz/thanks/">
+<!--                    <input type="hidden" name="thankyou_url" value="https://data-forum.kz/thanks/">-->
                     <!-- Subscriber button -->
-                    <div class="modal__actions">
-                        <input type="submit" value="Получить" style="font-size: 18px; font-weight: bold;" class="modal__btn button button--primary fckng-btfl-frm">
-                    </div>
-                </form>
+<!--                    <div class="modal__actions">-->
+<!--                        <input type="submit" value="Получить" style="font-size: 18px; font-weight: bold;" class="modal__btn button button--primary fckng-btfl-frm">-->
+<!--                    </div>-->
+<!--                </form>-->
             </div>
         </div>
     </div>
@@ -85,7 +86,7 @@
                     </svg>
                 </div>
                 <h3 class="modal__title modal__field--anim title title--large title--dark title--w-regular center">
-                    Материалы форума
+                    Регистрация
                 </h3>
                 <form action="https://email.dis-group.info/add_subscriber.html" accept-charset="utf-8" method="post" class="modal__form wpcf7-form fckng-btfl-frm">
                     <!-- Fields -->
@@ -126,10 +127,10 @@
     <!-- Header -->
     <header class="header">
         <div class="header__body container">
-            <a href="./" class="header__logo logo">
-                <img src="<?php echo STANDART_DIR ?>img/logo-atameken-1.png" alt="" class="header__logo-img logo__img">
-                <img src="<?php echo STANDART_DIR ?>img/logo-atameken-2.png" alt="" class="header__logo-img logo__img">
-            </a>
+<!--            <a href="./" class="header__logo logo">-->
+<!--                <img src="--><?php //echo STANDART_DIR ?><!--img/logo-atameken-1.png" alt="" class="header__logo-img logo__img">-->
+<!--                <img src="--><?php //echo STANDART_DIR ?><!--img/logo-atameken-2.png" alt="" class="header__logo-img logo__img">-->
+<!--            </a>-->
             <div class="header__inner js-menu">
                 <nav class="header__menu menu">
                     <ul class="header__menu-list menu__list">
