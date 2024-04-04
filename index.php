@@ -162,7 +162,7 @@
                                 Канат Абиров
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Генеральный директор DIS Group
+                                Генеральный директор DIS Group СНГ
                             </p>
                         </div>
                     </div>
@@ -334,7 +334,7 @@
                                 Ислам Зеидан
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Лидер Центральной Восточной Европы и Африки, Informatica
+                                Глава офиса Informatica в Центральной и Восточной Европе и Африке
                             </p>
                         </div>
                     </div>
@@ -505,6 +505,7 @@
                                 Газиз Ермеков
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Заместитель Председателя Правления, Член Правления
                                 Евразийский Банк
                             </p>
                         </div>
@@ -593,7 +594,7 @@
                                 Канат Абиров
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Генеральный директор DIS Group
+                                Генеральный директор DIS Group СНГ
                             </div>
                         </div>
                     </div>
@@ -611,7 +612,7 @@
                                 Ислам Зеидан
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Лидер Центральной Восточной Европы и Африки, Informatica
+                                Глава офиса Informatica в Центральной и Восточной Европе и Африке
                             </div>
                         </div>
                     </div>
@@ -705,14 +706,6 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Управляющий директор АО «Казпочта»
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Андрей Беклемищев
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                IDC
                             </div>
                         </div>
                         <div class="programm__man">
@@ -829,14 +822,6 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Bank CenterCredit
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold hide">
-                                Forte Bank
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Зарина Жапарова
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
@@ -904,7 +889,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Олег Гиацинтов
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold hide">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Технический директор DIS Group
                             </div>
                         </div>
@@ -922,7 +907,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Олег Тихонов
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold hide">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Директор, руководитель практики Data Strategy & Data Governance Axellect
                             </div>
                         </div>
