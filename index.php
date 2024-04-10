@@ -569,6 +569,25 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/pimenov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Василий Пименов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Старший Консультант IDC
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -700,7 +719,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Тема на согласовании
+                            Внедрение GenAI: Как это связано с облаками и качеством данных?
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -1013,10 +1032,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Спикер на согласовании
+                                Дана Есентай
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold hide">
-                                Архитектор Аренадата
+                                Старший консультант группы кибербезопасности KPMG Кавказ и Центральная Азия
                             </div>
                         </div>
                     </div>
