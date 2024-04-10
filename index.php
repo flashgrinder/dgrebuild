@@ -1034,7 +1034,7 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Дана Есентай
                             </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold hide">
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Старший консультант группы кибербезопасности KPMG Кавказ и Центральная Азия
                             </div>
                         </div>
