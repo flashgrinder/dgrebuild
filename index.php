@@ -211,25 +211,6 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/asel.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Асель Марченко
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Заместитель председателя Национальной платежной корпорации Казахстана
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/sherbinin.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -239,7 +220,7 @@
                                 Евгений Щербинин
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Генеральный директор ТОО "Prime Source"
+                                Founder & CEO Prime Source
                             </p>
                         </div>
                     </div>
@@ -297,25 +278,6 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Управляющий директор АО «Казпочта»
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/binur.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Бинур Жаленов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Председатель правления Национальной платежной корпорации Казахстана
                             </p>
                         </div>
                     </div>
@@ -588,6 +550,44 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/mishchuk.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Роман Машчык
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Член Правления, Заместитель Председателя Правления, Глава риск-менеджмента АО «Халык Банк»
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/asakaev.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Арман Асакаев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Начальник Проектного офиса Национальной платежной корпорации Казахстана
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -751,10 +751,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Бинур Жаленов
+                                Арман Асакаев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Председатель правления Национальной платежной корпорации Казахстана
+                                Начальник Проектного офиса Национальной платежной корпорации Казахстана
                             </div>
                         </div>
                         <div class="programm__man">
@@ -940,7 +940,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Модернизация текущей инфрастуктуры Informatica с помощью облачных решений
+                            Модернизация текущей инфраструктуры Informatica с помощью облачных решений
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -980,7 +980,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущая: Эльнора Розмут
+                                Ведущий: Олег Гиацинтов
                             </div>
                         </div>
                         <div class="programm__man">
@@ -998,10 +998,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Асель Марченко
+                                Александр Бернадский
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Заместитель председателя Национальной платежной корпорации Казахстана
+                                Архитектор решений AWS (Amazon), Германия
                             </div>
                         </div>
                         <div class="programm__man">
@@ -1017,7 +1017,7 @@
                                 Евгений Щербинин
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Генеральный директор ТОО "Prime Source"
+                                Founder & CEO Prime Source
                             </div>
                         </div>
                     </div>
