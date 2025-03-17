@@ -25,7 +25,7 @@
         <div class="footer__bottom">
             <div class="footer__copy container">
                 <div class="footer__copy-text text text--tiny text--white text--w-light">
-                    © Copyright 2022 DIS Group. All Rights Reserved.
+                    © Copyright 2024 DIS Group. All Rights Reserved.
                 </div>
             </div>
         </div>

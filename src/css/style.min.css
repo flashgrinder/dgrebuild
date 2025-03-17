@@ -1072,6 +1072,19 @@ img {
   max-width: 130px;
 }
 
+.header__logo-img:first-child {
+  max-width: 50px;
+  margin-right: 15px;
+}
+
+.header__logo-img:nth-child(2) {
+  max-width: 100px;
+}
+
+.header__logo-img:nth-child(3) {
+  max-width: 175px;
+}
+
 .header__action {
   display: inline-flex;
   margin-left: 20px;
@@ -1190,13 +1203,23 @@ img {
   justify-content: center;
   background: url("../img/main-screen-bg.png") center no-repeat;
   background-size: cover;
+  overflow: hidden;
+}
+
+.main-screen__video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 .main-screen__body {
-  padding-top: 30px;
+  padding-top: 100px;
   padding-bottom: 30px;
   border-radius: 10px;
   background: rgba(7, 8, 8, 0.53);
+  position: relative;
 }
 
 .main-screen__inner {
@@ -1246,8 +1269,15 @@ img {
 }
 
 .main-screen__info-event {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   margin-top: 30px;
-  text-align: right;
+  text-align: center;
+}
+
+.main-screen__actions {
+  margin-top: 100px;
 }
 
 /* About */
@@ -1276,6 +1306,14 @@ img {
   text-align: right;
 }
 
+.about__wysiwyg h3 + p {
+  margin-top: 20px;
+}
+
+.about__wysiwyg p + ul {
+  margin-top: 20px;
+}
+
 .about__list {
   margin-top: 50px;
 }
@@ -1288,6 +1326,20 @@ img {
   margin-top: 50px;
 }
 
+.about__grid-wysiwyg {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 32px;
+}
+
+.about__wysiwyg {
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 0 3px 10px 0 rgba(133, 133, 133, 0.1019607843);
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
 /* Register */
 
 .register {
@@ -1297,10 +1349,18 @@ img {
   overflow: hidden;
 }
 
+.register__video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
 .register__inner {
   position: relative;
   z-index: 10;
-  max-width: 600px;
+  max-width: 720px;
 }
 
 .register__decor {
@@ -1315,7 +1375,8 @@ img {
           user-select: none;
 }
 
-.register__descr {
+.register__descr,
+.register__place {
   margin-top: 25px;
 }
 
@@ -1618,6 +1679,14 @@ img {
 
   .block-padding {
     padding: 50px 0;
+  }
+
+  .header__logo-img:nth-child(2) {
+    max-width: 60px;
+  }
+
+  .header__logo-img:nth-child(3) {
+    max-width: 100px;
   }
 
   .main-screen {

@@ -2,148 +2,165 @@
 
     <!-- Main-screen -->
     <section class="main-screen">
+        <video class="main-screen__video" autoplay muted loop playsinline poster="<?php echo STANDART_DIR ?>img/main-screen-bg.png">
+            <source src="<?php echo STANDART_DIR; ?>/img/video-laser.mp4" type="video/mp4">
+            <source src="<?php echo STANDART_DIR; ?>/img/video-laser.webm" type="video/webm">
+        </video>
         <div class="main-screen__outer">
             <div class="main-screen__body container">
                 <div class="main-screen__inner">
-                    <div class="main-screen__left">
-                        <div class="main-screen__text">
-                            <div class="main-screen__descr text text--large text--white text--w-light">
-                                DIS Group приглашает Вас на бизнес-форум «Цифровое перерождение 2024».
-                            </div>
-                            <div class="main-screen__descr text text--large text--white text--w-light">
-                                Бизнес-форум соберет на одной площадке представителей крупнейших финансовых и телекоммуникационных компаний.
-                            </div>
-                        </div>
+                    <div class="main-screen__info">
                         <h3 class="main-screen__title title title--pre-medium title--white title--w-bold title--uppercase">
-                            На форуме пройдут дискуссии на тему:
+                            Конференция
                         </h3>
-                        <div class="main-screen__list">
-                            <div class="main-screen__item text text--large text--white text--w-regular">
-                                &mdash; Ваши данные готовы к ИИ?
-                            </div>
-                            <div class="main-screen__item text text--large text--white text--w-regular">
-                                &mdash; Оптимизация бизнеса с помощью облака
-                            </div>
-                            <div class="main-screen__item text text--large text--white text--w-regular">
-                                &mdash; Насколько безопасно быть в облаке?
+                        <h1 class="main-screen__heading title title--big title--white title--w-bold title--uppercase">
+                            Digital Renaissance 2025
+                        </h1>
+                        <h3 class="title title--medium title--white title--w-bold" style="margin-top: 30px">
+                            Экономика данных | Управление данными | AI-агенты | Тренды будущего
+                        </h3>
+                        <div class="main-screen__info-event">
+                            <div class="main-screen__data text text--large text--white text--w-semibold"
+                                 style="padding-bottom: 20px; border-bottom: 1px solid white">
+                                <div class="title title--big title--white title--w-semibold">22</div>
+                                Апреля 2025
                             </div>
                         </div>
-                        <div class="main-screen__descr main-screen__descr--bottom text text--large text--white text--w-light">
-                            Будем рады видеть вас на бизнес-форуме «Цифровое перерождение 2024», одном из самых значимых и ярких мероприятий IT-отрасли в Казахстане!
-                        </div>
-                    </div>
-                    <div class="main-screen__right">
-                        <div class="main-screen__info">
-                            <h3 class="main-screen__title title title--pre-medium title--white title--w-bold title--uppercase">
-                                Бизнес-форум
-                            </h3>
-                            <h1 class="main-screen__heading title title--huge title--white title--w-bold title--uppercase">
-                                Цифровое перерождение 2024
-                            </h1>
-                            <h3 class="title title--large title--white title--w-bold" style="margin-top: 30px">
-                                AI + Data + Cloud security
-                            </h3>
-                            <div class="main-screen__info-event">
-                                <div class="main-screen__descr text text--large text--white text--w-light">
-                                    Дата проведения бизнес-форума <br> «Цифровое перерождение».
-                                </div>
-                                <div class="main-screen__data text text--large text--white text--w-semibold">
-                                    16 апреля 2024 г.
-                                </div>
-                            </div>
-                            <div class="main-screen__info-event">
-                                <div class="main-screen__descr text text--large text--white text--w-light">
-                                    Место проведения
-                                </div>
-                                <div class="main-screen__data text text--large text--white text--w-semibold">
-                                    г. Алматы
-                                </div>
-                            </div>
-                            <div class="main-screen__info-event">
-                                <div class="main-screen__descr text text--large text--white text--w-light">
-                                    Время проведения
-                                </div>
-                                <div class="main-screen__data text text--large text--white text--w-semibold">
-                                    10:00
-                                </div>
+                        <div class="main-screen__info-event">
+                            <div class="main-screen__data text text--large text--white text--w-semibold">
+                                Казахстан, Алматы
                             </div>
                         </div>
                     </div>
                 </div>
-                    <div class="main-screen__actions">
-                        <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
-                            Зарегистрироваться
-                        </a>
-                    </div>
+                <div class="main-screen__actions" style="margin-top: 30px">
+                    <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
+                        Зарегистрироваться
+                    </a>
                 </div>
             </div>
         </div>
     </section>
     <!-- /. Main-screen -->
 
+
     <!-- About -->
-    <section class="about block-padding" id="about">
+    <section class="about block-padding">
         <div class="about__body container">
-            <h2 class="about__heading title title--big title--dark title--w-semibold title--indent">
-                О мероприятии
+            <h2 class="about__heading title title--big title--dark title--w-semibold title--indent center">
+                На старт! Внимание! ИИ!
             </h2>
-            <blockquote class="about__blockquote">
-                <p class="about__blockquote-text title title--large title--dark title--w-semibold">
-                    «Важно придать новый импульс всем процессам цифровизации экономики и общества».
-                </p>
-                <div class="about__blockquote-man title title--pre-medium title--dark title--w-regular">
-                    Касым-Жомарт Токаев, Президент Республики Казахстан
+            <div class="about__descr text text--large text--dark text--w-regular center">
+                Мероприятие объединит ведущих CDO, CIO, AI-экспертов и бизнес-лидеров из Казахстана, Польши, Азербайджана и Израиля, чтобы показать, как искусственный интеллект и управление данными формируют новую эпоху экономики данных.
+            </div>
+            <div class="about__descr text text--large text--dark text--w-regular center">
+                Цель саммита — помочь компаниям раскрыть ценность своих данных, внедрить передовые AI-решения и выстроить эффективные процессы управления информацией для получения стратегического преимущества.
+            </div>
+            <div class="about__descr text text--large text--dark text--w-regular center">
+                Будем рады видеть вас в числе участников!
+            </div>
+        </div>
+    </section>
+    <!-- /. About -->
+
+    <!-- About -->
+    <section class="about block-padding" id="about" style="background: #f2f2f2;">
+        <div class="about__body container">
+            <h2 class="about__heading title title--big title--dark title--w-semibold title--indent center">
+                Ключевые направления конференции
+            </h2>
+            <div class="about__grid-wysiwyg">
+                <div class="about__wysiwyg">
+                    <h3 class="title title--small title--blue title--w-bold">
+                        Экономика данных и гос. поддержка
+                    </h3>
+                    <p class="text text--small text--dark text--w-regular">
+                        Узнайте, как ведущие организации строят Data Economy и какие государственные инициативы влияют на развитие AI и управления данными в Казахстане и зарубежом.
+                    </p>
                 </div>
-            </blockquote>
-            <div class="about__list">
-                <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Всеобщий уход в облака: ключевой тренд или краткосрочное увлечение?
+                <div class="about__wysiwyg">
+                    <h3 class="title title--small title--blue title--w-bold">
+                        Agentic AI: от чат-ботов к цифровым сотрудникам
+                    </h3>
+                    <p class="text text--small text--dark text--w-regular">
+                        Услышите реальные кейсы и дискуссии, как AI-агенты выходят за рамки простых ботов, превращаясь в «цифровых коллег», и каким образом это перестраивает бизнес-модели в финансах, телекоммуникациях и других отраслях.
+                    </p>
                 </div>
-                <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Нужна ли Казахстану облачная инфраструктура?
+                <div class="about__wysiwyg">
+                    <h3 class="title title--small title--blue title--w-bold">
+                        Современное управление данными (DG & DM)
+                    </h3>
+                    <p class="text text--small text--dark text--w-regular">
+                        От Data Governance до Data Management: как крупнейшие компании (банки, телеком) устраивают качественное хранение, безопасность и эффективное использование данных, сохраняя конкурентное преимущество.
+                    </p>
                 </div>
-                <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Ключевые инструменты монетизации. Как заставить данные работать на вас?
-                </div>
-                <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Искусство маленьких шагов или цифровой трамплин: как будут развиваться инновации в нашей стране?
+                <div class="about__wysiwyg">
+                    <h3 class="title title--small title--blue title--w-bold">
+                        Технологии будущего: MDM, Data Lakehouse, Metadata Management
+                    </h3>
+                    <p class="text text--small text--dark text--w-regular">
+                        Узнайте о новейших решениях в сфере Master Data Management, Data Lakehouse-архитектур и «игровых» подходах к метаданным. Выступления Informatica, IDC, KPMG, а также опыт лидеров рынка помогут вам взглянуть на новые возможности для внедрения AI-продуктов.
+                    </p>
                 </div>
             </div>
-<!--            <div class="about__descr text text--large text--dark text--w-regular">-->
-<!--                Эти и многие другие вопросы представители госсектора, бизнеса и общественных организаций обсудят на площадке форума Atameken Business -->
-<!--                <strong>«Цифровое перерождение»</strong>.-->
-<!--            </div>-->
+            <div class="about__descr text text--large text--dark text--w-regular center">
+                Эти и другие важные вопросы обсудим на конференции 22 апреля.
+            </div>
+        </div>
+    </section>
+    <!-- /. About -->
+
+    <!-- About -->
+    <section class="about block-padding">
+        <div class="about__body container">
+            <h2 class="about__heading title title--big title--dark title--w-semibold title--indent center">
+                Для кого это мероприятие?
+            </h2>
+            <div class="about__list">
+                <div class="about__item text text--large text--dark text--w-semibold">
+                    &mdash;  CDO, CIO, CAO и лидеры цифровой трансформации.
+                </div>
+                <div class="about__item text text--large text--dark text--w-semibold">
+                    &mdash; Эксперты по управлению данными (Data Governance, Compliance), BI-аналитики и архитекторы, стремящиеся совершенствовать инфраструктуру.
+                </div>
+                <div class="about__item text text--large text--dark text--w-semibold">
+                    &mdash; Руководители из банков, телекоммуникаций, гос. сектора и крупных компании.
+                </div>
+                <div class="about__item text text--large text--dark text--w-semibold">
+                    &mdash; Разработчики и архитекторы, желающие понять нюансы Data Lakehouse, MDM и грядущих AI-технологий.
+                </div>
+            </div>
         </div>
     </section>
     <!-- /. About -->
 
     <!-- Moder -->
-    <section class="moder block-padding" id="moder">
-        <div class="moder__body container">
-            <h2 class="moder__heading title title--big title--dark title--w-semibold title--indent">
-                Модератор
-            </h2>
-            <article class="moder__card">
-                <aside class="moder__card-aside">
-                    <figure class="moder__card-figure">
-                        <img src="<?php echo STANDART_DIR ?>img/team/rozmut.jpeg" alt="" class="moder__card-photo">
-                    </figure>
-                </aside>
-                <div class="moder__card-text">
-                    <h3 class="moder__card-heading title title--pre-medium title--dark title--w-regular">
-                        Эльнора Розмут 
-                    </h3>
-                    <p class="moder__card-descr text text--normal text--dark text--w-light">
-                        Бренд-стратег, медиа менеджер, основатель и CEO медиа об IT и технологиях ER10 Media. Более 12 лет практического опыта в PR. 6 лет работала в качестве преподавателя в университетах KIMEP и AlmaU. Автор и ведущая тренингов по темам: управление репутацией, стратегии создания брендов, упаковка стартапов.
-                    </p>
-                </div>
-            </article>
-        </div>
-    </section>
+    <!--    <section class="moder block-padding" id="moder">-->
+    <!--        <div class="moder__body container">-->
+    <!--            <h2 class="moder__heading title title--big title--dark title--w-semibold title--indent">-->
+    <!--                Модератор-->
+    <!--            </h2>-->
+    <!--            <article class="moder__card">-->
+    <!--                <aside class="moder__card-aside">-->
+    <!--                    <figure class="moder__card-figure">-->
+    <!--                        <img src="--><?php //echo STANDART_DIR ?><!--img/team/rozmut.jpeg" alt="" class="moder__card-photo">-->
+    <!--                    </figure>-->
+    <!--                </aside>-->
+    <!--                <div class="moder__card-text">-->
+    <!--                    <h3 class="moder__card-heading title title--pre-medium title--dark title--w-regular">-->
+    <!--                        Эльнора Розмут -->
+    <!--                    </h3>-->
+    <!--                    <p class="moder__card-descr text text--normal text--dark text--w-light">-->
+    <!--                        Бренд-стратег, медиа менеджер, основатель и CEO медиа об IT и технологиях ER10 Media. Более 12 лет практического опыта в PR. 6 лет работала в качестве преподавателя в университетах KIMEP и AlmaU. Автор и ведущая тренингов по темам: управление репутацией, стратегии создания брендов, упаковка стартапов.-->
+    <!--                    </p>-->
+    <!--                </div>-->
+    <!--            </article>-->
+    <!--        </div>-->
+    <!--    </section>-->
     <!-- /. Moder -->
 
     <!-- Team -->
-    <section class="team bg--white block-padding" id="speakers">
+    <section class="team bg--white block-padding center" id="speakers">
         <div class="team__body container">
             <h2 class="team__heading title title--big title--dark title--w-semibold title--indent">
                 К участию приглашены
@@ -162,7 +179,7 @@
                                 Канат Абиров
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Генеральный директор DIS Group СНГ
+                                CEO DIS Group Сentral Asia, Caucasus, Ukraine & Moldova
                             </p>
                         </div>
                     </div>
@@ -172,417 +189,22 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/maxat.PNG" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/bekl.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Максат Нуриденұлы
+                                Андрей Беклемишев
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Председатель Совета Директоров
-                                АО «Береке Банк»
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/ostaf.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Андрей Остафичук
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Chief Data Officer Beeline Казахстан
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/sherbinin.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Евгений Щербинин
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Founder & CEO Prime Source
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/bernadskii.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Александр Бернадский
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Архитектор решений AWS (Amazon), Германия
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/Jay.png" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Джей Баджва
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Data Platform Sales Leader (Data Privacy) - EMEA North, Informatica Privitar (Великобритания)
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/asem.JPEG" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Асем Болатжан
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Управляющий директор АО «Казпочта»
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/islam.png" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Ислам Зеидан
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Глава офиса Informatica в Центральной и Восточной Европе и Африке
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/kuat.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Куат Сандалов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор по цифровизации и управлению большими данными ДИТ АО «Казахтелеком»
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/strelcov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Станислав Стрельцов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Chief Data Officer Tele2/ALTEL
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/ekim.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Эдуард Ким
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Начальник управления по анализу и архитектуре данных Technodom
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/daler.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Далер Хабибов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Архитектор Хранилища Данных, Freedom Bank
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/hmelev.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Антон Хмелев
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Исполнительный директор (CDO) Forte Bank
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/oleg.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Олег Гиацинтов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Технический директор DIS Group
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/bolat.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Болат Таймагамбетов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Бизнес-архитектор DIS Group
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/zarina.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Зарина Жапарова
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор Департамента Управления Данными CDO Евразийский Банк
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/gazis.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Газиз Ермеков
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Заместитель Председателя Правления, Член Правления
-                                Евразийский Банк
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/tixonov.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Олег Тихонов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор, руководитель практики Data Strategy & Data Governance Axellect
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/aijan.png" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Айжан Оралбеккызы
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Manager Data Analytics PwC
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/dyessentay.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Дана Есентай
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Старший консультант группы кибербезопасности KPMG Кавказ и Центральная Азия
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/pimenov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Василий Пименов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Старший Консультант IDC
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/mishchuk.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Роман Машчык
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Член Правления, Заместитель Председателя Правления, Глава риск-менеджмента АО «Халык Банк»
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/asakaev.jpeg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Арман Асакаев
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Начальник Проектного офиса Национальной платежной корпорации Казахстана
+                                Председатель Общественного Совета Министерства цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан
+                                <br>
+                                Вице-президент Международной академии CIO
+                                <br>
+                                Член Правления Сообщества казахстанских ИТ-менеджеров
+                                <br>
+                                Вице-президент IDC
                             </p>
                         </div>
                     </div>
@@ -596,7 +218,7 @@
     <!-- Programm -->
     <section class="programm block-padding" id="programm">
         <div class="programm__body container">
-            <h2 class="programm__heading title--big title--dark title--w-semibold title--indent">
+            <h2 class="programm__heading title--big title--dark title--w-semibold title--indent center">
                 Программа форума:
             </h2>
             <p class="programm__subtitle title title--medium title--dark title--w-regular hide">
@@ -605,187 +227,156 @@
             <div class="programm__list">
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        9:00 - 10:00
+                        08:30 – 09:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Регистрация
+                            Кофе-брейк
                         </h3>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        9:00 - 9:45
+                        09:30 – 09:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Welcome coffee
-                        </h3>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:00 - 10:05
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Открытие форума
+                            Приветствие-знакомство
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Эльнора Розмут
+                                Ведущий: Владимир Кущенко
                             </div>
+<!--                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">-->
+<!--                                CEO DIS Group Сentral Asia, Caucasus, Ukraine & Moldova-->
+<!--                            </div>-->
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:05 - 10:20
+                        09:50 – 10:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Цифровизация в Казахстане в 2024. Тренды и прогнозы
+                            Основные тренды и перспективы развития в 2025 году
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Канат Абиров
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Генеральный директор DIS Group СНГ
+                                CEO DeoniX
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:20 - 10:40
+                        10:00 – 10:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Стратегии управления данными от мирового лидера отрасли
+                            Стратегическое видение Казахстана: искусственный интеллект как драйвер лидерства и экономического роста.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ислам Зеидан
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Глава офиса Informatica в Центральной и Восточной Европе и Африке
+                                Министерство цифрового развития, инноваций и аэрокосмической промышленности
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:40 - 11:00
+                        10:15 – 10:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Казахтелеком: опыт эффективного использования данных
+                            Искусственный интеллект – вопрос государственной важности.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Куат Сандалов
+                                Джефф Эрлих
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Директор по цифровизации и управлению большими данными ДИТ АО «Казахтелеком»
+                                Исполнительный директор, Американская торговая палата в Казахстане
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:00 - 11:20
+                        10:30 – 10:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Почему ваш бизнес может доверять облаку
+                            Будущее управления данными с Informatica.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Александр Бернадский
+                                Яссер Шауки
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Архитектор решений AWS (Amazon), Германия
+                                Вице-президент, Informatica
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- <h3 class="programm__block-title title title--large title--blue title--w-semibold">
-                    Цифровое государство
-                </h3> -->
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:20 - 11:40
+                        10:50 – 11:05
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Внедрение GenAI: Как это связано с облаками и качеством данных?
+                            Прикладные метаданные: «Ключ к надежным конвейерам данных и Computational Governance».
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Андрей Остафичук
+                                Виктор Кесслер
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Chief Data Officer Beeline Казахстан
+                                Cо-основатель Vakamo
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:40 - 12:10
+                        11:05 – 11:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 1. Ваши данные готовы к ИИ?
+                            Агентный ИИ в экономике данных: превращение данных в автономную ценность.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущая: Эльнора Розмут
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                К участию приглашены:
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Арман Асакаев
+                                Андрей Беклемишев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Начальник Проектного офиса Национальной платежной корпорации Казахстана
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Асем Болатжан
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Управляющий директор АО «Казпочта»
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Роман Машчык
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Член Правления, Заместитель Председателя Правления, Глава риск-менеджмента АО «Халык Банк»
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Василий Пименов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Старший Консультант IDC
+                                Председатель Общественного Совета Министерства цифрового развития, инноваций и аэрокосмической промышленности,
+                                Вице-президент IDC
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:10 - 12:30
+                        11:20 – 12:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Панельная дискуссия: «От чат-ботов к цифровым сотрудникам с агентным интеллектом (Эволюция практик, ролей, орг. структур, инструментов управления данными в контексте развития ИИ и бизнеса)».
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                CDO/CAO крупной компании, продакт-лид AI-платформы, советник по госполитике в сфере ИИ, CTO AI-стартапа
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        12:00 – 12:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -793,154 +384,188 @@
                         </h3>
                     </div>
                 </div>
-                <!-- <h3 class="programm__block-title title title--large title--blue title--w-semibold">
-                    На фронтире инноваций: облако, данные, искусственный интеллект
-                </h3> -->
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:30 - 12:55
+                        12:10 – 12:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Freedom Bank: опыт использования Informatica
+                            Кейс из Казахстана: SuperApp нового поколения: бизнес-решения в режиме real-time
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Далер Хабибов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Архитектор Хранилища Данных, Freedom Bank
+                                Freedom
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:55 - 13:20
+                        12:10 – 12:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Пример внедрения в Евразийском Банке
+                            Кейс из Казахстана: Эффекты от применения Data-платформы в Банке ЦентрКредит
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Газиз Ермеков
+                                Рубина Лозовая
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Заместитель Председателя Правления, Член Правления
-                                Евразийский Банк
+                                Вице-президент по управлению данными BCC
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:20 - 13:40
+                        12:30 – 12:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Data Lakehouse - новый подход к хранению и анализу данных
+                            Кейс из Азербайджана: Как решения DG&DM помогают в реализации проектов искусственного интеллекта и бизнес-инициатив
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Болат Таймагамбетов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Бизнес-архитектор DIS Group
+                                Pasha bank
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:40 - 14:10
+                        12:50 – 13:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 2. Оптимизация бизнеса с помощью облака
+                            Кейс из Польши: Как решения DG&DM помогают в реализации проектов искусственного интеллекта и бизнес-инициатив
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущая: Эльнора Розмут
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-light">
-                                К участию приглашены:
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Антон Хмелев
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Исполнительный директор (CDO) Forte Bank
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Зарина Жапарова
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Директор Департамента Управления Данными CDO Евразийский Банк
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Станислав Стрельцов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Chief Data Officer Tele2/ALTEL
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Айжан Оралбеккызы
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Manager Data Analytics PwC
+                                Павел Барковский
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:10 - 15:10
+                        13:10 – 13:30
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Кейс из Израиля: Как решения DG&DM помогают в реализации проектов искусственного интеллекта и бизнес-инициатив
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Avi Cohen
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Leumi bank
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        13:30 – 14:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
                             Обед
                         </h3>
                     </div>
-                </div>         
+                </div>
                 <!-- <h3 class="programm__block-title title title--large title--blue title--w-semibold">
-                    Цифровое общество
+                    Цифровое государство
                 </h3> -->
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:10 - 15:30
+                        14:00 – 14:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Доступ и защита данных в облаке
+                            <span class="title title--blue">Workshop:</span>  «Создание бизнес-кейса для проекта управления НСИ (MDM)»
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Джей Баджва
+                                Болат Таймагамбетов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Data Platform Sales Leader (Data Privacy) - EMEA North, Informatica Privitar (Великобритания)
+                                Бизнес-архитектор DeoniX
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:30 - 15:55
+                        14:30 – 15:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Модернизация текущей инфраструктуры Informatica с помощью облачных решений
+                            Панельная дискуссия: «Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере: перспективы из Казахстана, Польши, Израиля и Азербайджана».
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                BCC, PashBank, Azercell, Poland,  Freedom
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:10 – 15:30
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Кейс из Азербайджана: Как решения DG&DM помогают в реализации проектов искусственного интеллекта и бизнес-инициатив
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Azercell
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:30 – 15:45
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            MDM нового поколения: Как ИИ трансформирует управление НСИ
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Яссер Салах
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Business 360 Lead, MEA Region Informatica
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        15:45 – 16:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            ИИ-агенты в действии: как извлечь реальную ценность для бизнеса
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                KPMG
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        16:00 – 16:15
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            AI-Ready данные: как Lakehouse становится основой для Data Fabric и Data Mesh
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -954,99 +579,69 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:55 - 16:15
+                        16:15 – 16:35
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Мировые тренды управления данными
+                            Кофе-брейк
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        16:15 – 16:35
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            <span class="title title--blue">Workshop:</span> «Как спроектировать устойчивый и масштабируемый Data Lakehouse».
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Олег Тихонов
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Директор, руководитель практики Data Strategy & Data Governance Axellect
+                                Дмитрий Замула
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:15 - 16:45
+                        16:35 – 16:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Дискуссия 3. Насколько безопасно быть в облаке?
+                            Заключительное слово и дальнейшие шаги
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущий: Олег Гиацинтов
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-regular">
-                                К участию приглашены:
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Максат Нуриденұлы
+                                Канат Абиров,
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Председатель Совета Директоров АО «Береке Банк»
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Александр Бернадский
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Архитектор решений AWS (Amazon), Германия
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Эдуард Ким
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Начальник управления по анализу и архитектуре данных Technodom
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Евгений Щербинин
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Founder & CEO Prime Source
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:45 - 17:05
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Безопасность данных. Действовать на опережение
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Дана Есентай
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Старший консультант группы кибербезопасности KPMG Кавказ и Центральная Азия
+                                CEO DeoniX
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:05 - 17:20
+                        16:45 – 17:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Завершение Форума. Подведение итогов и розыгрыш призов
+                            Конкурс: «Думаете, что знаете данные? Докажите это и выиграйте!»
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Ведущий: Владимир Кущенко
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        17:00 – 19:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Вечерняя программа и нетворкинг
                         </h3>
                     </div>
                 </div>
@@ -1057,13 +652,22 @@
 
     <!-- Register -->
     <section class="register block-padding">
+        <video class="register__video" autoplay muted loop playsinline poster="<?php echo STANDART_DIR ?>img/main-screen-bg.png">
+            <source src="<?php echo STANDART_DIR ?>img/video-laser.mp4" type="video/mp4">
+            <source src="<?php echo STANDART_DIR ?>img/video-laser.webm" type="video/webm">
+        </video>
         <div class="register__body container">
             <div class="register__inner">
                 <h2 class="register__heading title title--large title--white title--w-semibold">
-                    Регистрируйся сейчас!
+                    Присоединяйтесь к Digital Renaissance 2025!
                 </h2>
-                <p class="register__descr text text--large text--white text--w-light hide">
-                    Среди участников, следивших за форумом не менее 120 минут, будут разыграны призы: колонка Алиса, беспроводные наушники, и другие.
+                <div class="register__place text text--large text--white text--w-light">
+                    <b>Дата:</b> 22 апреля 2025
+                    <br>
+                    <b>Место:</b> г. Алматы
+                </div>
+                <p class="register__descr text text--large text--white text--w-light">
+                    Откройте для себя настоящее будущее данных и искусственного интеллекта! Вместе мы создаём новые правила игры в экономике данных, меняем модели взаимодействия с клиентами и партнёрами и готовимся к вызовам 2025 года. Будущее начинается здесь!
                 </p>
                 <div class="register__action">
                     <a href="javascript:;" class="register__button button button--primary" data-modal="#registration">

@@ -5,10 +5,18 @@
     overflow: hidden;
 }
 
+.register__video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
 .register__inner {
     position: relative;
     z-index: 10;
-    max-width: 600px;
+    max-width: 720px;
 }
 
 .register__decor {
@@ -32,7 +40,8 @@
     @include mobileXS(max-width, 360px);
 }
 
-.register__descr {
+.register__descr,
+.register__place {
     margin-top: 25px;
 }
 
