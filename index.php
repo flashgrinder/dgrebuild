@@ -10,13 +10,13 @@
             <div class="main-screen__body container">
                 <div class="main-screen__inner">
                     <div class="main-screen__info">
-                        <h3 class="main-screen__title title title--pre-medium title--white title--w-bold title--uppercase">
+                        <h3 class="main-screen__title title title--pre-medium title--white title--w-bold title--uppercase center">
                             Конференция
                         </h3>
-                        <h1 class="main-screen__heading title title--big title--white title--w-bold title--uppercase">
+                        <h1 class="main-screen__heading title title--big title--white title--w-bold title--uppercase center">
                             Digital Renaissance 2025
                         </h1>
-                        <h3 class="title title--medium title--white title--w-bold" style="margin-top: 30px">
+                        <h3 class="title title--medium title--white title--w-bold center" style="margin-top: 30px">
                             Экономика данных | Управление данными | AI-агенты | Тренды будущего
                         </h3>
                         <div class="main-screen__info-event">
@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="main-screen__actions" style="margin-top: 30px">
+                <div class="main-screen__actions center">
                     <a href="javascript:;" class="main-screen__button button button--primary" data-modal="#registration">
                         Зарегистрироваться
                     </a>
