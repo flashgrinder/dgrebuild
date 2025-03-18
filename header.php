@@ -130,6 +130,7 @@
             </div>
             <a href="./" class="header__logo logo">
                 <img src="<?php echo STANDART_DIR ?>img/logo.svg" alt="" class="header__logo-img logo__img">
+                <img src="<?php echo STANDART_DIR ?>img/deonix.png" alt="" class="header__logo-img logo__img">
             </a>
             <div class="header__burger-menu burger-menu js-burger">
                 <span class="burger-menu__line"></span>

@@ -14,7 +14,7 @@
                             Конференция
                         </h3>
                         <h1 class="main-screen__heading title title--big title--white title--w-bold title--uppercase center">
-                            Digital Renaissance 2025
+                            Цифровое перерождение 2025
                         </h1>
                         <h3 class="title title--medium title--white title--w-bold center" style="margin-top: 30px">
                             Экономика данных | Управление данными | AI-агенты | Тренды будущего
@@ -51,10 +51,7 @@
                 На старт! Внимание! ИИ!
             </h2>
             <div class="about__descr text text--large text--dark text--w-regular center">
-                Мероприятие объединит ведущих CDO, CIO, AI-экспертов и бизнес-лидеров из Казахстана, Польши, Азербайджана и Израиля, чтобы показать, как искусственный интеллект и управление данными формируют новую эпоху экономики данных.
-            </div>
-            <div class="about__descr text text--large text--dark text--w-regular center">
-                Цель саммита — помочь компаниям раскрыть ценность своих данных, внедрить передовые AI-решения и выстроить эффективные процессы управления информацией для получения стратегического преимущества.
+                Цель саммита — помочь компаниям раскрыть ценность своих данных, внедрить передовые AI-решения и выстроить эффективные процессы управления информацией, что позволит получить стратегическое преимущество. «Цифровое перерождение 2025» соберет ведущих CDO, CIO, AI-экспертов и бизнес-лидеров, принимающих ключевые решения в индустрии данных.
             </div>
             <div class="about__descr text text--large text--dark text--w-regular center">
                 Будем рады видеть вас в числе участников!
@@ -104,7 +101,7 @@
                 </div>
             </div>
             <div class="about__descr text text--large text--dark text--w-regular center">
-                Эти и другие важные вопросы обсудим на конференции 22 апреля.
+                Эти и другие важные вопросы обсудим на конференции 22 апреля
             </div>
         </div>
     </section>
@@ -121,7 +118,7 @@
                     &mdash;  CDO, CIO, CAO и лидеры цифровой трансформации.
                 </div>
                 <div class="about__item text text--large text--dark text--w-semibold">
-                    &mdash; Эксперты по управлению данными (Data Governance, Compliance), BI-аналитики и архитекторы, стремящиеся совершенствовать инфраструктуру.
+                    &mdash; Эксперты по управлению данными (Data Governance, Compliance).
                 </div>
                 <div class="about__item text text--large text--dark text--w-semibold">
                     &mdash; Руководители из банков, телекоммуникаций, гос. сектора и крупных компании.
@@ -170,7 +167,7 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/abirov.png" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/kanat.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
@@ -179,7 +176,7 @@
                                 Канат Абиров
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                CEO DIS Group Сentral Asia, Caucasus, Ukraine & Moldova
+                                CEO DeoniX (Dis Group)
                             </p>
                         </div>
                     </div>
@@ -205,6 +202,25 @@
                                 Член Правления Сообщества казахстанских ИТ-менеджеров
                                 <br>
                                 Вице-президент IDC
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/kessler.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Виктор Кесслер
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Cо-основатель Vakamo
                             </p>
                         </div>
                     </div>
@@ -255,7 +271,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:50 – 10:00
+                        09:45 – 10:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -266,7 +282,7 @@
                                 Канат Абиров
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                CEO DeoniX
+                                CEO DeoniX (Dis Group)
                             </div>
                         </div>
                     </div>
@@ -386,22 +402,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:10 – 12:30
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Кейс из Казахстана: SuperApp нового поколения: бизнес-решения в режиме real-time
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Freedom
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:10 – 12:30
+                        12:10 – 12:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -419,7 +420,22 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:30 – 12:50
+                        12:25 – 12:40
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Кейс из Казахстана: SuperApp нового поколения: бизнес-решения в режиме real-time
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Freedom
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        12:40 – 12:55
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -434,7 +450,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:50 – 13:10
+                        12:55 – 13:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -449,7 +465,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:10 – 13:30
+                        13:10 – 13:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -502,7 +518,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Панельная дискуссия: «Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере: перспективы из Казахстана, Польши, Израиля и Азербайджана».
+                            Панельная дискуссия: Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере: перспективы из Азербайджана, Израиля, Казахстана и Польши.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -612,10 +628,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Канат Абиров,
+                                Канат Абиров
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                CEO DeoniX
+                                CEO DeoniX (Dis Group)
                             </div>
                         </div>
                     </div>
@@ -659,12 +675,10 @@
         <div class="register__body container">
             <div class="register__inner">
                 <h2 class="register__heading title title--large title--white title--w-semibold">
-                    Присоединяйтесь к Digital Renaissance 2025!
+                    Присоединяйтесь к Цифровое перерождение 2025!
                 </h2>
                 <div class="register__place text text--large text--white text--w-light">
                     <b>Дата:</b> 22 апреля 2025
-                    <br>
-                    <b>Место:</b> г. Алматы
                 </div>
                 <p class="register__descr text text--large text--white text--w-light">
                     Откройте для себя настоящее будущее данных и искусственного интеллекта! Вместе мы создаём новые правила игры в экономике данных, меняем модели взаимодействия с клиентами и партнёрами и готовимся к вызовам 2025 года. Будущее начинается здесь!

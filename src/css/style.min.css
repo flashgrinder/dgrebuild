@@ -1197,7 +1197,7 @@ img {
 
 .main-screen {
   position: relative;
-  padding: 100px 0;
+  padding: 100px 0 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1215,7 +1215,7 @@ img {
 }
 
 .main-screen__body {
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 30px;
   border-radius: 10px;
   background: rgba(7, 8, 8, 0.53);
@@ -1265,7 +1265,7 @@ img {
 }
 
 .main-screen__info-event:first-of-type {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .main-screen__info-event {
@@ -1277,7 +1277,7 @@ img {
 }
 
 .main-screen__actions {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 /* About */
