@@ -12,7 +12,7 @@
 <!--                    <img src="--><?php //echo STANDART_DIR ?><!--img/logo-atameken-2.png" alt="" class="footer__logo-img logo__img">-->
 <!--                </div>-->
                 <div class="footer__column">
-                    <img src="<?php echo STANDART_DIR ?>img/logo.svg" alt="" class="footer__logo-img logo__img">
+                    <img src="<?php echo STANDART_DIR ?>img/deonix.png" alt="" class="footer__logo-img logo__img">
                 </div>
             </div>
             <div class="footer__decor">
@@ -25,7 +25,7 @@
         <div class="footer__bottom">
             <div class="footer__copy container">
                 <div class="footer__copy-text text text--tiny text--white text--w-light">
-                    © Copyright 2024 DIS Group. All Rights Reserved.
+                    © Copyright 2025 DeoniX. All Rights Reserved.
                 </div>
             </div>
         </div>

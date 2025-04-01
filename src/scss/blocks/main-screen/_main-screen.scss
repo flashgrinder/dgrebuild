@@ -91,7 +91,6 @@
     align-items: center;
     margin-top: 30px;
     text-align: center;
-    @include tablet(text-align, left);
 }
 
 .main-screen__actions{

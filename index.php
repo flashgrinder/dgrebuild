@@ -2,10 +2,10 @@
 
     <!-- Main-screen -->
     <section class="main-screen">
-        <video class="main-screen__video" autoplay muted loop playsinline poster="<?php echo STANDART_DIR ?>img/main-screen-bg.png">
-            <source src="<?php echo STANDART_DIR; ?>/img/video-laser.mp4" type="video/mp4">
-            <source src="<?php echo STANDART_DIR; ?>/img/video-laser.webm" type="video/webm">
-        </video>
+<!--        <video class="main-screen__video" autoplay muted loop playsinline poster="--><?php //echo STANDART_DIR ?><!--img/main-screen-bg.png">-->
+<!--            <source src="--><?php //echo STANDART_DIR; ?><!--/img/video-laser.mp4" type="video/mp4">-->
+<!--            <source src="--><?php //echo STANDART_DIR; ?><!--/img/video-laser.webm" type="video/webm">-->
+<!--        </video>-->
         <div class="main-screen__outer">
             <div class="main-screen__body container">
                 <div class="main-screen__inner">
@@ -69,34 +69,35 @@
             <div class="about__grid-wysiwyg">
                 <div class="about__wysiwyg">
                     <h3 class="title title--small title--blue title--w-bold">
-                        Экономика данных и гос. поддержка
+                        Экономика данных и ИИ: стратегический императив цифрового государства
                     </h3>
                     <p class="text text--small text--dark text--w-regular">
-                        Узнайте, как ведущие организации строят Data Economy и какие государственные инициативы влияют на развитие AI и управления данными в Казахстане и зарубежом.
+                        Развитие национальных стратегий области управления данными и ИИ как вопрос государственной важности. Как найти баланс между технологическим суверенитетом и международной кооперацией. Можно ли обеспечить стратегический контроль над критическими данными и ИИ-системами при выстраивании взаимовыгодных отношений собственных и международных экосистем.
                     </p>
                 </div>
                 <div class="about__wysiwyg">
                     <h3 class="title title--small title--blue title--w-bold">
-                        Agentic AI: от чат-ботов к цифровым сотрудникам
+                        Построение архитектуры данных для доверенного ИИ
                     </h3>
                     <p class="text text--small text--dark text--w-regular">
-                        Услышите реальные кейсы и дискуссии, как AI-агенты выходят за рамки простых ботов, превращаясь в «цифровых коллег», и каким образом это перестраивает бизнес-модели в финансах, телекоммуникациях и других отраслях.
+                        Как Data Lakehouse-архитектура, управление данными DG, DQ, MDM (НСИ) и современная инфраструктура создают необходимую основу для эффективных ИИ-решений с реальной бизнес-ценностью для новой экономики. Посетите демо-зоны лучших решений по управлению данными  и выставку технологических партнёров.
                     </p>
                 </div>
                 <div class="about__wysiwyg">
                     <h3 class="title title--small title--blue title--w-bold">
-                        Современное управление данными (DG & DM)
+                        Экономика данных и новые цифровые работники на основе ИИ-агентов
                     </h3>
                     <p class="text text--small text--dark text--w-regular">
-                        От Data Governance до Data Management: как крупнейшие компании (банки, телеком) устраивают качественное хранение, безопасность и эффективное использование данных, сохраняя конкурентное преимущество.
+                        Получите инсайты, как происходит переход от чат-ботов к полноценным ИИ-агентам: влияние на экономику данных и бизнес-процессы. Оценим готовность к появлению "цифровых работников по подписке" и их экономический эффект для бизнеса и государства.
                     </p>
                 </div>
                 <div class="about__wysiwyg">
                     <h3 class="title title--small title--blue title--w-bold">
-                        Технологии будущего: MDM, Data Lakehouse, Metadata Management
+                        Международный опыт реализации бизнес-инициатив, основанных на данных
                     </h3>
                     <p class="text text--small text--dark text--w-regular">
-                        Узнайте о новейших решениях в сфере Master Data Management, Data Lakehouse-архитектур и «игровых» подходах к метаданным. Выступления Informatica, IDC, KPMG, а также опыт лидеров рынка помогут вам взглянуть на новые возможности для внедрения AI-продуктов.
+                        Успешные проекты из Азербайджана, Израиля, Казахстана и Польши: универсальность лучших практик управления данными в разных географических и законодательных контекстах и их влияние на успех бизнес и ИИ-инициатив.
+                        Примите участие в практических воркшопах для бизнеса и архитекторов Data-платформ.
                     </p>
                 </div>
             </div>
@@ -226,6 +227,120 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/bolatt.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Болат Таймагамбетов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Бизнес-архитектор DeoniX (DIS Group)
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/mishchuk.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Роман Машчык
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+<!--                                Бизнес-архитектор DeoniX (DIS Group)-->
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/rubina.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Рубина Лозовая
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                <!--                                Бизнес-архитектор DeoniX (DIS Group)-->
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/smolenko.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Евгений Самойленко
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                <!--                                Бизнес-архитектор DeoniX (DIS Group)-->
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/alibek.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Сагадиев Адилбек Алибекович
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Главный Архитектор Технических Решений НПК НБ РК
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/ospanov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Абылайхан Оспанов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Казахтелеком
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -253,7 +368,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:30 – 09:45
+                        09:30 – 09:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -271,7 +386,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:45 – 10:00
+                        09:40 – 09:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -289,7 +404,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:00 – 10:15
+                        09:50 – 10:05
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -304,7 +419,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:15 – 10:30
+                        10:05 – 10:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -322,7 +437,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:30 – 10:50
+                        10:15 – 10:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -340,7 +455,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:50 – 11:05
+                        10:30 – 10:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -358,7 +473,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:05 – 11:20
+                        10:45 – 11:05
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -375,6 +490,18 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        11:05 – 11:20
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Перерыв
+                        </h3>
+                    </div>
+                </div>
+
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
                         11:20 – 12:00
@@ -390,19 +517,10 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:00 – 12:10
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Перерыв
-                        </h3>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:10 – 12:25
+                        12:00 – 12:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -420,7 +538,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:25 – 12:40
+                        12:15 – 12:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -435,7 +553,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:40 – 12:55
+                        12:30 – 12:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -450,7 +568,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:55 – 13:10
+                        12:45 – 13:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -465,7 +583,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:10 – 13:25
+                        13:00 – 13:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -483,7 +601,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:30 – 14:30
+                        13:15 – 14:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -496,7 +614,7 @@
                 </h3> -->
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:00 – 14:30
+                        13:45 – 14:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -514,7 +632,22 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:30 – 15:10
+                        13:45 – 14:15
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            <span class="title title--blue">Workshop:</span> «Как спроектировать устойчивый и масштабируемый Data Lakehouse».
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Дмитрий Замула
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        14:15 – 15:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -529,7 +662,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:10 – 15:30
+                        15:00 – 15:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -544,7 +677,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:30 – 15:45
+                        15:15 – 15:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -562,7 +695,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:45 – 16:00
+                        15:30 – 15:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -577,7 +710,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:00 – 16:15
+                        15:45 – 16:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -595,32 +728,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:15 – 16:35
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Кофе-брейк
-                        </h3>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:15 – 16:35
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            <span class="title title--blue">Workshop:</span> «Как спроектировать устойчивый и масштабируемый Data Lakehouse».
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Дмитрий Замула
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:35 – 16:45
+                        16:00 – 16:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -638,7 +746,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:45 – 17:00
+                        16:10 – 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -653,7 +761,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        17:00 – 19:00
+                        16:30 – 18:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -702,7 +810,7 @@
             <div class="partners__card">
                 <aside class="partners__card-aside">
                     <figure class="partners__card-figure">
-                        <img src="<?php echo STANDART_DIR ?>img/dis-logo.png" alt="" class="partners__card-photo">
+                        <img src="<?php echo STANDART_DIR ?>img/deonix-white.png" alt="" class="partners__card-photo">
                     </figure>
                 </aside>
                 <div class="partners__card-text">

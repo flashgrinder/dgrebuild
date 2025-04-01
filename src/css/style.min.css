@@ -1643,10 +1643,6 @@ img {
     margin-top: 50px;
   }
 
-  .main-screen__info-event {
-    text-align: left;
-  }
-
   .main-screen__actions {
     margin-top: 50px;
   }
@@ -1681,12 +1677,8 @@ img {
     padding: 50px 0;
   }
 
-  .header__logo-img:nth-child(2) {
-    max-width: 60px;
-  }
-
   .header__logo-img:nth-child(3) {
-    max-width: 100px;
+    max-width: 120px;
   }
 
   .main-screen {
