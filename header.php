@@ -102,7 +102,7 @@
                     <ul class="header__menu-list menu__list">
                         <li class="header__menu-item menu__item js-anchor-link">
                             <a href="#about" class="menu__link">
-                                О нас
+                                Ключевые направления
                             </a>
                         </li>
                         <li class="header__menu-item menu__item js-anchor-link">
@@ -128,11 +128,17 @@
                     </a>
                 </div>
             </div>
-            <a href="./" class="header__logo logo">
-                <img src="<?php echo STANDART_DIR ?>img/logo.svg" alt="" class="header__logo-img logo__img">
-                <img src="<?php echo STANDART_DIR ?>img/deonix.png" alt="" class="header__logo-img logo__img">
-                <img src="<?php echo STANDART_DIR ?>img/informatica.png" alt="" class="header__logo-img logo__img">
-            </a>
+            <div class="header__logo logo">
+                <a href="https://dis-group.world" class="header__logo logo">
+                    <img src="<?php echo STANDART_DIR ?>img/logo.svg" alt="" class="header__logo-img logo__img">
+                </a>
+                <a href="https://dis-group.world" class="header__logo logo">
+                    <img src="<?php echo STANDART_DIR ?>img/deonix.png" alt="" class="header__logo-img logo__img">
+                </a>
+                <a href="https://www.informatica.com" class="header__logo logo">
+                    <img src="<?php echo STANDART_DIR ?>img/informatica.png" alt="" class="header__logo-img logo__img">
+                </a>
+            </div>
             <div class="header__burger-menu burger-menu js-burger">
                 <span class="burger-menu__line"></span>
             </div>

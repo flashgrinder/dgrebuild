@@ -5,14 +5,29 @@
     <footer class="footer gs-reveal">
         <div class="footer__body container">
             <div class="footer__inner">
-<!--                <div class="footer__column">-->
-<!--                    <img src="--><?php //echo STANDART_DIR ?><!--img/logo-atameken-1.png" alt="" class="footer__logo-img logo__img">-->
-<!--                </div>-->
-<!--                <div class="footer__column">-->
-<!--                    <img src="--><?php //echo STANDART_DIR ?><!--img/logo-atameken-2.png" alt="" class="footer__logo-img logo__img">-->
-<!--                </div>-->
                 <div class="footer__column">
-                    <img src="<?php echo STANDART_DIR ?>img/deonix.png" alt="" class="footer__logo-img logo__img">
+                    <div class="footer__title ">
+                        Мы в соц.сетях:
+                    </div>
+                    <ul class="footer__links">
+                        <li class="">
+                            <a href="https://www.linkedin.com/company/dig-group-data-integration-software-/posts/" class="footer__link">Linkedin</a>
+                        </li>
+                        <li class="">
+                            <a href="https://www.youtube.com/channel/UCA_JNA9tmm3yVYsyg-NgmTg" class="footer__link">YouTube</a>
+                        </li>
+                        <li class="">
+                            <a href="https://www.facebook.com/profile.php?id=100063803151780" class="footer__link">Facebook</a>
+                        </li>
+                        <li class="">
+                            <a href="https://www.instagram.com/dis.group/" class="footer__link">Instagram</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer__column">
+                    <a href="https://dis-group.world">
+                        <img src="<?php echo STANDART_DIR ?>img/deonix.png" alt="" class="footer__logo-img logo__img">
+                    </a>
                 </div>
             </div>
             <div class="footer__decor">

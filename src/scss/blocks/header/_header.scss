@@ -38,19 +38,19 @@
     max-width: 130px;
 }
 
-.header__logo-img:first-child {
+.header__logo a:first-child .header__logo-img {
     max-width: 50px;
     margin-right: 15px;
 }
 
-.header__logo-img:nth-child(2) {
+.header__logo a:nth-child(2) .header__logo-img {
     max-width: 100px;
     //@include mobile-block {
     //    max-width: 60px;
     //}
 }
 
-.header__logo-img:nth-child(3) {
+.header__logo a:nth-child(3) .header__logo-img {
     max-width: 175px;
     @include mobile-block {
         max-width: 120px;

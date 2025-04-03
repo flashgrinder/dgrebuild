@@ -16,8 +16,6 @@
     align-items: center;
 }
 
-
-
 .footer__logo-img {
     display: block;
     max-width: 200px;
@@ -38,4 +36,23 @@
     text-align: center;
     padding: 12px 0;
     background: #070808;
+}
+
+.footer__title {
+    color: var(--color-white);
+    font-size: 20px;
+}
+
+.footer__links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 30px 0 0;
+    gap: 15px;
+}
+
+.footer__link {
+    color: var(--color-white);
+    text-decoration: none;
 }
