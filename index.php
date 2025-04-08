@@ -64,7 +64,7 @@
     <section class="about block-padding" id="about" style="background: #f2f2f2;">
         <div class="about__body container">
             <h2 class="about__heading title title--big title--dark title--w-semibold title--indent center">
-                Ключевые направления конференции
+                Ключевые направления форума
             </h2>
             <div class="about__grid-wysiwyg">
                 <div class="about__wysiwyg">
@@ -102,7 +102,7 @@
                 </div>
             </div>
             <div class="about__descr text text--large text--dark text--w-regular center">
-                Эти и другие важные вопросы обсудим на конференции 22 апреля
+                Эти и другие важные вопросы обсудим на форуме 22 апреля
             </div>
         </div>
     </section>
@@ -177,7 +177,7 @@
                                 Канат Абиров
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                CEO DeoniX (Dis Group)
+                                CEO DeoniX (DIS Group)
                             </p>
                         </div>
                     </div>
@@ -260,6 +260,25 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Член правления, заместитель председателя правления, глава риск-менеджмента, АО "Народный банк Казахстана"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/sabir.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Сабир Морданов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по анализу данных и искусственному интеллекту, Azercell
                             </p>
                         </div>
                     </div>
@@ -398,6 +417,120 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/salah.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Яссер Салах
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Руководитель Business 360, регион Ближнего Востока и Африки Informatica
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/yakovlev.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Вадим Яковлев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по управлению данными, ""Pasha Bank"" JSC
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/zamula.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Дмитрий Замула
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Технический директор, Платформа Данных Selena
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/zaparova.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Жапарова Зарина
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по данным, АО "Евразийский банк"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/jafar.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Джафар Пенот
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Менеджер по работе с данными и искусственным интеллектом, технологическая практика, KPMG Кавказ и Центральная Азия
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/jef.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Джефф Эрлих
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Исполнительный директор, Американская торговая палата в Казахстане
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -454,7 +587,7 @@
                                 Канат Абиров
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                CEO DeoniX (Dis Group)
+                                CEO DeoniX (DIS Group)
                             </div>
                         </div>
                     </div>
@@ -569,11 +702,6 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                CDO/CAO крупной компании, продакт-лид AI-платформы, советник по госполитике в сфере ИИ, CTO AI-стартапа
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Андрей Беклемишев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
@@ -679,10 +807,10 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Avi Cohen
+                                Guy Rassabi
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Leumi bank
+                                Директор по разработке бэкэнд-систем BI и технический руководитель, Shift4 Europe (бывший Finaro)
                             </div>
                         </div>
                     </div>
@@ -731,7 +859,7 @@
                                 Болат Таймагамбетов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Бизнес-архитектор DeoniX
+                                Бизнес-архитектор DeoniX (DIS Group)
                             </div>
                         </div>
                     </div>
@@ -742,7 +870,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Панельная дискуссия: Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере: перспективы из Азербайджана, Израиля, Казахстана и Польши.
+                            Панельная дискуссия: Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере: перспективы из Азербайджана, Израиля и Казахстана.
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -891,7 +1019,7 @@
                                 Канат Абиров
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                CEO DeoniX (Dis Group)
+                                CEO DeoniX (DIS Group)
                             </div>
                         </div>
                     </div>
@@ -917,7 +1045,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Вечерняя программа и нетворкинг
+                            Завершающая часть и нетворкинг
                         </h3>
                     </div>
                 </div>
