@@ -212,44 +212,6 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/kessler.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Виктор Кесслер
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Cо-основатель Vakamo
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/bolatt.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Болат Таймагамбетов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Бизнес-архитектор DeoniX (DIS Group)
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/mishchuk.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -269,25 +231,6 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/sabir.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Сабир Морданов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор по анализу данных и искусственному интеллекту, Azercell
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/rubina.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -297,64 +240,7 @@
                                 Рубина Лозовая
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Вице-президент по управлению данными BCC
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/smolenko.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Евгений Самойленко
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор по разработке и развитию технологий Freedom Holding Corp.
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/alibek.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Сагадиев Адилбек Алибекович
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Главный Архитектор Технических Решений НПК НБ РК
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/ospanov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Абылайхан Оспанов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
+                                Вице-президент по управлению данными, АО "Банк ЦентрКредит"
                             </p>
                         </div>
                     </div>
@@ -383,16 +269,16 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/oleg.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/jafar.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Гиацинтов Олег
+                                Джафар Пенот
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Технический директор, DIS Group
+                                Менеджер по работе с данными и искусственным интеллектом, технологическая практика, KPMG Кавказ и Центральная Азия
                             </p>
                         </div>
                     </div>
@@ -402,16 +288,35 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/daler.jpeg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/kessler.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Далер Хабибов
+                                Виктор Кесслер
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Руководитель отдела разработки данных в "Freedom Bank" JSC
+                                Cо-основатель Vakamo
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/ospanov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Абылайхан Оспанов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
                             </p>
                         </div>
                     </div>
@@ -440,6 +345,25 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/smolenko.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Евгений Самойленко
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по разработке и развитию технологий Freedom Holding Corp.
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/yakovlev.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -450,6 +374,101 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Директор по управлению данными, ""Pasha Bank"" JSC
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/zaparova.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Зарина Жапарова
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по данным, АО "Евразийский банк"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/sabir.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Сабир Морданов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по анализу данных и искусственному интеллекту, Azercell
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/alibek.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Адилбек Сагадиев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Главный Архитектор Технических Решений НПК НБ РК
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/daler.jpeg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Далер Хабибов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Руководитель отдела разработки данных, АО "Freedom Bank"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/oleg.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Гиацинтов Олег
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Технический директор DeoniX (DIS Group)
                             </p>
                         </div>
                     </div>
@@ -478,54 +497,16 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/zaparova.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/bolatt.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Жапарова Зарина
+                                Болат Таймагамбетов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор по данным, АО "Евразийский банк"
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/jafar.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Джафар Пенот
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Менеджер по работе с данными и искусственным интеллектом, технологическая практика, KPMG Кавказ и Центральная Азия
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/jef.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Джефф Эрлих
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Исполнительный директор, Американская торговая палата в Казахстане
+                                Бизнес-архитектор DeoniX (DIS Group)
                             </p>
                         </div>
                     </div>
@@ -548,7 +529,7 @@
             <div class="programm__list">
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        08:30 – 09:30
+                        09:00 – 09:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -558,7 +539,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:30 – 09:40
+                        09:40 – 09:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -576,7 +557,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:40 – 09:50
+                        09:50 – 10:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -594,7 +575,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:50 – 10:05
+                        10:00 – 10:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -603,24 +584,6 @@
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Министерство цифрового развития, инноваций и аэрокосмической промышленности
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:05 – 10:15
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Искусственный интеллект – вопрос государственной важности.
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Джефф Эрлих
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Исполнительный директор, Американская торговая палата в Казахстане
                             </div>
                         </div>
                     </div>
@@ -710,6 +673,14 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Роман Машчык
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Член правления, заместитель председателяправления, глава риск-менеджмента, АО "Народный банк Казахстана"
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Рубина Лозовая
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
@@ -722,14 +693,6 @@
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
-                            </div>
-                        </div>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Роман Машчык
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Член правления, заместитель председателяправления, глава риск-менеджмента, АО "Народный банк Казахстана"
                             </div>
                         </div>
                         <div class="programm__man">
@@ -756,7 +719,7 @@
                                 Рубина Лозовая
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Вице-президент по управлению данными BCC
+                                Вице-президент по управлению данными, АО "Банк ЦентрКредит"
                             </div>
                         </div>
                     </div>
@@ -774,7 +737,7 @@
                                 Далер Хабибов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Руководитель отдела разработки данных в "Freedom Bank" JSC
+                                Руководитель отдела разработки данных, АО "Freedom Bank"
                             </div>
                         </div>
                     </div>
@@ -900,7 +863,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:00 – 15:15
+                        14:45 – 15:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -918,7 +881,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:15 – 15:30
+                        15:00 – 15:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -936,7 +899,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:30 – 15:45
+                        15:15 – 15:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -947,14 +910,14 @@
                                 Дмитрий Замула
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Технический директор, Платформа Данных Селена
+                                Технический директор, Платформа Данных Selena
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:45 – 16:30
+                        15:30 – 16:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -965,14 +928,14 @@
                                 Дмитрий Замула
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Технический директор, Платформа Данных Селена
+                                Технический директор, Платформа Данных Selena
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:45 – 16:00
+                        15:30 – 15:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -990,7 +953,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:00 – 16:15
+                        15:45 – 16:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1001,14 +964,29 @@
                                 Олег Гиацинтов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Технический директор DIS Group
+                                Технический директор DeoniX (DIS Group)
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:15 – 16:25
+                        16:00 – 16:10
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Конкурс: «Думаете, что знаете данные? Докажите это и выиграйте!»
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Ведущий: Владимир Кущенко
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        16:10 – 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1026,22 +1004,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:25 – 16:45
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Конкурс: «Думаете, что знаете данные? Докажите это и выиграйте!»
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Ведущий: Владимир Кущенко
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:45 – 18:30
+                        16:30– 18:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
