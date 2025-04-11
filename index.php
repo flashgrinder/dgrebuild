@@ -187,31 +187,6 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/bekl.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Андрей Беклемишев
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Председатель Общественного Совета Министерства цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан
-                                <br>
-                                Вице-президент Международной академии CIO
-                                <br>
-                                Член Правления Сообщества казахстанских ИТ-менеджеров
-                                <br>
-                                Вице-президент IDC
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/mishchuk.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -222,6 +197,25 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Член правления, заместитель председателя правления, глава риск-менеджмента, АО "Народный банк Казахстана"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/ospanov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Абылайхан Оспанов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
                             </p>
                         </div>
                     </div>
@@ -269,16 +263,22 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/jafar.jpg" alt="" class="team-card__photo">
+                            <img src="<?php echo STANDART_DIR ?>img/team/bekl.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Джафар Пенот
+                                Андрей Беклемишев
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Менеджер по работе с данными и искусственным интеллектом, технологическая практика, KPMG Кавказ и Центральная Азия
+                                Председатель Общественного Совета Министерства цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан
+                                <br>
+                                Вице-президент Международной академии CIO
+                                <br>
+                                Член Правления Сообщества казахстанских ИТ-менеджеров
+                                <br>
+                                Вице-президент IDC
                             </p>
                         </div>
                     </div>
@@ -298,25 +298,6 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Cо-основатель Vakamo
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/ospanov.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Абылайхан Оспанов
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
                             </p>
                         </div>
                     </div>
@@ -408,7 +389,7 @@
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Сабир Морданов
+                                Сабир Марданов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Директор по анализу данных и искусственному интеллекту, Azercell
@@ -449,7 +430,7 @@
                                 Далер Хабибов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Руководитель отдела разработки данных, АО "Freedom Bank"
+                                Руководитель управления инженерии данных, АО "Freedom Bank"
                             </p>
                         </div>
                     </div>
@@ -507,6 +488,25 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Бизнес-архитектор DeoniX (DIS Group)
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/jafar.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Джафар Пенот
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Менеджер по работе с данными и искусственным интеллектом, технологическая практика, KPMG Кавказ и Центральная Азия
                             </p>
                         </div>
                     </div>
@@ -665,18 +665,18 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Андрей Беклемишев
+                                Роман Машчык
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Председатель Общественного Совета Министерства цифрового развития, инноваций и аэрокосмической промышленности, Вице-президент IDC
+                                Член правления, заместитель председателя правления, глава риск-менеджмента, АО "Народный банк Казахстана"
                             </div>
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Роман Машчык
+                                Абылайхан Оспанов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Член правления, заместитель председателяправления, глава риск-менеджмента, АО "Народный банк Казахстана"
+                                Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
                             </div>
                         </div>
                         <div class="programm__man">
@@ -689,10 +689,10 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Абылайхан Оспанов
+                                Андрей Беклемишев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
+                                Председатель Общественного Совета Министерства цифрового развития, инноваций и аэрокосмической промышленности, Вице-президент IDC
                             </div>
                         </div>
                         <div class="programm__man">
@@ -737,7 +737,7 @@
                                 Далер Хабибов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Руководитель отдела разработки данных, АО "Freedom Bank"
+                                Руководитель управления инженерии данных, АО "Freedom Bank"
                             </div>
                         </div>
                     </div>
@@ -788,7 +788,7 @@
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Сабир Морданов
+                                Сабир Марданов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Директор по анализу данных и искусственному интеллекту, Azercell
@@ -829,11 +829,11 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:15 – 15:00
+                        14:15 – 14:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Панельная дискуссия: Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере: перспективы из Азербайджана, Израиля и Казахстана.
+                            Панельная дискуссия: Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -845,7 +845,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Сабир Морданов
+                                Сабир Марданов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Директор по анализу данных и искусственному интеллекту, Azercell
@@ -971,7 +971,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:00 – 16:10
+                        16:00 – 16:20
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -986,7 +986,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:10 – 16:30
+                        16:20 – 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
