@@ -115,11 +115,11 @@
                                 Программа
                             </a>
                         </li>
-<!--                        <li class="header__menu-item menu__item js-anchor-link">-->
-<!--                            <a href="#partners" class="menu__link">-->
-<!--                                Партнёры-->
-<!--                            </a>-->
-<!--                        </li>-->
+                        <li class="header__menu-item menu__item js-anchor-link">
+                            <a href="#partners" class="menu__link">
+                                Партнёры
+                            </a>
+                        </li>
                     </ul>
                 </nav>
                 <div class="header__action hide">

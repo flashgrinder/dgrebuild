@@ -1,0 +1,18 @@
+.info-partners__items {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	gap: 60px;
+	@include mobile-block {
+		flex-direction: column;
+	}
+}
+
+.info-partners__item:first-child {
+	max-width: 120px;
+}
+
+.info-partners__item {
+	max-width: 220px;
+}

@@ -1516,6 +1516,24 @@ img {
   margin-top: 15px;
 }
 
+/* Info-partners */
+
+.info-partners__items {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 60px;
+}
+
+.info-partners__item:first-child {
+  max-width: 120px;
+}
+
+.info-partners__item {
+  max-width: 220px;
+}
+
 /* Thanks */
 
 .thanks__inner {
@@ -1707,6 +1725,10 @@ img {
 
   .team__items {
     grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .info-partners__items {
+    flex-direction: column;
   }
 }
 

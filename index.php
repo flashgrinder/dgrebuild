@@ -630,7 +630,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Агентный ИИ в экономике данных: превращение данных в автономную ценность.
+                            Агентный ИИ в экономике данных: Трансформация данных в автономную ценность
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -917,7 +917,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:30 – 16:15
+                        15:45 – 16:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1068,5 +1068,36 @@
         </div>
     </section>
     <!-- /. Partners -->
+
+    <section class="info-partners block-padding" id="partners">
+        <div class="info-partners__body container">
+            <h3 class="info-partners__heading title title--big title--dark title--w-semibold title--indent gs-reveal gs-reveal--from-left">
+                Информационные партнёры
+            </h3>
+            <div class="info-partners__items">
+                <a href="https://weproject.media/" class="info-partners__item">
+                    <img src="<?php echo STANDART_DIR ?>img/partners/we.jpg" alt="">
+                </a>
+                <a href="https://the-tech.kz/" class="info-partners__item">
+                    <img src="<?php echo STANDART_DIR ?>img/partners/tech.png" alt="">
+                </a>
+                <a href="https://profit.kz/" class="info-partners__item">
+                    <img src="<?php echo STANDART_DIR ?>img/partners/profit.jpg" alt="">
+                </a>
+                <a href="https://bizmedia.kz/" class="info-partners__item">
+                    <img src="<?php echo STANDART_DIR ?>img/partners/biz.svg" alt="">
+                </a>
+                <a href="https://optimism.kz/" class="info-partners__item">
+                    <img src="<?php echo STANDART_DIR ?>img/partners/optimizm.png" alt="">
+                </a>
+                <a href="https://qazaqpress.kz/" class="info-partners__item">
+                    <img src="<?php echo STANDART_DIR ?>img/partners/quazar.png" alt="">
+                </a>
+                <a href="https://bluescreen.kz/" class="info-partners__item">
+                    <img src="<?php echo STANDART_DIR ?>img/partners/blue.png" alt="">
+                </a>
+            </div>
+        </div>
+    </section>
 
 <?php get_footer(); ?>
