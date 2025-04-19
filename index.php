@@ -187,6 +187,25 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/rain.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Диана Райан
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Председатель рабочей группы по цифровизации ИИ, Американская торговая палата в Казахстане
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/mishchuk.jpeg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -216,6 +235,25 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/asakaev.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Арман Асакаев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Генеральный директор НКО FinTech AI Center
                             </p>
                         </div>
                     </div>
@@ -345,25 +383,6 @@
                 <article class="team-card">
                     <aside class="team-card__aside">
                         <figure class="team-card__figure">
-                            <img src="<?php echo STANDART_DIR ?>img/team/yakovlev.jpg" alt="" class="team-card__photo">
-                        </figure>
-                    </aside>
-                    <div class="team-card__body">
-                        <div class="team-card__text">
-                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Вадим Яковлев
-                            </h3>
-                            <p class="team-card__descr text text--normal text--dark text--w-light">
-                                Директор по управлению данными, ""Pasha Bank"" JSC
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- /. Team-card -->
-                <!-- Team-card -->
-                <article class="team-card">
-                    <aside class="team-card__aside">
-                        <figure class="team-card__figure">
                             <img src="<?php echo STANDART_DIR ?>img/team/zaparova.jpg" alt="" class="team-card__photo">
                         </figure>
                     </aside>
@@ -393,6 +412,25 @@
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Директор по анализу данных и искусственному интеллекту, Azercell
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/smilov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Смайлов Нуржан
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Директор по данным, АО "Форте Банк"
                             </p>
                         </div>
                     </div>
@@ -512,6 +550,44 @@
                     </div>
                 </article>
                 <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/yakovlev.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Вадим Яковлев
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Архитектор управления корпоративными данными, "Pasha Bank" JSC
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
+                <!-- Team-card -->
+                <article class="team-card">
+                    <aside class="team-card__aside">
+                        <figure class="team-card__figure">
+                            <img src="<?php echo STANDART_DIR ?>img/team/samoilov.jpg" alt="" class="team-card__photo">
+                        </figure>
+                    </aside>
+                    <div class="team-card__body">
+                        <div class="team-card__text">
+                            <h3 class="team-card__heading title title--small title--dark title--w-regular">
+                                Алексей Самойлов
+                            </h3>
+                            <p class="team-card__descr text text--normal text--dark text--w-light">
+                                Управляющий директор по AI, АО " НИТ"
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- /. Team-card -->
             </div>
         </div>
     </section>
@@ -529,7 +605,7 @@
             <div class="programm__list">
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:00 – 09:40
+                        09:00 – 09:50
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -539,7 +615,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:40 – 09:50
+                        09:50 – 10:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -557,7 +633,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        09:50 – 10:00
+                        10:00 – 10:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -575,22 +651,25 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:00 – 10:15
+                        10:15 – 10:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Стратегическое видение Казахстана: искусственный интеллект как драйвер лидерства и экономического роста.
+                            Искусственный интеллект – вопрос государственной важности
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Министерство цифрового развития, инноваций и аэрокосмической промышленности
+                                Диана Райан
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Председатель рабочей группы по цифровизации ИИ, Американская торговая палата в Казахстане
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:15 – 10:30
+                        10:25 – 10:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -608,7 +687,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:30 – 10:45
+                        10:40 – 10:55
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -626,7 +705,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:45 – 11:05
+                        10:55 – 11:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -646,7 +725,7 @@
 
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:05 – 11:20
+                        11:15 – 11:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -657,7 +736,7 @@
 
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        11:20 – 12:00
+                        11:30 – 12:10
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -708,7 +787,7 @@
 
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:00 – 12:15
+                        12:10 – 12:25
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -726,7 +805,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:15 – 12:30
+                        12:25 – 12:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -744,47 +823,29 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:30 – 12:45
+                        12:40 – 12:55
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Кейс из Азербайджана: Как решения DG&DM помогают в реализации проектов искусственного интеллекта и бизнес-инициатив
+                            Кейс из Азербайджана: Раскрытие ценности данных: миссия управления данными
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Вадим Яковлев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Директор по управлению данными, "Pasha Bank" JSC
+                                Архитектор управления корпоративными данными, "Pasha Bank" JSC
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        12:45 – 13:00
+                        12:55 – 13:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Кейс из Израиля: Как решения DG&DM помогают в реализации проектов искусственного интеллекта и бизнес-инициатив
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Guy Rassabi
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Директор по разработке бэкэнд-систем BI и технический руководитель, Shift4 Europe (бывший Finaro)
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        13:00 – 13:15
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Кейс из Азербайджана: Как решения DG&DM помогают в реализации проектов искусственного интеллекта и бизнес-инициатив
+                            Кейс из Азербайджана: Applied Intelligence: Повышение операционной эффективности в Azercell
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -815,7 +876,7 @@
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            <span class="title title--blue">Workshop:</span>  «Создание бизнес-кейса для проекта управления НСИ (MDM)»
+                            <span class="title title--blue">Параллельная сессия/Workshop:</span>  «Создание бизнес-кейса для проекта управления НСИ (MDM)»
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -829,18 +890,36 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:15 – 14:45
+                        14:15 – 14:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Панельная дискуссия: Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере
+                            Демократизация доступа к данным для развития ИИ
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Вадим Яковлев
+                                Арман Асакаев
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Директор по управлению данными, "Pasha Bank" JSC
+                                Генеральный директор НКО FinTech AI Center
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        14:30 – 15:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Панельная дискуссия: «Мировой опыт управления данными, продвинутой аналитики и искусственного интеллекта в телекоме и банковской сфере»
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Алексей Самойлов
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Управляющий директор по AI, АО " НИТ"
                             </div>
                         </div>
                         <div class="programm__man">
@@ -853,17 +932,41 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Смайлов Нуржан
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Директор по данным, АО "Форте Банк"
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Жапарова Зарина
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Директор по данным, АО "Евразийский банк"
                             </div>
                         </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Константин Старков
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Руководитель отдела больших данных, АО "Кселл"
+                            </div>
+                        </div>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Вадим Яковлев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Архитектор управления корпоративными данными, Pasha Bank
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        14:45 – 15:00
+                        15:00 – 15:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -881,7 +984,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:00 – 15:15
+                        15:15 – 15:3-
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -899,7 +1002,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:15 – 15:30
+                        15:30 – 15:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -917,11 +1020,11 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:45 – 16:15
+                        16:00 – 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            <span class="title title--blue">Workshop:</span> Как спроектировать устойчивый и масштабируемый Data Lakehouse.
+                            <span class="title title--blue">Параллельная сессия/Workshop:</span> Как спроектировать устойчивый и масштабируемый Data Lakehouse
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -935,7 +1038,17 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:30 – 15:45
+                        15:45 – 16:00
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Кофе-брейк
+                        </h3>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        16:00 – 16:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -953,7 +1066,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:45 – 16:00
+                        16:15 – 16:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -971,11 +1084,11 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:00 – 16:20
+                        16:30 – 16:40
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Конкурс: «Думаете, что знаете данные? Докажите это и выиграйте!»
+                            Конкурс: Думаете, что знаете данные? Докажите это и выиграйте!
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
@@ -986,7 +1099,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:20 – 16:30
+                        16:40 – 16:45
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -1004,11 +1117,11 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        16:30– 18:15
+                        16:45– 17:00
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Завершающая часть и нетворкинг
+                            Завершение
                         </h3>
                     </div>
                 </div>
