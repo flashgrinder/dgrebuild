@@ -231,7 +231,7 @@
                     <div class="team-card__body">
                         <div class="team-card__text">
                             <h3 class="team-card__heading title title--small title--dark title--w-regular">
-                                Абылайхан Оспанов
+                                Аблайхан Оспанов
                             </h3>
                             <p class="team-card__descr text text--normal text--dark text--w-light">
                                 Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
@@ -651,25 +651,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:15 – 10:25
-                    </div>
-                    <div class="programm__info">
-                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Искусственный интеллект – вопрос государственной важности
-                        </h3>
-                        <div class="programm__man">
-                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Диана Райан
-                            </div>
-                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Председатель рабочей группы по цифровизации ИИ, Американская торговая палата в Казахстане
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="programm__item">
-                    <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:25 – 10:40
+                        10:15 – 10:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -687,7 +669,26 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:40 – 10:55
+                        10:30 – 10:50
+                    </div>
+                    <div class="programm__info">
+                        <h3 class="programm__title title title--medium title--dark title--w-semibold">
+                            Агентный ИИ в экономике данных: Трансформация данных в автономную ценность
+                        </h3>
+                        <div class="programm__man">
+                            <div class="programm__man-name text text--normal text--dark text--w-semibold">
+                                Андрей Беклемишев
+                            </div>
+                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">
+                                Председатель Общественного Совета Министерства цифрового развития, инноваций и аэрокосмической промышленности,
+                                Вице-президент IDC
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="programm__item">
+                    <div class="programm__time title title--medium title--dark title--w-regular">
+                        10:50 – 11:05
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
@@ -705,19 +706,18 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        10:55 – 11:15
+                        11:05 – 11:15
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
-                            Агентный ИИ в экономике данных: Трансформация данных в автономную ценность
+                            Искусственный интеллект – вопрос государственной важности
                         </h3>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Андрей Беклемишев
+                                Диана Райан
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
-                                Председатель Общественного Совета Министерства цифрового развития, инноваций и аэрокосмической промышленности,
-                                Вице-президент IDC
+                                Председатель рабочей группы по цифровизации ИИ, Американская торговая палата в Казахстане
                             </div>
                         </div>
                     </div>
@@ -752,7 +752,7 @@
                         </div>
                         <div class="programm__man">
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
-                                Абылайхан Оспанов
+                                Аблайхан Оспанов
                             </div>
                             <div class="programm__man-rank text text--normal text--dark text--w-semibold">
                                 Генеральный директор дивизиона цифрового бизнеса - филиала АО "Казахтелеком"
@@ -984,7 +984,7 @@
                 </div>
                 <div class="programm__item">
                     <div class="programm__time title title--medium title--dark title--w-regular">
-                        15:15 – 15:3-
+                        15:15 – 15:30
                     </div>
                     <div class="programm__info">
                         <h3 class="programm__title title title--medium title--dark title--w-semibold">
