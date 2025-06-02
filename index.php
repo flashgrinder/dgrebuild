@@ -2,10 +2,10 @@
 
     <!-- Main-screen -->
     <section class="main-screen">
-<!--        <video class="main-screen__video" autoplay muted loop playsinline poster="--><?php //echo STANDART_DIR ?><!--img/main-screen-bg.png">-->
-<!--            <source src="--><?php //echo STANDART_DIR; ?><!--/img/video-laser.mp4" type="video/mp4">-->
-<!--            <source src="--><?php //echo STANDART_DIR; ?><!--/img/video-laser.webm" type="video/webm">-->
-<!--        </video>-->
+        <!--        <video class="main-screen__video" autoplay muted loop playsinline poster="--><?php //echo STANDART_DIR ?><!--img/main-screen-bg.png">-->
+        <!--            <source src="--><?php //echo STANDART_DIR; ?><!--/img/video-laser.mp4" type="video/mp4">-->
+        <!--            <source src="--><?php //echo STANDART_DIR; ?><!--/img/video-laser.webm" type="video/webm">-->
+        <!--        </video>-->
         <div class="main-screen__outer">
             <div class="main-screen__body container">
                 <div class="main-screen__inner">
@@ -625,9 +625,9 @@
                             <div class="programm__man-name text text--normal text--dark text--w-semibold">
                                 Ведущий: Владимир Кущенко
                             </div>
-<!--                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">-->
-<!--                                CEO DIS Group Сentral Asia, Caucasus, Ukraine & Moldova-->
-<!--                            </div>-->
+                            <!--                            <div class="programm__man-rank text text--normal text--dark text--w-semibold">-->
+                            <!--                                CEO DIS Group Сentral Asia, Caucasus, Ukraine & Moldova-->
+                            <!--                            </div>-->
                         </div>
                     </div>
                 </div>
